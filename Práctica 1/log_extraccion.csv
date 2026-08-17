@@ -1,0 +1,409 @@
+mes,sustancia,status,filas,detalle
+202101,Semaglutide,ok,13722.0,
+202101,Liraglutide,ok,16063.0,
+202101,Dulaglutide,ok,15637.0,
+202101,Exenatide,ok,4522.0,
+202101,Lixisenatide,ok,1554.0,
+202101,Tirzepatide,zero,,
+202102,Semaglutide,ok,13893.0,
+202102,Liraglutide,ok,15608.0,
+202102,Dulaglutide,ok,15674.0,
+202102,Exenatide,ok,4383.0,
+202102,Lixisenatide,ok,1448.0,
+202102,Tirzepatide,zero,,
+202103,Semaglutide,ok,15575.0,
+202103,Liraglutide,ok,16165.0,
+202103,Dulaglutide,ok,16542.0,
+202103,Exenatide,ok,4496.0,
+202103,Lixisenatide,ok,1488.0,
+202103,Tirzepatide,zero,,
+202104,Semaglutide,ok,16111.0,
+202104,Liraglutide,ok,15913.0,
+202104,Dulaglutide,ok,16933.0,
+202104,Exenatide,ok,4236.0,
+202104,Lixisenatide,ok,1452.0,
+202104,Tirzepatide,zero,,
+202105,Semaglutide,ok,16637.0,
+202105,Liraglutide,ok,15394.0,
+202105,Dulaglutide,ok,17299.0,
+202105,Exenatide,ok,4094.0,
+202105,Lixisenatide,ok,1427.0,
+202105,Tirzepatide,zero,,
+202106,Semaglutide,ok,17848.0,
+202106,Liraglutide,ok,15896.0,
+202106,Dulaglutide,ok,18359.0,
+202106,Exenatide,ok,4130.0,
+202106,Lixisenatide,ok,1427.0,
+202106,Tirzepatide,zero,,
+202107,Semaglutide,ok,18701.0,
+202107,Liraglutide,ok,15474.0,
+202107,Dulaglutide,ok,19044.0,
+202107,Exenatide,ok,4066.0,
+202107,Lixisenatide,ok,1387.0,
+202107,Tirzepatide,zero,,
+202108,Semaglutide,ok,18800.0,
+202108,Liraglutide,ok,14931.0,
+202108,Dulaglutide,ok,19194.0,
+202108,Exenatide,ok,3721.0,
+202108,Lixisenatide,ok,1326.0,
+202108,Tirzepatide,zero,,
+202109,Semaglutide,ok,19655.0,
+202109,Liraglutide,ok,15083.0,
+202109,Dulaglutide,ok,19979.0,
+202109,Exenatide,ok,3840.0,
+202109,Lixisenatide,ok,1304.0,
+202109,Tirzepatide,zero,,
+202110,Semaglutide,ok,19896.0,
+202110,Liraglutide,ok,14719.0,
+202110,Dulaglutide,ok,20104.0,
+202110,Exenatide,ok,3559.0,
+202110,Lixisenatide,ok,1241.0,
+202110,Tirzepatide,zero,,
+202111,Semaglutide,ok,20999.0,
+202111,Liraglutide,ok,14790.0,
+202111,Dulaglutide,ok,21020.0,
+202111,Exenatide,ok,3501.0,
+202111,Lixisenatide,ok,1229.0,
+202111,Tirzepatide,zero,,
+202112,Semaglutide,ok,21798.0,
+202112,Liraglutide,ok,14924.0,
+202112,Dulaglutide,ok,21747.0,
+202112,Exenatide,ok,3488.0,
+202112,Lixisenatide,ok,1206.0,
+202112,Tirzepatide,zero,,
+202201,Semaglutide,ok,22039.0,
+202201,Liraglutide,ok,14404.0,
+202201,Dulaglutide,ok,21815.0,
+202201,Exenatide,ok,3297.0,
+202201,Lixisenatide,ok,1186.0,
+202201,Tirzepatide,zero,,
+202202,Semaglutide,ok,22494.0,
+202202,Liraglutide,ok,13837.0,
+202202,Dulaglutide,ok,21012.0,
+202202,Exenatide,ok,3123.0,
+202202,Lixisenatide,ok,1110.0,
+202202,Tirzepatide,zero,,
+202203,Semaglutide,ok,24790.0,
+202203,Liraglutide,ok,14534.0,
+202203,Dulaglutide,ok,21545.0,
+202203,Exenatide,ok,3252.0,
+202203,Lixisenatide,ok,1159.0,
+202203,Tirzepatide,zero,,
+202204,Semaglutide,ok,24683.0,
+202204,Liraglutide,ok,14015.0,
+202204,Dulaglutide,ok,23209.0,
+202204,Exenatide,ok,3093.0,
+202204,Lixisenatide,ok,1092.0,
+202204,Tirzepatide,zero,,
+202205,Semaglutide,ok,25764.0,
+202205,Liraglutide,ok,14134.0,
+202205,Dulaglutide,ok,23488.0,
+202205,Exenatide,ok,3101.0,
+202205,Lixisenatide,ok,1054.0,
+202205,Tirzepatide,zero,,
+202206,Semaglutide,ok,26223.0,
+202206,Liraglutide,ok,13846.0,
+202206,Dulaglutide,ok,23777.0,
+202206,Exenatide,ok,2937.0,
+202206,Lixisenatide,ok,991.0,
+202206,Tirzepatide,zero,,
+202207,Semaglutide,ok,26240.0,
+202207,Liraglutide,ok,13650.0,
+202207,Dulaglutide,ok,24310.0,
+202207,Exenatide,ok,2865.0,
+202207,Lixisenatide,ok,989.0,
+202207,Tirzepatide,zero,,
+202208,Semaglutide,ok,27724.0,
+202208,Liraglutide,ok,13724.0,
+202208,Dulaglutide,ok,24845.0,
+202208,Exenatide,ok,2841.0,
+202208,Lixisenatide,ok,937.0,
+202208,Tirzepatide,zero,,
+202209,Semaglutide,ok,28163.0,
+202209,Liraglutide,ok,13449.0,
+202209,Dulaglutide,ok,25240.0,
+202209,Exenatide,ok,2759.0,
+202209,Lixisenatide,ok,928.0,
+202209,Tirzepatide,zero,,
+202210,Semaglutide,ok,31911.0,
+202210,Liraglutide,ok,13528.0,
+202210,Dulaglutide,ok,25316.0,
+202210,Exenatide,ok,2819.0,
+202210,Lixisenatide,ok,886.0,
+202210,Tirzepatide,zero,,
+202211,Semaglutide,ok,31465.0,
+202211,Liraglutide,ok,13807.0,
+202211,Dulaglutide,ok,25396.0,
+202211,Exenatide,ok,2819.0,
+202211,Lixisenatide,ok,860.0,
+202211,Tirzepatide,zero,,
+202212,Semaglutide,ok,32254.0,
+202212,Liraglutide,ok,14021.0,
+202212,Dulaglutide,ok,25487.0,
+202212,Exenatide,ok,2861.0,
+202212,Lixisenatide,ok,841.0,
+202212,Tirzepatide,zero,,
+202301,Semaglutide,ok,32833.0,
+202301,Liraglutide,ok,13953.0,
+202301,Dulaglutide,ok,25610.0,
+202301,Exenatide,ok,2734.0,
+202301,Lixisenatide,ok,821.0,
+202301,Tirzepatide,zero,,
+202302,Semaglutide,ok,32849.0,
+202302,Liraglutide,ok,13486.0,
+202302,Dulaglutide,ok,25135.0,
+202302,Exenatide,ok,2589.0,
+202302,Lixisenatide,ok,786.0,
+202302,Tirzepatide,ok,1.0,
+202303,Semaglutide,ok,35642.0,
+202303,Liraglutide,ok,14347.0,
+202303,Dulaglutide,ok,26345.0,
+202303,Exenatide,ok,2753.0,
+202303,Lixisenatide,ok,766.0,
+202303,Tirzepatide,zero,,
+202304,Semaglutide,ok,34721.0,
+202304,Liraglutide,ok,13885.0,
+202304,Dulaglutide,ok,25648.0,
+202304,Exenatide,ok,2598.0,
+202304,Lixisenatide,ok,707.0,
+202304,Tirzepatide,zero,,
+202305,Semaglutide,ok,35464.0,
+202305,Liraglutide,ok,14276.0,
+202305,Dulaglutide,ok,26596.0,
+202305,Exenatide,ok,2762.0,
+202305,Lixisenatide,ok,756.0,
+202305,Tirzepatide,zero,,
+202306,Semaglutide,ok,35430.0,
+202306,Liraglutide,ok,14048.0,
+202306,Dulaglutide,ok,27174.0,
+202306,Exenatide,ok,2984.0,
+202306,Lixisenatide,ok,721.0,
+202306,Tirzepatide,ok,1.0,
+202307,Semaglutide,ok,34121.0,
+202307,Liraglutide,ok,14249.0,
+202307,Dulaglutide,ok,27331.0,
+202307,Exenatide,ok,3189.0,
+202307,Lixisenatide,ok,740.0,
+202307,Tirzepatide,zero,,
+202308,Semaglutide,ok,32001.0,
+202308,Liraglutide,ok,12418.0,
+202308,Dulaglutide,ok,27032.0,
+202308,Exenatide,ok,3164.0,
+202308,Lixisenatide,ok,706.0,
+202308,Tirzepatide,ok,1.0,
+202309,Semaglutide,ok,32565.0,
+202309,Liraglutide,ok,12007.0,
+202309,Dulaglutide,ok,26769.0,
+202309,Exenatide,ok,3040.0,
+202309,Lixisenatide,ok,681.0,
+202309,Tirzepatide,zero,,
+202310,Semaglutide,ok,32842.0,
+202310,Liraglutide,ok,8868.0,
+202310,Dulaglutide,ok,26562.0,
+202310,Exenatide,ok,3002.0,
+202310,Lixisenatide,ok,673.0,
+202310,Tirzepatide,ok,1.0,
+202311,Semaglutide,ok,32990.0,
+202311,Liraglutide,ok,6610.0,
+202311,Dulaglutide,ok,26800.0,
+202311,Exenatide,ok,2951.0,
+202311,Lixisenatide,ok,643.0,
+202311,Tirzepatide,ok,2.0,
+202312,Semaglutide,ok,31190.0,
+202312,Liraglutide,ok,5284.0,
+202312,Dulaglutide,ok,26255.0,
+202312,Exenatide,ok,2764.0,
+202312,Lixisenatide,ok,472.0,
+202312,Tirzepatide,ok,3.0,
+202401,Semaglutide,ok,35451.0,
+202401,Liraglutide,ok,4288.0,
+202401,Dulaglutide,ok,25783.0,
+202401,Exenatide,ok,2728.0,
+202401,Lixisenatide,ok,280.0,
+202401,Tirzepatide,ok,5.0,
+202402,Semaglutide,ok,36691.0,
+202402,Liraglutide,ok,3390.0,
+202402,Dulaglutide,ok,25064.0,
+202402,Exenatide,ok,2476.0,
+202402,Lixisenatide,ok,198.0,
+202402,Tirzepatide,ok,198.0,
+202403,Semaglutide,ok,40827.0,
+202403,Liraglutide,ok,2708.0,
+202403,Dulaglutide,ok,24525.0,
+202403,Exenatide,ok,2531.0,
+202403,Lixisenatide,ok,151.0,
+202403,Tirzepatide,ok,1681.0,
+202404,Semaglutide,ok,38921.0,
+202404,Liraglutide,ok,2248.0,
+202404,Dulaglutide,ok,24721.0,
+202404,Exenatide,ok,2388.0,
+202404,Lixisenatide,ok,105.0,
+202404,Tirzepatide,ok,5090.0,
+202405,Semaglutide,ok,39532.0,
+202405,Liraglutide,ok,1838.0,
+202405,Dulaglutide,ok,23358.0,
+202405,Exenatide,ok,2366.0,
+202405,Lixisenatide,ok,80.0,
+202405,Tirzepatide,ok,8871.0,
+202406,Semaglutide,ok,39930.0,
+202406,Liraglutide,ok,1565.0,
+202406,Dulaglutide,ok,22920.0,
+202406,Exenatide,ok,2187.0,
+202406,Lixisenatide,ok,60.0,
+202406,Tirzepatide,ok,12218.0,
+202407,Semaglutide,ok,41446.0,
+202407,Liraglutide,ok,1322.0,
+202407,Dulaglutide,ok,22804.0,
+202407,Exenatide,ok,2142.0,
+202407,Lixisenatide,ok,35.0,
+202407,Tirzepatide,ok,16075.0,
+202408,Semaglutide,ok,39837.0,
+202408,Liraglutide,ok,1082.0,
+202408,Dulaglutide,ok,20937.0,
+202408,Exenatide,ok,2077.0,
+202408,Lixisenatide,ok,22.0,
+202408,Tirzepatide,ok,18774.0,
+202409,Semaglutide,ok,39507.0,
+202409,Liraglutide,ok,914.0,
+202409,Dulaglutide,ok,19851.0,
+202409,Exenatide,ok,1924.0,
+202409,Lixisenatide,ok,13.0,
+202409,Tirzepatide,ok,21329.0,
+202410,Semaglutide,ok,39809.0,
+202410,Liraglutide,ok,842.0,
+202410,Dulaglutide,ok,20316.0,
+202410,Exenatide,ok,1842.0,
+202410,Lixisenatide,ok,11.0,
+202410,Tirzepatide,ok,24747.0,
+202411,Semaglutide,ok,38717.0,
+202411,Liraglutide,ok,733.0,
+202411,Dulaglutide,ok,19624.0,
+202411,Exenatide,ok,1739.0,
+202411,Lixisenatide,ok,8.0,
+202411,Tirzepatide,ok,27088.0,
+202412,Semaglutide,ok,39136.0,
+202412,Liraglutide,ok,685.0,
+202412,Dulaglutide,ok,19339.0,
+202412,Exenatide,ok,1688.0,
+202412,Lixisenatide,ok,6.0,
+202412,Tirzepatide,ok,28940.0,
+202501,Semaglutide,ok,39428.0,
+202501,Liraglutide,ok,698.0,
+202501,Dulaglutide,ok,19207.0,
+202501,Exenatide,ok,1642.0,
+202501,Lixisenatide,ok,6.0,
+202501,Tirzepatide,ok,31622.0,
+202502,Semaglutide,ok,37627.0,
+202502,Liraglutide,ok,620.0,
+202502,Dulaglutide,ok,18362.0,
+202502,Exenatide,ok,1509.0,
+202502,Lixisenatide,ok,10.0,
+202502,Tirzepatide,ok,32645.0,
+202503,Semaglutide,ok,38644.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202503,Liraglutide,ok,715.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202503,Dulaglutide,ok,18561.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202503,Exenatide,ok,1429.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202503,Lixisenatide,ok,4.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202503,Tirzepatide,ok,35204.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202504,Semaglutide,ok,38822.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202504,Liraglutide,ok,732.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202504,Dulaglutide,ok,18382.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202504,Exenatide,ok,1377.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202504,Lixisenatide,ok,2.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202504,Tirzepatide,ok,36929.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202505,Semaglutide,ok,39685.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202505,Liraglutide,ok,766.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202505,Dulaglutide,ok,18541.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202505,Exenatide,ok,1313.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202505,Lixisenatide,ok,3.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202505,Tirzepatide,ok,39595.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202506,Semaglutide,ok,39149.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202506,Liraglutide,ok,777.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202506,Dulaglutide,ok,18043.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202506,Exenatide,ok,1245.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202506,Lixisenatide,ok,3.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202506,Tirzepatide,ok,41091.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202507,Semaglutide,ok,39998.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202507,Liraglutide,ok,859.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202507,Dulaglutide,ok,18327.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202507,Exenatide,ok,1213.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202507,Lixisenatide,ok,8.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202507,Tirzepatide,ok,43536.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202508,Semaglutide,ok,38681.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202508,Liraglutide,ok,895.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202508,Dulaglutide,ok,17454.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202508,Exenatide,ok,1139.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202508,Lixisenatide,ok,3.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202508,Tirzepatide,ok,40695.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202509,Semaglutide,ok,39265.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202509,Liraglutide,ok,900.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202509,Dulaglutide,ok,17702.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202509,Exenatide,ok,1031.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202509,Lixisenatide,ok,2.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202509,Tirzepatide,ok,46720.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202510,Semaglutide,ok,39826.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202510,Liraglutide,ok,908.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202510,Dulaglutide,ok,17558.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202510,Exenatide,ok,561.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202510,Lixisenatide,ok,1.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202510,Tirzepatide,ok,46762.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202511,Semaglutide,ok,39149.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202511,Liraglutide,ok,917.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202511,Dulaglutide,ok,17071.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202511,Exenatide,ok,349.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202511,Lixisenatide,ok,2.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202511,Tirzepatide,ok,46910.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202512,Semaglutide,ok,43185.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202512,Liraglutide,ok,887.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202512,Dulaglutide,ok,17296.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202512,Exenatide,ok,238.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202512,Lixisenatide,ok,1.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202512,Tirzepatide,ok,48576.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202601,Semaglutide,ok,44386.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202601,Liraglutide,ok,901.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202601,Dulaglutide,ok,17094.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202601,Exenatide,ok,154.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202601,Lixisenatide,zero,,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202601,Tirzepatide,ok,49182.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202602,Semaglutide,ok,42764.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202602,Liraglutide,ok,864.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202602,Dulaglutide,ok,16298.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202602,Exenatide,ok,88.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202602,Lixisenatide,zero,,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202602,Tirzepatide,ok,48666.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202603,Semaglutide,ok,45157.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202603,Liraglutide,ok,869.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202603,Dulaglutide,ok,16765.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202603,Exenatide,ok,89.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202603,Lixisenatide,zero,,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202603,Tirzepatide,ok,50826.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202604,Semaglutide,ok,44835.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202604,Liraglutide,ok,902.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202604,Dulaglutide,ok,16412.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202604,Exenatide,ok,46.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202604,Lixisenatide,zero,,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202604,Tirzepatide,ok,51222.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202605,Semaglutide,ok,43704.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202605,Liraglutide,ok,871.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202605,Dulaglutide,ok,16161.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202605,Exenatide,ok,22.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202605,Lixisenatide,zero,,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202605,Tirzepatide,ok,51966.0,"{'__type': 'Internal Server Error', 'message': 'Internal Server Error'}"
+202606,Semaglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202606,Liraglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202606,Dulaglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202606,Exenatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202606,Lixisenatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202606,Tirzepatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202607,Semaglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202607,Liraglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202607,Dulaglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202607,Exenatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202607,Lixisenatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202607,Tirzepatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202608,Semaglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202608,Liraglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202608,Dulaglutide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202608,Exenatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202608,Lixisenatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"
+202608,Tirzepatide,error,,"{'__type': 'Not Found Error', 'message': 'Not found'}"

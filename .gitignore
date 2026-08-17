@@ -1,0 +1,13 @@
+# Datasets pesados - se generan localmente corriendo el notebook de extracción,
+# no caben en GitHub (límite de 100MB por archivo)
+Práctica 1/glp1_crudo.csv
+Práctica 1/glp1_limpio.csv
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
