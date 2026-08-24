@@ -85,7 +85,7 @@ erDiagram
 - `ITEMS` = **1** → la gran mayoría de las combinaciones consultorio/mes/presentación aparecen una sola vez en el formulario de recetas.
 - `QUANTITY` = **4** → el tamaño de paquete más común (consistente con presentaciones inyectables tipo "pre-filled pens", que suelen venderse en cajas chicas).
 
-**Hallazgo — asimetría en el revenue:** en `NIC` y `ACTUAL_COST`, la media (≈$362 / ≈$351) es más del doble de la mediana (≈$157 en ambas), y el máximo (~$57,000) está muy por encima del percentil 75 (~$350-360). Esto indica una **distribución con sesgo a la derecha**: la mayoría de las recetas tienen un costo moderado, pero un grupo pequeño de recetas de costo muy alto jala el promedio hacia arriba. Este patrón es consistente con el tipo de concentración de revenue que se explora más a fondo en la sección de agrupamiento.
+**Hallazgo — asimetría en el revenue:** en `NIC` y `ACTUAL_COST`, la media (≈$362 / ≈$351) es más del doble de la mediana (≈$157 en ambas), y el máximo (~$57,000) está muy por encima del percentil 75 (~$350-360). Esto indica una **distribución con sesgo a la derecha**: la mayoría de las recetas tienen un costo moderado, pero un grupo pequeño de recetas de costo muy alto jala el promedio hacia arriba.
 
 ## Métricas de datos agrupados
 
@@ -115,14 +115,41 @@ Como `QUANTITY` promedio varía mucho entre sustancias (de 1.29 en Tirzepatide a
 | Dulaglutide | 77.93 | 17.45 | 60.48 |
 | Lixisenatide | 64.74 | 27.16 | 37.59 |
 
-**Hallazgo 2:** Al corregir por tamaño de paquete, la diferencia de precio de Tirzepatide frente a las demás sustancias **se hace más pronunciada, no menos** — pasa de ser ~1.6x más cara que la segunda (por `costo_por_item`) a ser **más de 4x** más cara que la segunda (por `precio_por_unidad`). Esto confirma que el revenue superior de Tirzepatide no se explica por vender más unidades por receta, sino por un precio unitario genuinamente más alto.
+**Hallazgo 2:** Al corregir por tamaño de paquete, la diferencia de precio de Tirzepatide frente a las demás sustancias **se hace más pronunciada, no menos** — pasa de ser ~1.6x más cara que la segunda (por `costo_por_item`) a ser **más de 4x** más cara que la segunda (por `precio_por_unidad`).
 
-**Hallazgo 3:** La columna `diferencia` muestra cuánto "inflaba" el `costo_por_item` original a cada sustancia por efecto del tamaño de paquete. Semaglutide tiene la mayor diferencia (80.46) — coincide con que también tiene el `QUANTITY` promedio más alto (15.11): gran parte de su costo por receta viene de traer más unidades, no de un precio unitario alto. Tirzepatide tiene la menor diferencia (14.85), consistente con su `QUANTITY` promedio más bajo (1.29): su `precio_por_unidad` es una medida confiable, poco distorsionada por tamaño de paquete.
+**Hallazgo 3:** La columna `diferencia` muestra cuánto "inflaba" el `costo_por_item` original a cada sustancia por efecto del tamaño de paquete. Semaglutide tiene la mayor diferencia (80.46) — coincide con que también tiene el `QUANTITY` promedio más alto (15.11). Tirzepatide tiene la menor diferencia (14.85), consistente con su `QUANTITY` promedio más bajo (1.29): su `precio_por_unidad` es una medida confiable, poco distorsionada por tamaño de paquete.
 
-**Hipótesis a verificar en Práctica 8 (Pronóstico):** Tirzepatide es, de las 6 sustancias, la de llegada más reciente al mercado (rollout en atención primaria de NHS hasta junio 2025), por lo que aún no enfrenta competencia de versiones genéricas. Si el precio elevado se debe a protección de patente / novedad, se esperaría ver una tendencia a la baja en `precio_por_unidad` conforme avance la serie de tiempo. Si se mantiene estable, la explicación probablemente sea otra (ej. posicionamiento de marca).
+**Hipótesis a verificar en Práctica 8 (Pronóstico):** Tirzepatide es la sustancia de llegada más reciente al mercado (rollout en atención primaria de NHS hasta junio 2025), por lo que aún no enfrenta competencia de versiones genéricas. Si el precio elevado se debe a protección de patente / novedad, se esperaría ver una tendencia a la baja en `precio_por_unidad` conforme avance la serie de tiempo.
 
 ### Por región
-_(pendiente — se documentará aquí una vez calculado)_
+
+| REGIONAL_OFFICE_NAME | ACTUAL_COST (revenue total) | ITEMS (recetas) | costo_por_item |
+|---|---|---|---|
+| Midlands | 316,296,400 | 3,053,609 | 103.58 |
+| South East | 257,964,000 | 2,322,990 | 111.05 |
+| North East and Yorkshire | 230,945,600 | 2,356,473 | 98.00 |
+| North West | 206,285,800 | 2,106,247 | 97.94 |
+| London | 190,662,900 | 1,605,531 | **118.75** |
+| East of England | 171,904,900 | 1,721,006 | 99.89 |
+| South West | 152,031,700 | 1,475,628 | 103.03 |
+
+**Hallazgo 4 — el mismo patrón "volumen vs. precio" se repite a nivel región:** Midlands lidera en revenue total impulsada principalmente por **volumen** (mayor `ITEMS` de las 7 regiones), con un `costo_por_item` apenas a la mitad de la tabla. London, en cambio, tiene uno de los `ITEMS` más bajo de las 7 regiones, pero el `costo_por_item` más alto por un margen amplio — su revenue se explica por **precio**, no por volumen. Es la misma dinámica ya vista entre Semaglutide (volumen) y Tirzepatide (precio), ahora replicada a nivel geográfico.
+
+**Hallazgo 5 — hipótesis descartada con evidencia:** dado el contexto investigado sobre desigualdad de acceso a GLP-1 en NHS ligada a nivel socioeconómico ("postcode lottery"), se planteó la hipótesis de que el mayor `costo_por_item` de London se debía a una mayor proporción de recetas de Tirzepatide (la sustancia más cara). Se calculó el % de `ITEMS` correspondiente a Tirzepatide por región:
+
+| Región | % Tirzepatide |
+|---|---|
+| South East | 25.74% |
+| South West | 25.42% |
+| Midlands | 23.82% |
+| North East and Yorkshire | 23.35% |
+| East of England | 22.35% |
+| **London** | **21.96%** |
+| North West | 19.63% |
+
+**La hipótesis no se sostiene:** London está en el lugar 6 de 7 en proporción de Tirzepatide — por debajo del promedio, no por encima. La mezcla de sustancias no explica el precio más alto de London.
+
+**Pregunta abierta para próximas prácticas:** si no es la mezcla de sustancias, ¿London favorece presentaciones/dosis más caras *dentro* de cada sustancia (ej. más Rybelsus/Wegovy que Ozempic genérico dentro de Semaglutide)? Pendiente de explorar con visualización (Práctica 3) o al segmentar consultorios (Práctica 7).
 
 ## Archivos
 - `practica_2.ipynb` — notebook con el análisis completo
