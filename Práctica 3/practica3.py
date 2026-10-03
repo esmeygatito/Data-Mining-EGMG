@@ -103,6 +103,14 @@ plt.tight_layout()
 plt.show()
 
 # %% Celda 13
+df_final['ANIO'] = df_final['FECHA'].dt.year
+revenue_anio_sustancia = df_final.groupby(['ANIO', 'SUSTANCIA'])['ACTUAL_COST'].sum().unstack()
+print(revenue_anio_sustancia)
+
+revenue_anio_sustancia = revenue_anio_sustancia.fillna(0)
+anios_completos = [2021, 2022, 2023, 2024, 2025]
+
+# %% Celda 14
 fig, axes = plt.subplots(2, 3, figsize=(18, 10))
 axes = axes.flatten()
 
@@ -119,7 +127,7 @@ fig.suptitle('Revenue anual por sustancia GLP-1 (2021-2025)', fontsize=14)
 plt.tight_layout()
 plt.show()
 
-# %% Celda 14
+# %% Celda 15
 fig, ax = plt.subplots(figsize=(10, 6))
 
 datos_2026 = revenue_anio_sustancia.loc[2026] / 1_000_000
@@ -135,10 +143,10 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
-# %% Celda 15
+# %% Celda 16
 ##Tirzepatide genera el mayor revenue total (£572M) de las 6 sustancias, a pesar de tener menos recetas (3.4M) que Semaglutide (4.96M, £433M) y Dulaglutide (4.89M, £381M)
 
-# %% Celda 16
+# %% Celda 17
 #box plot para comparar la distribución de costo por región
 
 medianas = df_final.groupby('REGIONAL_OFFICE_NAME')['ACTUAL_COST'].median().sort_values(ascending=False)
@@ -160,10 +168,10 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
-# %% Celda 17
+# %% Celda 18
 ##Las 7 regiones tienen precios "típicos" (medianas) bastante parecidos entre sí (£145-185), así que ninguna destaca por tener recetas más caras en general. Donde sí hay diferencias claras es en la variabilidad
 
-# %% Celda 18
+# %% Celda 19
 ##Gráfica de pastel para mostrar la composición del mercado GLP-1 por sustancia (% del revenue total)
 fig, ax = plt.subplots(figsize=(10, 8))
 colores_pastel = [color_sustancia[s] for s in revenue_por_sustancia.index]
@@ -185,15 +193,7 @@ ax.set_title('Composición del revenue del mercado GLP-1 por sustancia (2021-202
 plt.tight_layout()
 plt.show()
 
-# %% Celda 19
-df_final['ANIO'] = df_final['FECHA'].dt.year
-revenue_anio_sustancia = df_final.groupby(['ANIO', 'SUSTANCIA'])['ACTUAL_COST'].sum().unstack()
-print(revenue_anio_sustancia)
-
 # %% Celda 20
-revenue_anio_sustancia = revenue_anio_sustancia.fillna(0)
-anios_completos = [2021, 2022, 2023, 2024, 2025]
-
 fig, axes = plt.subplots(2, 3, figsize=(15, 10))
 axes = axes.flatten()
 

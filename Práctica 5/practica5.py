@@ -9,6 +9,9 @@ import matplotlib.pyplot as plt
 df_final = pd.read_csv("../Práctica 1/glp1_limpio.csv", parse_dates=['FECHA'])
 df_final['ANIO'] = df_final['FECHA'].dt.year
 
+paleta = plt.cm.tab10.colors
+sustancias_orden = ['Semaglutide', 'Liraglutide', 'Dulaglutide', 'Exenatide', 'Lixisenatide', 'Tirzepatide']
+color_sustancia = dict(zip(sustancias_orden, paleta))
 
 # %% Celda 3
 #Volumen --> revenue 
@@ -187,10 +190,6 @@ for sustancia, info in crecimiento_por_sustancia.items():
     print(f"{sustancia}: crecimiento=£{info['slope']:,.0f}/mes, R²={info['r2']:.3f}, n={info['n_puntos']}")
 
 # %% Celda 17
-paleta = plt.cm.tab10.colors
-sustancias_orden = ['Semaglutide', 'Liraglutide', 'Dulaglutide', 'Exenatide', 'Lixisenatide', 'Tirzepatide']
-color_sustancia = dict(zip(sustancias_orden, paleta))
-
 fig, axes = plt.subplots(2, 3, figsize=(18, 10))
 axes = axes.flatten()
 

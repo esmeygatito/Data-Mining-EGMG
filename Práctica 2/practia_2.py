@@ -2,7 +2,10 @@
 #Mi pregunta de investigación es: ¿Qué segmentos de consultorios están impulsando el crecimiento del "revenue" del mercado GLP-1, y cómo está cambiando la composición de ese ingreso entre sustancias a lo largo del tiempo?
 
 # %% Celda 2
+import sys
 import pandas as pd
+
+sys.stdout.reconfigure(encoding="utf-8")  # evita UnicodeEncodeError con "≈" en consolas Windows (cp1252)
 
 df_final = pd.read_csv("../Práctica 1/glp1_limpio.csv")
 

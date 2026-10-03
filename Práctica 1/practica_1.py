@@ -24,7 +24,7 @@ for resource in data['result']['resources']:
     print(resource['name'])
 
 # %% Celda 5
-print(j.get('result')) #revisar que el recurso que queremos está en la lista de recursos
+print(data.get('result')) #revisar que el recurso que queremos está en la lista de recursos
 
 # %% Celda 6
 fechas = pd.date_range(start='2021-01-01', end=pd.Timestamp.today(), freq='MS')
