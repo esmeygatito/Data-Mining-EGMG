@@ -1,0 +1,6456 @@
+PRACTICE_CODE,segmento
+A81001,Estables de bajo crecimiento
+A81002,Estables de bajo crecimiento
+A81004,Estables de bajo crecimiento
+A81005,Estables de bajo crecimiento
+A81006,En expansión
+A81007,Estables de bajo crecimiento
+A81009,Estables de bajo crecimiento
+A81011,En expansión
+A81012,Estables de bajo crecimiento
+A81013,Cuentas clave
+A81014,En expansión
+A81016,Estables de bajo crecimiento
+A81017,Estables de bajo crecimiento
+A81018,Cuentas clave
+A81019,En expansión
+A81020,Estables de bajo crecimiento
+A81021,Cuentas clave
+A81022,Estables de bajo crecimiento
+A81023,Estables de bajo crecimiento
+A81025,Estables de bajo crecimiento
+A81026,Cuentas clave
+A81027,Estables de bajo crecimiento
+A81029,Estables de bajo crecimiento
+A81030,Cuentas clave
+A81031,Cuentas clave
+A81032,En expansión
+A81034,Cuentas clave
+A81035,Estables de bajo crecimiento
+A81036,Estables de bajo crecimiento
+A81037,En expansión
+A81038,En expansión
+A81039,En expansión
+A81040,En expansión
+A81041,Cuentas clave
+A81042,Cuentas clave
+A81044,Cuentas clave
+A81045,Estables de bajo crecimiento
+A81046,Estables de bajo crecimiento
+A81048,En expansión
+A81049,Estables de bajo crecimiento
+A81051,En expansión
+A81052,Estables de bajo crecimiento
+A81053,Estables de bajo crecimiento
+A81054,En expansión
+A81056,Estables de bajo crecimiento
+A81057,Cuentas clave
+A81058,Cuentas clave
+A81060,En expansión
+A81063,Estables de bajo crecimiento
+A81064,Estables de bajo crecimiento
+A81065,En expansión
+A81066,Estables de bajo crecimiento
+A81067,Estables de bajo crecimiento
+A81070,Estables de bajo crecimiento
+A81602,En expansión
+A81608,Cuentas clave
+A81610,Estables de bajo crecimiento
+A81611,Cuentas clave
+A81612,Emergentes
+A81618,Emergentes
+A81621,En expansión
+A81622,Estables de bajo crecimiento
+A81629,En expansión
+A81631,Estables de bajo crecimiento
+A81634,Estables de bajo crecimiento
+A82003,Emergentes
+A82004,Estables de bajo crecimiento
+A82005,En expansión
+A82006,Estables de bajo crecimiento
+A82007,Estables de bajo crecimiento
+A82008,Emergentes
+A82009,Emergentes
+A82010,En expansión
+A82012,En expansión
+A82013,Estables de bajo crecimiento
+A82014,Estables de bajo crecimiento
+A82015,Emergentes
+A82018,Cuentas clave
+A82019,Estables de bajo crecimiento
+A82020,En expansión
+A82021,Cuentas clave
+A82022,Estables de bajo crecimiento
+A82023,En expansión
+A82024,En expansión
+A82025,Cuentas clave
+A82026,Estables de bajo crecimiento
+A82027,Estables de bajo crecimiento
+A82028,Estables de bajo crecimiento
+A82029,Estables de bajo crecimiento
+A82030,En expansión
+A82031,Estables de bajo crecimiento
+A82032,Cuentas clave
+A82033,En expansión
+A82035,Cuentas clave
+A82036,En expansión
+A82037,En expansión
+A82038,En expansión
+A82039,Estables de bajo crecimiento
+A82041,Cuentas clave
+A82044,Cuentas clave
+A82045,En expansión
+A82046,Estables de bajo crecimiento
+A82047,Cuentas clave
+A82053,Estables de bajo crecimiento
+A82055,Cuentas clave
+A82062,Estables de bajo crecimiento
+A82064,En expansión
+A82068,Estables de bajo crecimiento
+A82070,Estables de bajo crecimiento
+A82071,Emergentes
+A82072,Estables de bajo crecimiento
+A82075,Estables de bajo crecimiento
+A82608,Estables de bajo crecimiento
+A82617,Estables de bajo crecimiento
+A82620,Estables de bajo crecimiento
+A82629,Emergentes
+A82631,Estables de bajo crecimiento
+A82646,Estables de bajo crecimiento
+A82647,Estables de bajo crecimiento
+A82650,Estables de bajo crecimiento
+A82651,Estables de bajo crecimiento
+A82654,Estables de bajo crecimiento
+A83001,Cuentas clave
+A83003,Cuentas clave
+A83005,Cuentas clave
+A83006,Estables de bajo crecimiento
+A83007,Cuentas clave
+A83008,En expansión
+A83009,En expansión
+A83010,Cuentas clave
+A83011,En expansión
+A83012,Cuentas clave
+A83013,Estables de bajo crecimiento
+A83014,En expansión
+A83015,Cuentas clave
+A83016,Cuentas clave
+A83018,Cuentas clave
+A83020,Cuentas clave
+A83022,Cuentas clave
+A83023,Cuentas clave
+A83024,En expansión
+A83025,Cuentas clave
+A83026,Cuentas clave
+A83027,Cuentas clave
+A83028,Estables de bajo crecimiento
+A83029,En expansión
+A83030,Cuentas clave
+A83031,En expansión
+A83032,Estables de bajo crecimiento
+A83033,En expansión
+A83034,En expansión
+A83035,En expansión
+A83036,En expansión
+A83037,Cuentas clave
+A83038,En expansión
+A83040,Cuentas clave
+A83041,Cuentas clave
+A83043,Estables de bajo crecimiento
+A83044,Cuentas clave
+A83045,Cuentas clave
+A83046,En expansión
+A83047,Cuentas clave
+A83048,Emergentes
+A83049,Estables de bajo crecimiento
+A83050,Cuentas clave
+A83051,Emergentes
+A83052,Cuentas clave
+A83054,Cuentas clave
+A83055,En expansión
+A83057,Cuentas clave
+A83060,En expansión
+A83061,En expansión
+A83066,En expansión
+A83070,Cuentas clave
+A83071,En expansión
+A83072,Emergentes
+A83073,En expansión
+A83074,Estables de bajo crecimiento
+A83075,En expansión
+A83610,Estables de bajo crecimiento
+A83616,Estables de bajo crecimiento
+A83617,En expansión
+A83618,Estables de bajo crecimiento
+A83619,Estables de bajo crecimiento
+A83622,En expansión
+A83626,Emergentes
+A83627,Emergentes
+A83634,Emergentes
+A83635,En expansión
+A83636,En expansión
+A83637,Estables de bajo crecimiento
+A83641,En expansión
+A83644,Estables de bajo crecimiento
+A84002,En expansión
+A84005,En expansión
+A84006,Estables de bajo crecimiento
+A84007,Estables de bajo crecimiento
+A84008,Emergentes
+A84009,Estables de bajo crecimiento
+A84011,En expansión
+A84013,Estables de bajo crecimiento
+A84014,En expansión
+A84016,Estables de bajo crecimiento
+A84018,Estables de bajo crecimiento
+A84020,Estables de bajo crecimiento
+A84022,Estables de bajo crecimiento
+A84024,Emergentes
+A84025,Estables de bajo crecimiento
+A84026,En expansión
+A84027,Emergentes
+A84028,Estables de bajo crecimiento
+A84029,En expansión
+A84030,Emergentes
+A84031,Emergentes
+A84034,Estables de bajo crecimiento
+A84035,Estables de bajo crecimiento
+A84036,Estables de bajo crecimiento
+A84037,En expansión
+A84038,Emergentes
+A84039,Estables de bajo crecimiento
+A84040,Estables de bajo crecimiento
+A84042,Estables de bajo crecimiento
+A84044,Emergentes
+A84045,Estables de bajo crecimiento
+A84047,Estables de bajo crecimiento
+A84604,En expansión
+A84614,Estables de bajo crecimiento
+A84619,Estables de bajo crecimiento
+A85001,Estables de bajo crecimiento
+A85002,En expansión
+A85004,Estables de bajo crecimiento
+A85005,En expansión
+A85006,Cuentas clave
+A85007,Estables de bajo crecimiento
+A85008,Estables de bajo crecimiento
+A85009,En expansión
+A85010,Estables de bajo crecimiento
+A85011,Estables de bajo crecimiento
+A85013,Estables de bajo crecimiento
+A85014,Estables de bajo crecimiento
+A85016,Estables de bajo crecimiento
+A85017,En expansión
+A85018,Estables de bajo crecimiento
+A85019,En expansión
+A85020,Estables de bajo crecimiento
+A85021,Estables de bajo crecimiento
+A85023,Estables de bajo crecimiento
+A85024,Estables de bajo crecimiento
+A85026,Estables de bajo crecimiento
+A85611,Estables de bajo crecimiento
+A85614,En expansión
+A85616,Estables de bajo crecimiento
+A85617,Estables de bajo crecimiento
+A85621,Emergentes
+A86003,Estables de bajo crecimiento
+A86004,Estables de bajo crecimiento
+A86005,Estables de bajo crecimiento
+A86006,En expansión
+A86008,En expansión
+A86010,En expansión
+A86011,Estables de bajo crecimiento
+A86012,En expansión
+A86013,Estables de bajo crecimiento
+A86016,Estables de bajo crecimiento
+A86017,Cuentas clave
+A86018,En expansión
+A86020,En expansión
+A86021,En expansión
+A86022,En expansión
+A86023,En expansión
+A86024,Emergentes
+A86025,En expansión
+A86026,En expansión
+A86027,Estables de bajo crecimiento
+A86028,Estables de bajo crecimiento
+A86029,Estables de bajo crecimiento
+A86030,Cuentas clave
+A86031,Estables de bajo crecimiento
+A86033,En expansión
+A86036,Estables de bajo crecimiento
+A86037,Estables de bajo crecimiento
+A86038,Estables de bajo crecimiento
+A86040,Estables de bajo crecimiento
+A86041,Estables de bajo crecimiento
+A86601,En expansión
+A87002,Emergentes
+A87004,En expansión
+A87005,Estables de bajo crecimiento
+A87006,Estables de bajo crecimiento
+A87007,Estables de bajo crecimiento
+A87008,Emergentes
+A87009,Estables de bajo crecimiento
+A87011,Estables de bajo crecimiento
+A87012,Estables de bajo crecimiento
+A87013,Estables de bajo crecimiento
+A87016,Estables de bajo crecimiento
+A87017,Emergentes
+A87019,Estables de bajo crecimiento
+A87020,Emergentes
+A87022,Estables de bajo crecimiento
+A87023,Estables de bajo crecimiento
+A87029,Estables de bajo crecimiento
+A87030,Estables de bajo crecimiento
+A87600,Estables de bajo crecimiento
+A87612,Estables de bajo crecimiento
+A87615,Estables de bajo crecimiento
+A88001,En expansión
+A88002,Cuentas clave
+A88003,Cuentas clave
+A88004,En expansión
+A88005,En expansión
+A88006,En expansión
+A88007,Estables de bajo crecimiento
+A88008,Estables de bajo crecimiento
+A88009,Estables de bajo crecimiento
+A88010,Emergentes
+A88012,Estables de bajo crecimiento
+A88013,En expansión
+A88014,En expansión
+A88015,Emergentes
+A88016,Estables de bajo crecimiento
+A88022,En expansión
+A88023,Estables de bajo crecimiento
+A88025,Estables de bajo crecimiento
+A88601,Emergentes
+A88608,Estables de bajo crecimiento
+A88613,Estables de bajo crecimiento
+A89001,Cuentas clave
+A89002,Estables de bajo crecimiento
+A89004,Cuentas clave
+A89005,En expansión
+A89006,En expansión
+A89007,Emergentes
+A89008,En expansión
+A89009,Cuentas clave
+A89010,Cuentas clave
+A89011,En expansión
+A89012,Estables de bajo crecimiento
+A89013,En expansión
+A89015,En expansión
+A89016,Emergentes
+A89017,Emergentes
+A89018,Emergentes
+A89019,Cuentas clave
+A89020,En expansión
+A89021,Estables de bajo crecimiento
+A89022,Emergentes
+A89023,En expansión
+A89024,Emergentes
+A89025,En expansión
+A89026,Estables de bajo crecimiento
+A89027,En expansión
+A89028,Estables de bajo crecimiento
+A89030,Estables de bajo crecimiento
+A89031,En expansión
+A89032,Estables de bajo crecimiento
+A89034,En expansión
+A89035,Estables de bajo crecimiento
+A89036,En expansión
+A89040,Estables de bajo crecimiento
+A89041,En expansión
+A89614,Emergentes
+A89616,Estables de bajo crecimiento
+A89617,Emergentes
+A89623,Estables de bajo crecimiento
+B81003,Cuentas clave
+B81004,Cuentas clave
+B81005,Estables de bajo crecimiento
+B81006,Cuentas clave
+B81007,Estables de bajo crecimiento
+B81008,Cuentas clave
+B81009,En expansión
+B81011,En expansión
+B81012,En expansión
+B81013,Estables de bajo crecimiento
+B81015,Cuentas clave
+B81016,Estables de bajo crecimiento
+B81017,Cuentas clave
+B81018,Cuentas clave
+B81020,Estables de bajo crecimiento
+B81022,Cuentas clave
+B81024,Estables de bajo crecimiento
+B81025,Cuentas clave
+B81027,Estables de bajo crecimiento
+B81029,Cuentas clave
+B81030,Cuentas clave
+B81031,Cuentas clave
+B81032,Estables de bajo crecimiento
+B81034,Estables de bajo crecimiento
+B81035,En expansión
+B81036,Cuentas clave
+B81037,Cuentas clave
+B81038,Estables de bajo crecimiento
+B81040,Cuentas clave
+B81041,En expansión
+B81042,Estables de bajo crecimiento
+B81043,Cuentas clave
+B81045,Cuentas clave
+B81046,Estables de bajo crecimiento
+B81047,En expansión
+B81051,Emergentes
+B81052,Estables de bajo crecimiento
+B81054,Estables de bajo crecimiento
+B81058,Estables de bajo crecimiento
+B81063,Estables de bajo crecimiento
+B81064,Cuentas clave
+B81065,Estables de bajo crecimiento
+B81074,Estables de bajo crecimiento
+B81075,En expansión
+B81082,En expansión
+B81085,Emergentes
+B81087,Cuentas clave
+B81088,En expansión
+B81090,Estables de bajo crecimiento
+B81091,Estables de bajo crecimiento
+B81092,Estables de bajo crecimiento
+B81097,Estables de bajo crecimiento
+B81099,Estables de bajo crecimiento
+B81100,Emergentes
+B81104,En expansión
+B81108,En expansión
+B81109,Cuentas clave
+B81112,Cuentas clave
+B81113,Cuentas clave
+B81118,Cuentas clave
+B81119,Estables de bajo crecimiento
+B81606,Estables de bajo crecimiento
+B81616,En expansión
+B81617,Estables de bajo crecimiento
+B81619,Estables de bajo crecimiento
+B81628,Estables de bajo crecimiento
+B81631,Estables de bajo crecimiento
+B81635,En expansión
+B81642,Estables de bajo crecimiento
+B81645,Estables de bajo crecimiento
+B81647,Estables de bajo crecimiento
+B81648,Estables de bajo crecimiento
+B81653,En expansión
+B81655,En expansión
+B81656,Estables de bajo crecimiento
+B81663,En expansión
+B81665,Estables de bajo crecimiento
+B81666,Emergentes
+B81675,Estables de bajo crecimiento
+B81697,En expansión
+B82002,En expansión
+B82004,Estables de bajo crecimiento
+B82007,Estables de bajo crecimiento
+B82008,Estables de bajo crecimiento
+B82010,Estables de bajo crecimiento
+B82011,En expansión
+B82012,Estables de bajo crecimiento
+B82013,Cuentas clave
+B82014,Estables de bajo crecimiento
+B82016,En expansión
+B82017,Cuentas clave
+B82018,Estables de bajo crecimiento
+B82019,En expansión
+B82021,En expansión
+B82022,En expansión
+B82023,En expansión
+B82024,Estables de bajo crecimiento
+B82025,Cuentas clave
+B82026,Cuentas clave
+B82027,Cuentas clave
+B82029,Estables de bajo crecimiento
+B82030,Estables de bajo crecimiento
+B82031,Cuentas clave
+B82032,Cuentas clave
+B82033,En expansión
+B82034,Cuentas clave
+B82035,Estables de bajo crecimiento
+B82036,Estables de bajo crecimiento
+B82037,Estables de bajo crecimiento
+B82038,Cuentas clave
+B82041,Cuentas clave
+B82042,Cuentas clave
+B82044,Cuentas clave
+B82045,Estables de bajo crecimiento
+B82046,En expansión
+B82047,En expansión
+B82049,Cuentas clave
+B82050,Cuentas clave
+B82053,Estables de bajo crecimiento
+B82054,Cuentas clave
+B82057,En expansión
+B82059,Estables de bajo crecimiento
+B82060,Cuentas clave
+B82061,En expansión
+B82063,Emergentes
+B82064,En expansión
+B82066,Cuentas clave
+B82067,Estables de bajo crecimiento
+B82068,En expansión
+B82069,Estables de bajo crecimiento
+B82071,Estables de bajo crecimiento
+B82072,Emergentes
+B82073,En expansión
+B82074,Cuentas clave
+B82075,Cuentas clave
+B82077,En expansión
+B82078,Estables de bajo crecimiento
+B82079,En expansión
+B82080,Cuentas clave
+B82081,En expansión
+B82083,Cuentas clave
+B82088,Estables de bajo crecimiento
+B82091,Estables de bajo crecimiento
+B82097,Cuentas clave
+B82098,En expansión
+B82100,En expansión
+B82101,En expansión
+B82104,Cuentas clave
+B82105,Cuentas clave
+B82106,Estables de bajo crecimiento
+B82609,Estables de bajo crecimiento
+B82619,Estables de bajo crecimiento
+B82622,Estables de bajo crecimiento
+B82628,Estables de bajo crecimiento
+B83002,Emergentes
+B83005,En expansión
+B83008,Cuentas clave
+B83009,Emergentes
+B83010,Estables de bajo crecimiento
+B83012,Emergentes
+B83014,Estables de bajo crecimiento
+B83015,En expansión
+B83016,Emergentes
+B83018,Emergentes
+B83019,Emergentes
+B83020,Emergentes
+B83022,Estables de bajo crecimiento
+B83025,Estables de bajo crecimiento
+B83026,En expansión
+B83028,Emergentes
+B83029,Emergentes
+B83031,Estables de bajo crecimiento
+B83032,En expansión
+B83033,Cuentas clave
+B83034,Estables de bajo crecimiento
+B83035,Estables de bajo crecimiento
+B83037,En expansión
+B83038,Emergentes
+B83039,Cuentas clave
+B83041,Estables de bajo crecimiento
+B83042,Estables de bajo crecimiento
+B83045,En expansión
+B83051,Emergentes
+B83052,Emergentes
+B83054,Emergentes
+B83055,Cuentas clave
+B83056,Estables de bajo crecimiento
+B83058,Estables de bajo crecimiento
+B83062,Estables de bajo crecimiento
+B83063,Estables de bajo crecimiento
+B83064,En expansión
+B83067,Estables de bajo crecimiento
+B83604,Emergentes
+B83611,Estables de bajo crecimiento
+B83614,Emergentes
+B83620,Estables de bajo crecimiento
+B83621,Estables de bajo crecimiento
+B83622,Estables de bajo crecimiento
+B83624,En expansión
+B83626,Estables de bajo crecimiento
+B83627,En expansión
+B83628,Emergentes
+B83629,Emergentes
+B83641,Estables de bajo crecimiento
+B83642,En expansión
+B83653,Estables de bajo crecimiento
+B83657,Estables de bajo crecimiento
+B83659,Estables de bajo crecimiento
+B83660,En expansión
+B83661,En expansión
+B84001,Estables de bajo crecimiento
+B84003,Estables de bajo crecimiento
+B84004,Cuentas clave
+B84006,Cuentas clave
+B84007,En expansión
+B84008,En expansión
+B84009,Estables de bajo crecimiento
+B84010,Estables de bajo crecimiento
+B84011,Emergentes
+B84012,Emergentes
+B84013,Estables de bajo crecimiento
+B84014,En expansión
+B84016,Estables de bajo crecimiento
+B84019,Estables de bajo crecimiento
+B84021,Estables de bajo crecimiento
+B84612,Estables de bajo crecimiento
+B84613,En expansión
+B84618,Estables de bajo crecimiento
+B84623,Estables de bajo crecimiento
+B85001,En expansión
+B85002,Emergentes
+B85004,Estables de bajo crecimiento
+B85005,En expansión
+B85006,En expansión
+B85008,Estables de bajo crecimiento
+B85009,En expansión
+B85010,Estables de bajo crecimiento
+B85012,Estables de bajo crecimiento
+B85014,En expansión
+B85015,Estables de bajo crecimiento
+B85016,Estables de bajo crecimiento
+B85018,En expansión
+B85019,En expansión
+B85020,Estables de bajo crecimiento
+B85021,En expansión
+B85022,En expansión
+B85023,En expansión
+B85024,Estables de bajo crecimiento
+B85025,Emergentes
+B85026,Estables de bajo crecimiento
+B85027,Estables de bajo crecimiento
+B85028,Estables de bajo crecimiento
+B85030,En expansión
+B85031,En expansión
+B85032,Estables de bajo crecimiento
+B85033,Estables de bajo crecimiento
+B85036,Emergentes
+B85037,Estables de bajo crecimiento
+B85038,En expansión
+B85041,Estables de bajo crecimiento
+B85042,Estables de bajo crecimiento
+B85044,Emergentes
+B85048,Emergentes
+B85051,En expansión
+B85054,Estables de bajo crecimiento
+B85055,Estables de bajo crecimiento
+B85058,Estables de bajo crecimiento
+B85059,En expansión
+B85060,Estables de bajo crecimiento
+B85061,En expansión
+B85062,Emergentes
+B85606,Estables de bajo crecimiento
+B85610,Emergentes
+B85611,Emergentes
+B85612,Estables de bajo crecimiento
+B85614,Estables de bajo crecimiento
+B85619,Estables de bajo crecimiento
+B85620,Estables de bajo crecimiento
+B85623,Emergentes
+B85634,Emergentes
+B85636,Emergentes
+B85640,En expansión
+B85641,Estables de bajo crecimiento
+B85645,Estables de bajo crecimiento
+B85646,Estables de bajo crecimiento
+B85650,Estables de bajo crecimiento
+B85652,Estables de bajo crecimiento
+B85655,Estables de bajo crecimiento
+B85659,Estables de bajo crecimiento
+B85660,Emergentes
+B86002,En expansión
+B86003,Cuentas clave
+B86004,En expansión
+B86005,Estables de bajo crecimiento
+B86006,En expansión
+B86007,En expansión
+B86008,Estables de bajo crecimiento
+B86009,En expansión
+B86010,Estables de bajo crecimiento
+B86011,Emergentes
+B86012,Cuentas clave
+B86013,En expansión
+B86014,Estables de bajo crecimiento
+B86015,Cuentas clave
+B86016,Cuentas clave
+B86017,Estables de bajo crecimiento
+B86018,En expansión
+B86019,Emergentes
+B86020,Estables de bajo crecimiento
+B86022,En expansión
+B86024,Cuentas clave
+B86025,En expansión
+B86028,En expansión
+B86029,En expansión
+B86030,En expansión
+B86032,Cuentas clave
+B86033,Estables de bajo crecimiento
+B86034,En expansión
+B86035,Cuentas clave
+B86036,En expansión
+B86038,Estables de bajo crecimiento
+B86039,Estables de bajo crecimiento
+B86041,En expansión
+B86042,Cuentas clave
+B86043,Estables de bajo crecimiento
+B86044,Cuentas clave
+B86048,Estables de bajo crecimiento
+B86049,Estables de bajo crecimiento
+B86050,Cuentas clave
+B86051,Emergentes
+B86052,En expansión
+B86054,Estables de bajo crecimiento
+B86055,En expansión
+B86057,Cuentas clave
+B86059,En expansión
+B86060,En expansión
+B86061,Estables de bajo crecimiento
+B86062,Estables de bajo crecimiento
+B86064,En expansión
+B86066,En expansión
+B86067,Cuentas clave
+B86068,En expansión
+B86069,En expansión
+B86070,En expansión
+B86071,En expansión
+B86075,En expansión
+B86081,Cuentas clave
+B86086,Emergentes
+B86089,Estables de bajo crecimiento
+B86092,En expansión
+B86093,En expansión
+B86094,Estables de bajo crecimiento
+B86096,Estables de bajo crecimiento
+B86100,En expansión
+B86101,En expansión
+B86103,Estables de bajo crecimiento
+B86104,Estables de bajo crecimiento
+B86106,En expansión
+B86108,Estables de bajo crecimiento
+B86109,Emergentes
+B86110,Emergentes
+B86623,Estables de bajo crecimiento
+B86625,Estables de bajo crecimiento
+B86642,Estables de bajo crecimiento
+B86643,Estables de bajo crecimiento
+B86648,Emergentes
+B86655,En expansión
+B86658,Emergentes
+B86666,Estables de bajo crecimiento
+B86667,En expansión
+B86669,Estables de bajo crecimiento
+B86672,Estables de bajo crecimiento
+B86673,En expansión
+B86675,Estables de bajo crecimiento
+B86678,Estables de bajo crecimiento
+B87001,Estables de bajo crecimiento
+B87002,Emergentes
+B87003,Cuentas clave
+B87004,Cuentas clave
+B87005,Cuentas clave
+B87006,Cuentas clave
+B87007,Cuentas clave
+B87008,Cuentas clave
+B87009,Cuentas clave
+B87011,En expansión
+B87012,Emergentes
+B87013,Cuentas clave
+B87015,Estables de bajo crecimiento
+B87017,Cuentas clave
+B87018,Cuentas clave
+B87019,En expansión
+B87020,En expansión
+B87021,Cuentas clave
+B87022,Cuentas clave
+B87025,Cuentas clave
+B87026,Cuentas clave
+B87027,En expansión
+B87028,Estables de bajo crecimiento
+B87031,Cuentas clave
+B87032,Cuentas clave
+B87033,Emergentes
+B87036,En expansión
+B87039,Cuentas clave
+B87042,Cuentas clave
+B87044,Estables de bajo crecimiento
+B87602,Estables de bajo crecimiento
+B87604,Emergentes
+C81001,Estables de bajo crecimiento
+C81002,Estables de bajo crecimiento
+C81003,Estables de bajo crecimiento
+C81004,Estables de bajo crecimiento
+C81005,Estables de bajo crecimiento
+C81006,Estables de bajo crecimiento
+C81007,Estables de bajo crecimiento
+C81008,Estables de bajo crecimiento
+C81009,Estables de bajo crecimiento
+C81010,Estables de bajo crecimiento
+C81012,Estables de bajo crecimiento
+C81014,Estables de bajo crecimiento
+C81015,Estables de bajo crecimiento
+C81016,Estables de bajo crecimiento
+C81017,Estables de bajo crecimiento
+C81018,Estables de bajo crecimiento
+C81020,Estables de bajo crecimiento
+C81021,Estables de bajo crecimiento
+C81022,Estables de bajo crecimiento
+C81023,Estables de bajo crecimiento
+C81025,Emergentes
+C81026,Estables de bajo crecimiento
+C81027,Estables de bajo crecimiento
+C81028,Estables de bajo crecimiento
+C81029,Estables de bajo crecimiento
+C81030,Emergentes
+C81031,Estables de bajo crecimiento
+C81032,Estables de bajo crecimiento
+C81033,Estables de bajo crecimiento
+C81034,Estables de bajo crecimiento
+C81035,Estables de bajo crecimiento
+C81036,Estables de bajo crecimiento
+C81037,Estables de bajo crecimiento
+C81038,En expansión
+C81039,Estables de bajo crecimiento
+C81040,Estables de bajo crecimiento
+C81041,Estables de bajo crecimiento
+C81042,Estables de bajo crecimiento
+C81044,Estables de bajo crecimiento
+C81045,Estables de bajo crecimiento
+C81046,Estables de bajo crecimiento
+C81047,Estables de bajo crecimiento
+C81048,Estables de bajo crecimiento
+C81049,Estables de bajo crecimiento
+C81050,Estables de bajo crecimiento
+C81051,Cuentas clave
+C81052,Estables de bajo crecimiento
+C81053,En expansión
+C81054,Estables de bajo crecimiento
+C81055,Estables de bajo crecimiento
+C81056,Estables de bajo crecimiento
+C81057,En expansión
+C81058,Emergentes
+C81059,Estables de bajo crecimiento
+C81060,En expansión
+C81061,Estables de bajo crecimiento
+C81062,Estables de bajo crecimiento
+C81063,Estables de bajo crecimiento
+C81064,Estables de bajo crecimiento
+C81065,En expansión
+C81066,Estables de bajo crecimiento
+C81067,Estables de bajo crecimiento
+C81068,Estables de bajo crecimiento
+C81069,Estables de bajo crecimiento
+C81070,Estables de bajo crecimiento
+C81071,Estables de bajo crecimiento
+C81072,Estables de bajo crecimiento
+C81073,Estables de bajo crecimiento
+C81074,Estables de bajo crecimiento
+C81075,Estables de bajo crecimiento
+C81077,Estables de bajo crecimiento
+C81080,Estables de bajo crecimiento
+C81081,Cuentas clave
+C81082,Estables de bajo crecimiento
+C81083,Estables de bajo crecimiento
+C81084,Cuentas clave
+C81086,Estables de bajo crecimiento
+C81089,Estables de bajo crecimiento
+C81091,Estables de bajo crecimiento
+C81092,Estables de bajo crecimiento
+C81094,Estables de bajo crecimiento
+C81095,Estables de bajo crecimiento
+C81096,Estables de bajo crecimiento
+C81097,Estables de bajo crecimiento
+C81099,Emergentes
+C81101,Estables de bajo crecimiento
+C81106,Estables de bajo crecimiento
+C81108,Estables de bajo crecimiento
+C81110,Estables de bajo crecimiento
+C81113,Estables de bajo crecimiento
+C81114,Cuentas clave
+C81115,Estables de bajo crecimiento
+C81118,Estables de bajo crecimiento
+C81604,Estables de bajo crecimiento
+C81611,Estables de bajo crecimiento
+C81615,Estables de bajo crecimiento
+C81616,Estables de bajo crecimiento
+C81634,Estables de bajo crecimiento
+C81638,Estables de bajo crecimiento
+C81640,Estables de bajo crecimiento
+C81647,Estables de bajo crecimiento
+C81649,Estables de bajo crecimiento
+C81652,Estables de bajo crecimiento
+C81653,Estables de bajo crecimiento
+C81655,Estables de bajo crecimiento
+C81658,Estables de bajo crecimiento
+C81662,Estables de bajo crecimiento
+C82001,Cuentas clave
+C82002,Cuentas clave
+C82003,Cuentas clave
+C82005,Cuentas clave
+C82007,En expansión
+C82008,Cuentas clave
+C82009,Cuentas clave
+C82010,Cuentas clave
+C82011,Cuentas clave
+C82012,Cuentas clave
+C82013,Cuentas clave
+C82014,Cuentas clave
+C82016,Emergentes
+C82017,Cuentas clave
+C82018,Cuentas clave
+C82019,Cuentas clave
+C82020,Estables de bajo crecimiento
+C82021,En expansión
+C82022,En expansión
+C82024,Cuentas clave
+C82025,Cuentas clave
+C82026,En expansión
+C82027,En expansión
+C82028,Cuentas clave
+C82030,En expansión
+C82031,Cuentas clave
+C82032,En expansión
+C82033,Cuentas clave
+C82034,En expansión
+C82035,Cuentas clave
+C82037,Cuentas clave
+C82039,Cuentas clave
+C82040,Estables de bajo crecimiento
+C82041,Cuentas clave
+C82042,Cuentas clave
+C82043,Cuentas clave
+C82044,En expansión
+C82045,Emergentes
+C82046,Cuentas clave
+C82047,Emergentes
+C82048,Emergentes
+C82050,Cuentas clave
+C82051,Cuentas clave
+C82052,Estables de bajo crecimiento
+C82053,Cuentas clave
+C82054,Cuentas clave
+C82055,Cuentas clave
+C82056,Cuentas clave
+C82059,En expansión
+C82060,Estables de bajo crecimiento
+C82061,Cuentas clave
+C82062,En expansión
+C82063,Cuentas clave
+C82064,Cuentas clave
+C82066,Cuentas clave
+C82067,Emergentes
+C82068,Cuentas clave
+C82070,Cuentas clave
+C82071,Cuentas clave
+C82072,Estables de bajo crecimiento
+C82073,Cuentas clave
+C82075,Cuentas clave
+C82076,En expansión
+C82077,Cuentas clave
+C82078,Cuentas clave
+C82079,En expansión
+C82080,Estables de bajo crecimiento
+C82082,En expansión
+C82084,Estables de bajo crecimiento
+C82086,En expansión
+C82088,Cuentas clave
+C82091,Cuentas clave
+C82092,En expansión
+C82093,Cuentas clave
+C82094,Cuentas clave
+C82095,En expansión
+C82096,En expansión
+C82097,En expansión
+C82098,Estables de bajo crecimiento
+C82099,En expansión
+C82100,En expansión
+C82102,Estables de bajo crecimiento
+C82103,Cuentas clave
+C82107,Cuentas clave
+C82109,En expansión
+C82111,En expansión
+C82112,Cuentas clave
+C82114,En expansión
+C82116,Estables de bajo crecimiento
+C82119,En expansión
+C82120,En expansión
+C82121,Cuentas clave
+C82124,En expansión
+C82600,En expansión
+C82610,En expansión
+C82611,En expansión
+C82614,En expansión
+C82620,En expansión
+C82624,Estables de bajo crecimiento
+C82627,En expansión
+C82628,Emergentes
+C82631,Emergentes
+C82634,Emergentes
+C82639,Cuentas clave
+C82642,Estables de bajo crecimiento
+C82643,Cuentas clave
+C82644,En expansión
+C82649,Emergentes
+C82650,En expansión
+C82651,En expansión
+C82653,Estables de bajo crecimiento
+C82656,Estables de bajo crecimiento
+C82659,Estables de bajo crecimiento
+C82660,En expansión
+C82662,Estables de bajo crecimiento
+C82667,Cuentas clave
+C82669,En expansión
+C82671,Estables de bajo crecimiento
+C82676,Cuentas clave
+C82678,En expansión
+C82680,Estables de bajo crecimiento
+C83001,Estables de bajo crecimiento
+C83002,Estables de bajo crecimiento
+C83003,Cuentas clave
+C83004,En expansión
+C83005,Estables de bajo crecimiento
+C83007,Cuentas clave
+C83008,Cuentas clave
+C83009,En expansión
+C83010,Cuentas clave
+C83011,Cuentas clave
+C83013,Cuentas clave
+C83014,Cuentas clave
+C83015,Estables de bajo crecimiento
+C83018,Cuentas clave
+C83020,Estables de bajo crecimiento
+C83022,Estables de bajo crecimiento
+C83023,Cuentas clave
+C83024,Estables de bajo crecimiento
+C83025,Cuentas clave
+C83026,Cuentas clave
+C83027,Cuentas clave
+C83028,Estables de bajo crecimiento
+C83029,Estables de bajo crecimiento
+C83030,Estables de bajo crecimiento
+C83031,Estables de bajo crecimiento
+C83032,Estables de bajo crecimiento
+C83033,Estables de bajo crecimiento
+C83035,Estables de bajo crecimiento
+C83036,Cuentas clave
+C83037,Estables de bajo crecimiento
+C83038,Estables de bajo crecimiento
+C83039,Estables de bajo crecimiento
+C83040,Estables de bajo crecimiento
+C83041,Estables de bajo crecimiento
+C83042,Cuentas clave
+C83043,Cuentas clave
+C83044,Cuentas clave
+C83045,Cuentas clave
+C83046,En expansión
+C83048,Cuentas clave
+C83049,Estables de bajo crecimiento
+C83051,Estables de bajo crecimiento
+C83052,Estables de bajo crecimiento
+C83053,Estables de bajo crecimiento
+C83054,Estables de bajo crecimiento
+C83055,Cuentas clave
+C83056,Cuentas clave
+C83057,Estables de bajo crecimiento
+C83058,En expansión
+C83059,Estables de bajo crecimiento
+C83060,Cuentas clave
+C83061,Estables de bajo crecimiento
+C83062,Estables de bajo crecimiento
+C83063,Cuentas clave
+C83065,Cuentas clave
+C83067,Estables de bajo crecimiento
+C83072,Estables de bajo crecimiento
+C83073,Estables de bajo crecimiento
+C83074,En expansión
+C83075,Cuentas clave
+C83078,Cuentas clave
+C83079,En expansión
+C83080,Estables de bajo crecimiento
+C83082,Cuentas clave
+C83083,Estables de bajo crecimiento
+C83085,Cuentas clave
+C83611,En expansión
+C83613,Estables de bajo crecimiento
+C83614,Estables de bajo crecimiento
+C83617,Cuentas clave
+C83626,Cuentas clave
+C83634,Estables de bajo crecimiento
+C83635,Estables de bajo crecimiento
+C83641,Estables de bajo crecimiento
+C83643,Estables de bajo crecimiento
+C83649,Estables de bajo crecimiento
+C83650,Estables de bajo crecimiento
+C83653,Estables de bajo crecimiento
+C84001,Cuentas clave
+C84004,Estables de bajo crecimiento
+C84005,Estables de bajo crecimiento
+C84008,Estables de bajo crecimiento
+C84009,Estables de bajo crecimiento
+C84010,En expansión
+C84011,Estables de bajo crecimiento
+C84012,Cuentas clave
+C84013,Cuentas clave
+C84014,Estables de bajo crecimiento
+C84016,Cuentas clave
+C84017,Estables de bajo crecimiento
+C84018,En expansión
+C84019,Estables de bajo crecimiento
+C84020,Estables de bajo crecimiento
+C84021,Cuentas clave
+C84023,En expansión
+C84024,Cuentas clave
+C84025,Estables de bajo crecimiento
+C84026,Estables de bajo crecimiento
+C84028,Estables de bajo crecimiento
+C84029,Cuentas clave
+C84030,Cuentas clave
+C84031,Estables de bajo crecimiento
+C84032,Estables de bajo crecimiento
+C84033,En expansión
+C84034,Estables de bajo crecimiento
+C84035,Estables de bajo crecimiento
+C84036,Cuentas clave
+C84037,Estables de bajo crecimiento
+C84039,Estables de bajo crecimiento
+C84042,Estables de bajo crecimiento
+C84043,En expansión
+C84044,Estables de bajo crecimiento
+C84045,En expansión
+C84046,Estables de bajo crecimiento
+C84047,Estables de bajo crecimiento
+C84049,En expansión
+C84051,Cuentas clave
+C84053,En expansión
+C84055,Estables de bajo crecimiento
+C84057,En expansión
+C84059,Cuentas clave
+C84060,Estables de bajo crecimiento
+C84061,Estables de bajo crecimiento
+C84063,Estables de bajo crecimiento
+C84064,Estables de bajo crecimiento
+C84065,Estables de bajo crecimiento
+C84066,En expansión
+C84067,En expansión
+C84069,Cuentas clave
+C84072,Estables de bajo crecimiento
+C84074,Estables de bajo crecimiento
+C84076,En expansión
+C84077,Cuentas clave
+C84078,Estables de bajo crecimiento
+C84080,En expansión
+C84081,Estables de bajo crecimiento
+C84084,Estables de bajo crecimiento
+C84085,Estables de bajo crecimiento
+C84086,Estables de bajo crecimiento
+C84087,Estables de bajo crecimiento
+C84090,Estables de bajo crecimiento
+C84091,Estables de bajo crecimiento
+C84092,Estables de bajo crecimiento
+C84094,Cuentas clave
+C84095,Estables de bajo crecimiento
+C84101,Emergentes
+C84103,Estables de bajo crecimiento
+C84105,Estables de bajo crecimiento
+C84106,Estables de bajo crecimiento
+C84107,Estables de bajo crecimiento
+C84112,Estables de bajo crecimiento
+C84113,En expansión
+C84115,Estables de bajo crecimiento
+C84116,Estables de bajo crecimiento
+C84117,Estables de bajo crecimiento
+C84120,Estables de bajo crecimiento
+C84122,Estables de bajo crecimiento
+C84123,En expansión
+C84129,En expansión
+C84131,Estables de bajo crecimiento
+C84136,Estables de bajo crecimiento
+C84140,Estables de bajo crecimiento
+C84142,Estables de bajo crecimiento
+C84144,Estables de bajo crecimiento
+C84150,Estables de bajo crecimiento
+C84605,Estables de bajo crecimiento
+C84613,Estables de bajo crecimiento
+C84619,Estables de bajo crecimiento
+C84621,En expansión
+C84624,Estables de bajo crecimiento
+C84628,Estables de bajo crecimiento
+C84629,En expansión
+C84637,En expansión
+C84646,Estables de bajo crecimiento
+C84654,En expansión
+C84656,En expansión
+C84658,Cuentas clave
+C84660,Estables de bajo crecimiento
+C84664,En expansión
+C84667,Estables de bajo crecimiento
+C84676,Estables de bajo crecimiento
+C84679,En expansión
+C84682,En expansión
+C84683,Estables de bajo crecimiento
+C84691,Estables de bajo crecimiento
+C84692,Estables de bajo crecimiento
+C84693,Estables de bajo crecimiento
+C84694,Estables de bajo crecimiento
+C84695,Estables de bajo crecimiento
+C84696,En expansión
+C84703,Estables de bajo crecimiento
+C84704,En expansión
+C84705,Estables de bajo crecimiento
+C84714,Estables de bajo crecimiento
+C85001,Estables de bajo crecimiento
+C85003,Cuentas clave
+C85004,Estables de bajo crecimiento
+C85005,En expansión
+C85006,En expansión
+C85007,Estables de bajo crecimiento
+C85008,Cuentas clave
+C85009,En expansión
+C85010,Cuentas clave
+C85013,En expansión
+C85014,Estables de bajo crecimiento
+C85016,En expansión
+C85017,En expansión
+C85018,En expansión
+C85019,Estables de bajo crecimiento
+C85020,Estables de bajo crecimiento
+C85022,En expansión
+C85023,Estables de bajo crecimiento
+C85024,Estables de bajo crecimiento
+C85028,Estables de bajo crecimiento
+C85030,Cuentas clave
+C85033,En expansión
+C85614,Estables de bajo crecimiento
+C85619,Estables de bajo crecimiento
+C85622,Estables de bajo crecimiento
+C85623,En expansión
+C86001,Cuentas clave
+C86002,Estables de bajo crecimiento
+C86003,Cuentas clave
+C86005,En expansión
+C86006,En expansión
+C86007,Cuentas clave
+C86009,En expansión
+C86011,Cuentas clave
+C86012,Cuentas clave
+C86013,Estables de bajo crecimiento
+C86015,Estables de bajo crecimiento
+C86016,Estables de bajo crecimiento
+C86017,Cuentas clave
+C86018,En expansión
+C86019,Cuentas clave
+C86020,Cuentas clave
+C86021,En expansión
+C86023,Cuentas clave
+C86024,En expansión
+C86025,Estables de bajo crecimiento
+C86026,Estables de bajo crecimiento
+C86029,Estables de bajo crecimiento
+C86032,Estables de bajo crecimiento
+C86033,Estables de bajo crecimiento
+C86034,Estables de bajo crecimiento
+C86037,En expansión
+C86038,Estables de bajo crecimiento
+C86605,Estables de bajo crecimiento
+C86606,Estables de bajo crecimiento
+C86609,Cuentas clave
+C86611,Cuentas clave
+C86614,Cuentas clave
+C86616,Estables de bajo crecimiento
+C86621,Estables de bajo crecimiento
+C86625,En expansión
+C86626,Estables de bajo crecimiento
+C87002,Cuentas clave
+C87004,Cuentas clave
+C87005,Cuentas clave
+C87006,Cuentas clave
+C87007,Estables de bajo crecimiento
+C87008,Cuentas clave
+C87009,Cuentas clave
+C87010,Estables de bajo crecimiento
+C87012,Cuentas clave
+C87013,Emergentes
+C87014,En expansión
+C87015,Estables de bajo crecimiento
+C87016,Cuentas clave
+C87017,Estables de bajo crecimiento
+C87018,Estables de bajo crecimiento
+C87020,Estables de bajo crecimiento
+C87022,Cuentas clave
+C87024,En expansión
+C87029,Cuentas clave
+C87030,Cuentas clave
+C87031,Estables de bajo crecimiento
+C87603,Estables de bajo crecimiento
+C87604,Emergentes
+C87608,Estables de bajo crecimiento
+C87616,En expansión
+C87620,Cuentas clave
+C87622,Estables de bajo crecimiento
+C88005,En expansión
+C88006,Estables de bajo crecimiento
+C88007,En expansión
+C88008,Cuentas clave
+C88009,Estables de bajo crecimiento
+C88010,Estables de bajo crecimiento
+C88011,En expansión
+C88014,Estables de bajo crecimiento
+C88015,Cuentas clave
+C88016,Estables de bajo crecimiento
+C88018,Estables de bajo crecimiento
+C88019,Estables de bajo crecimiento
+C88020,Estables de bajo crecimiento
+C88021,En expansión
+C88022,En expansión
+C88023,En expansión
+C88025,En expansión
+C88026,En expansión
+C88027,Estables de bajo crecimiento
+C88028,En expansión
+C88030,En expansión
+C88031,Estables de bajo crecimiento
+C88032,Estables de bajo crecimiento
+C88034,Estables de bajo crecimiento
+C88035,Estables de bajo crecimiento
+C88036,Estables de bajo crecimiento
+C88037,En expansión
+C88038,Estables de bajo crecimiento
+C88039,Estables de bajo crecimiento
+C88040,Estables de bajo crecimiento
+C88041,En expansión
+C88043,Estables de bajo crecimiento
+C88044,En expansión
+C88045,Estables de bajo crecimiento
+C88046,Estables de bajo crecimiento
+C88047,Estables de bajo crecimiento
+C88048,Estables de bajo crecimiento
+C88049,Estables de bajo crecimiento
+C88050,En expansión
+C88051,Estables de bajo crecimiento
+C88052,En expansión
+C88053,Estables de bajo crecimiento
+C88054,En expansión
+C88059,Estables de bajo crecimiento
+C88060,En expansión
+C88062,En expansión
+C88069,En expansión
+C88070,Cuentas clave
+C88072,Estables de bajo crecimiento
+C88073,En expansión
+C88074,En expansión
+C88076,En expansión
+C88077,Estables de bajo crecimiento
+C88078,En expansión
+C88079,Estables de bajo crecimiento
+C88082,En expansión
+C88083,Estables de bajo crecimiento
+C88084,En expansión
+C88085,Estables de bajo crecimiento
+C88086,Estables de bajo crecimiento
+C88087,Estables de bajo crecimiento
+C88088,Estables de bajo crecimiento
+C88090,Estables de bajo crecimiento
+C88091,Estables de bajo crecimiento
+C88092,En expansión
+C88095,Estables de bajo crecimiento
+C88622,Estables de bajo crecimiento
+C88627,En expansión
+C88631,Estables de bajo crecimiento
+C88647,Estables de bajo crecimiento
+C88648,Estables de bajo crecimiento
+C88652,En expansión
+C88655,En expansión
+D81001,En expansión
+D81002,Emergentes
+D81003,Estables de bajo crecimiento
+D81004,Cuentas clave
+D81005,En expansión
+D81008,Cuentas clave
+D81010,Cuentas clave
+D81011,Estables de bajo crecimiento
+D81012,Estables de bajo crecimiento
+D81013,En expansión
+D81014,Cuentas clave
+D81015,Estables de bajo crecimiento
+D81016,Estables de bajo crecimiento
+D81017,En expansión
+D81018,En expansión
+D81021,Estables de bajo crecimiento
+D81022,Cuentas clave
+D81023,Estables de bajo crecimiento
+D81025,En expansión
+D81027,Estables de bajo crecimiento
+D81028,En expansión
+D81029,Estables de bajo crecimiento
+D81030,Cuentas clave
+D81031,Cuentas clave
+D81033,Estables de bajo crecimiento
+D81034,Cuentas clave
+D81035,En expansión
+D81036,Estables de bajo crecimiento
+D81037,Emergentes
+D81038,Estables de bajo crecimiento
+D81041,En expansión
+D81042,Estables de bajo crecimiento
+D81043,Cuentas clave
+D81044,Cuentas clave
+D81045,Estables de bajo crecimiento
+D81046,Estables de bajo crecimiento
+D81047,Estables de bajo crecimiento
+D81049,Cuentas clave
+D81050,Estables de bajo crecimiento
+D81051,En expansión
+D81052,Estables de bajo crecimiento
+D81054,En expansión
+D81055,En expansión
+D81056,Estables de bajo crecimiento
+D81057,Cuentas clave
+D81058,En expansión
+D81059,Estables de bajo crecimiento
+D81060,Estables de bajo crecimiento
+D81061,Cuentas clave
+D81062,En expansión
+D81064,Cuentas clave
+D81065,Estables de bajo crecimiento
+D81066,En expansión
+D81070,En expansión
+D81073,Estables de bajo crecimiento
+D81078,Estables de bajo crecimiento
+D81081,Estables de bajo crecimiento
+D81082,Estables de bajo crecimiento
+D81084,Estables de bajo crecimiento
+D81085,En expansión
+D81086,Estables de bajo crecimiento
+D81602,Estables de bajo crecimiento
+D81603,Estables de bajo crecimiento
+D81606,Estables de bajo crecimiento
+D81607,Estables de bajo crecimiento
+D81611,Cuentas clave
+D81612,Estables de bajo crecimiento
+D81615,Estables de bajo crecimiento
+D81618,Estables de bajo crecimiento
+D81622,Cuentas clave
+D81625,En expansión
+D81629,Estables de bajo crecimiento
+D81630,Estables de bajo crecimiento
+D81631,Estables de bajo crecimiento
+D81633,Estables de bajo crecimiento
+D81637,Emergentes
+D81645,Estables de bajo crecimiento
+D82001,Estables de bajo crecimiento
+D82002,Estables de bajo crecimiento
+D82003,Cuentas clave
+D82004,En expansión
+D82005,Cuentas clave
+D82006,En expansión
+D82007,Cuentas clave
+D82008,Cuentas clave
+D82009,Estables de bajo crecimiento
+D82010,En expansión
+D82011,Estables de bajo crecimiento
+D82012,En expansión
+D82013,Emergentes
+D82015,En expansión
+D82016,En expansión
+D82017,Cuentas clave
+D82018,En expansión
+D82019,Cuentas clave
+D82020,En expansión
+D82022,Estables de bajo crecimiento
+D82023,En expansión
+D82024,Emergentes
+D82025,Estables de bajo crecimiento
+D82026,En expansión
+D82027,En expansión
+D82028,En expansión
+D82029,Cuentas clave
+D82030,En expansión
+D82031,Estables de bajo crecimiento
+D82032,Estables de bajo crecimiento
+D82034,Cuentas clave
+D82035,Cuentas clave
+D82036,En expansión
+D82037,En expansión
+D82038,En expansión
+D82039,Estables de bajo crecimiento
+D82040,Cuentas clave
+D82041,Estables de bajo crecimiento
+D82042,En expansión
+D82043,En expansión
+D82044,Cuentas clave
+D82045,Cuentas clave
+D82046,Estables de bajo crecimiento
+D82047,En expansión
+D82048,Emergentes
+D82049,Emergentes
+D82050,En expansión
+D82051,Estables de bajo crecimiento
+D82053,Estables de bajo crecimiento
+D82054,Cuentas clave
+D82056,Estables de bajo crecimiento
+D82057,Estables de bajo crecimiento
+D82058,Estables de bajo crecimiento
+D82059,Estables de bajo crecimiento
+D82060,Estables de bajo crecimiento
+D82062,Estables de bajo crecimiento
+D82063,Cuentas clave
+D82064,Estables de bajo crecimiento
+D82065,En expansión
+D82066,Estables de bajo crecimiento
+D82067,Estables de bajo crecimiento
+D82068,Estables de bajo crecimiento
+D82070,Cuentas clave
+D82071,En expansión
+D82072,Estables de bajo crecimiento
+D82073,Emergentes
+D82076,En expansión
+D82078,Estables de bajo crecimiento
+D82079,En expansión
+D82080,Estables de bajo crecimiento
+D82084,Estables de bajo crecimiento
+D82085,En expansión
+D82087,Estables de bajo crecimiento
+D82088,En expansión
+D82096,Estables de bajo crecimiento
+D82099,Cuentas clave
+D82100,En expansión
+D82104,Estables de bajo crecimiento
+D82105,Estables de bajo crecimiento
+D82106,En expansión
+D82600,Estables de bajo crecimiento
+D82604,Estables de bajo crecimiento
+D82618,En expansión
+D82621,Emergentes
+D82624,En expansión
+D82628,Estables de bajo crecimiento
+D83001,Estables de bajo crecimiento
+D83002,Cuentas clave
+D83003,Estables de bajo crecimiento
+D83004,En expansión
+D83005,Cuentas clave
+D83006,Estables de bajo crecimiento
+D83007,Cuentas clave
+D83008,Cuentas clave
+D83009,En expansión
+D83010,Estables de bajo crecimiento
+D83011,Estables de bajo crecimiento
+D83012,Cuentas clave
+D83013,Cuentas clave
+D83014,Estables de bajo crecimiento
+D83015,Estables de bajo crecimiento
+D83016,Emergentes
+D83017,Cuentas clave
+D83018,Cuentas clave
+D83019,Estables de bajo crecimiento
+D83020,Estables de bajo crecimiento
+D83021,Cuentas clave
+D83022,Emergentes
+D83023,Estables de bajo crecimiento
+D83024,Estables de bajo crecimiento
+D83026,Estables de bajo crecimiento
+D83027,Estables de bajo crecimiento
+D83028,Estables de bajo crecimiento
+D83029,Cuentas clave
+D83030,Estables de bajo crecimiento
+D83033,En expansión
+D83034,En expansión
+D83035,Estables de bajo crecimiento
+D83037,Cuentas clave
+D83038,Cuentas clave
+D83040,Cuentas clave
+D83041,En expansión
+D83043,Estables de bajo crecimiento
+D83044,Estables de bajo crecimiento
+D83045,Estables de bajo crecimiento
+D83046,Cuentas clave
+D83047,Estables de bajo crecimiento
+D83048,Cuentas clave
+D83049,En expansión
+D83050,Cuentas clave
+D83051,Cuentas clave
+D83053,En expansión
+D83054,Estables de bajo crecimiento
+D83055,Cuentas clave
+D83056,Cuentas clave
+D83057,Cuentas clave
+D83059,Cuentas clave
+D83061,Cuentas clave
+D83062,Cuentas clave
+D83064,Estables de bajo crecimiento
+D83067,Estables de bajo crecimiento
+D83069,Estables de bajo crecimiento
+D83070,Estables de bajo crecimiento
+D83073,En expansión
+D83074,Estables de bajo crecimiento
+D83075,Estables de bajo crecimiento
+D83076,En expansión
+D83078,En expansión
+D83079,Estables de bajo crecimiento
+D83080,En expansión
+D83081,Cuentas clave
+D83084,En expansión
+D83608,Estables de bajo crecimiento
+D83610,Estables de bajo crecimiento
+E81002,En expansión
+E81003,En expansión
+E81004,Cuentas clave
+E81005,En expansión
+E81006,En expansión
+E81007,En expansión
+E81008,Cuentas clave
+E81009,En expansión
+E81010,Estables de bajo crecimiento
+E81012,Estables de bajo crecimiento
+E81013,Cuentas clave
+E81014,Cuentas clave
+E81015,En expansión
+E81016,En expansión
+E81018,En expansión
+E81019,Cuentas clave
+E81021,Emergentes
+E81022,Cuentas clave
+E81024,Estables de bajo crecimiento
+E81025,En expansión
+E81026,Cuentas clave
+E81027,Cuentas clave
+E81028,Cuentas clave
+E81029,Cuentas clave
+E81030,En expansión
+E81031,En expansión
+E81033,Cuentas clave
+E81034,Estables de bajo crecimiento
+E81035,Estables de bajo crecimiento
+E81036,Cuentas clave
+E81037,Cuentas clave
+E81038,Cuentas clave
+E81040,En expansión
+E81041,Estables de bajo crecimiento
+E81043,Estables de bajo crecimiento
+E81044,Cuentas clave
+E81045,En expansión
+E81046,En expansión
+E81047,Emergentes
+E81048,En expansión
+E81049,En expansión
+E81050,Emergentes
+E81052,En expansión
+E81057,Cuentas clave
+E81060,En expansión
+E81061,En expansión
+E81063,Estables de bajo crecimiento
+E81064,Estables de bajo crecimiento
+E81069,Estables de bajo crecimiento
+E81073,En expansión
+E81074,Estables de bajo crecimiento
+E81076,En expansión
+E81612,En expansión
+E81615,En expansión
+E81617,En expansión
+E81631,En expansión
+E81632,En expansión
+E81633,En expansión
+E81635,Emergentes
+E82001,Cuentas clave
+E82002,Estables de bajo crecimiento
+E82004,En expansión
+E82006,En expansión
+E82007,Estables de bajo crecimiento
+E82008,Estables de bajo crecimiento
+E82009,Estables de bajo crecimiento
+E82012,Cuentas clave
+E82013,Cuentas clave
+E82014,Estables de bajo crecimiento
+E82015,En expansión
+E82017,Estables de bajo crecimiento
+E82018,Estables de bajo crecimiento
+E82019,Estables de bajo crecimiento
+E82020,Estables de bajo crecimiento
+E82021,Estables de bajo crecimiento
+E82022,Estables de bajo crecimiento
+E82023,Estables de bajo crecimiento
+E82024,Cuentas clave
+E82027,En expansión
+E82031,Estables de bajo crecimiento
+E82032,Estables de bajo crecimiento
+E82035,Estables de bajo crecimiento
+E82037,En expansión
+E82038,Emergentes
+E82040,Cuentas clave
+E82041,Estables de bajo crecimiento
+E82042,Estables de bajo crecimiento
+E82043,En expansión
+E82044,En expansión
+E82045,Cuentas clave
+E82046,Estables de bajo crecimiento
+E82049,Estables de bajo crecimiento
+E82050,Estables de bajo crecimiento
+E82051,Estables de bajo crecimiento
+E82053,Estables de bajo crecimiento
+E82055,En expansión
+E82056,Estables de bajo crecimiento
+E82058,Estables de bajo crecimiento
+E82059,Estables de bajo crecimiento
+E82060,Estables de bajo crecimiento
+E82061,En expansión
+E82062,Estables de bajo crecimiento
+E82063,Estables de bajo crecimiento
+E82064,Estables de bajo crecimiento
+E82066,Estables de bajo crecimiento
+E82067,Estables de bajo crecimiento
+E82068,Estables de bajo crecimiento
+E82069,Estables de bajo crecimiento
+E82070,Estables de bajo crecimiento
+E82071,Estables de bajo crecimiento
+E82073,Cuentas clave
+E82074,Estables de bajo crecimiento
+E82075,Estables de bajo crecimiento
+E82077,En expansión
+E82078,Estables de bajo crecimiento
+E82079,Estables de bajo crecimiento
+E82081,Estables de bajo crecimiento
+E82082,Cuentas clave
+E82083,En expansión
+E82084,Estables de bajo crecimiento
+E82085,En expansión
+E82086,Cuentas clave
+E82088,Estables de bajo crecimiento
+E82090,Estables de bajo crecimiento
+E82091,Estables de bajo crecimiento
+E82092,Estables de bajo crecimiento
+E82093,Estables de bajo crecimiento
+E82094,En expansión
+E82096,Estables de bajo crecimiento
+E82098,Estables de bajo crecimiento
+E82099,Estables de bajo crecimiento
+E82100,Estables de bajo crecimiento
+E82102,Estables de bajo crecimiento
+E82104,Estables de bajo crecimiento
+E82105,Estables de bajo crecimiento
+E82106,Estables de bajo crecimiento
+E82107,Estables de bajo crecimiento
+E82111,Estables de bajo crecimiento
+E82113,En expansión
+E82115,Estables de bajo crecimiento
+E82117,Cuentas clave
+E82121,Estables de bajo crecimiento
+E82123,En expansión
+E82124,Cuentas clave
+E82129,Estables de bajo crecimiento
+E82132,En expansión
+E82133,Estables de bajo crecimiento
+E82626,En expansión
+E82638,Estables de bajo crecimiento
+E82640,Estables de bajo crecimiento
+E82643,Estables de bajo crecimiento
+E82652,Estables de bajo crecimiento
+E82654,En expansión
+E82655,Estables de bajo crecimiento
+E82657,Estables de bajo crecimiento
+E82661,Estables de bajo crecimiento
+E83003,En expansión
+E83005,Estables de bajo crecimiento
+E83006,En expansión
+E83007,Estables de bajo crecimiento
+E83008,En expansión
+E83009,En expansión
+E83010,Cuentas clave
+E83011,Estables de bajo crecimiento
+E83012,En expansión
+E83013,En expansión
+E83016,Cuentas clave
+E83017,Cuentas clave
+E83018,Cuentas clave
+E83020,Estables de bajo crecimiento
+E83021,En expansión
+E83024,Estables de bajo crecimiento
+E83025,Estables de bajo crecimiento
+E83026,En expansión
+E83027,En expansión
+E83028,En expansión
+E83031,Estables de bajo crecimiento
+E83032,Cuentas clave
+E83034,Estables de bajo crecimiento
+E83035,Cuentas clave
+E83038,Cuentas clave
+E83039,En expansión
+E83041,En expansión
+E83044,En expansión
+E83045,En expansión
+E83046,Cuentas clave
+E83049,En expansión
+E83050,En expansión
+E83053,Cuentas clave
+E83600,En expansión
+E83613,En expansión
+E83621,Estables de bajo crecimiento
+E83622,En expansión
+E83637,En expansión
+E83638,En expansión
+E83639,En expansión
+E83649,Estables de bajo crecimiento
+E83653,Cuentas clave
+E83668,En expansión
+E84002,En expansión
+E84003,En expansión
+E84004,En expansión
+E84005,Estables de bajo crecimiento
+E84006,Cuentas clave
+E84007,Estables de bajo crecimiento
+E84008,Estables de bajo crecimiento
+E84009,Cuentas clave
+E84011,Estables de bajo crecimiento
+E84012,Estables de bajo crecimiento
+E84013,Estables de bajo crecimiento
+E84014,Estables de bajo crecimiento
+E84015,Cuentas clave
+E84017,Estables de bajo crecimiento
+E84018,En expansión
+E84020,Estables de bajo crecimiento
+E84021,En expansión
+E84022,Estables de bajo crecimiento
+E84024,Cuentas clave
+E84025,Estables de bajo crecimiento
+E84028,En expansión
+E84030,En expansión
+E84031,En expansión
+E84032,Estables de bajo crecimiento
+E84033,Estables de bajo crecimiento
+E84036,Cuentas clave
+E84039,Cuentas clave
+E84040,Estables de bajo crecimiento
+E84042,Emergentes
+E84044,En expansión
+E84049,En expansión
+E84051,Estables de bajo crecimiento
+E84053,Estables de bajo crecimiento
+E84057,En expansión
+E84058,Cuentas clave
+E84059,Estables de bajo crecimiento
+E84061,En expansión
+E84062,Estables de bajo crecimiento
+E84063,En expansión
+E84066,Estables de bajo crecimiento
+E84067,Estables de bajo crecimiento
+E84068,Cuentas clave
+E84069,Cuentas clave
+E84070,Estables de bajo crecimiento
+E84074,Estables de bajo crecimiento
+E84075,En expansión
+E84076,En expansión
+E84078,Estables de bajo crecimiento
+E84080,En expansión
+E84083,En expansión
+E84086,Estables de bajo crecimiento
+E84601,En expansión
+E84617,Estables de bajo crecimiento
+E84620,Estables de bajo crecimiento
+E84626,Estables de bajo crecimiento
+E84635,Estables de bajo crecimiento
+E84637,Estables de bajo crecimiento
+E84638,Estables de bajo crecimiento
+E84645,Estables de bajo crecimiento
+E84646,En expansión
+E84647,Estables de bajo crecimiento
+E84653,En expansión
+E84656,En expansión
+E84658,Estables de bajo crecimiento
+E84663,En expansión
+E84665,Cuentas clave
+E84674,Estables de bajo crecimiento
+E84676,Estables de bajo crecimiento
+E84678,Emergentes
+E84680,En expansión
+E84681,Estables de bajo crecimiento
+E84684,Estables de bajo crecimiento
+E84685,Estables de bajo crecimiento
+E84693,En expansión
+E84699,En expansión
+E84701,Estables de bajo crecimiento
+E84702,Emergentes
+E84704,En expansión
+E84709,Cuentas clave
+E85001,En expansión
+E85003,Cuentas clave
+E85004,Estables de bajo crecimiento
+E85005,En expansión
+E85006,Estables de bajo crecimiento
+E85007,Cuentas clave
+E85008,En expansión
+E85012,Estables de bajo crecimiento
+E85013,Emergentes
+E85014,En expansión
+E85015,En expansión
+E85016,Emergentes
+E85019,Estables de bajo crecimiento
+E85020,En expansión
+E85021,Estables de bajo crecimiento
+E85023,En expansión
+E85024,Estables de bajo crecimiento
+E85025,En expansión
+E85026,En expansión
+E85028,En expansión
+E85029,En expansión
+E85030,Estables de bajo crecimiento
+E85032,En expansión
+E85033,Emergentes
+E85034,Estables de bajo crecimiento
+E85035,Estables de bajo crecimiento
+E85038,Estables de bajo crecimiento
+E85040,Estables de bajo crecimiento
+E85041,En expansión
+E85042,Estables de bajo crecimiento
+E85045,Estables de bajo crecimiento
+E85046,En expansión
+E85048,Estables de bajo crecimiento
+E85049,En expansión
+E85050,En expansión
+E85051,Estables de bajo crecimiento
+E85052,Estables de bajo crecimiento
+E85053,En expansión
+E85054,En expansión
+E85055,En expansión
+E85056,Estables de bajo crecimiento
+E85057,Emergentes
+E85058,Estables de bajo crecimiento
+E85059,En expansión
+E85060,En expansión
+E85061,En expansión
+E85062,Estables de bajo crecimiento
+E85064,Estables de bajo crecimiento
+E85066,En expansión
+E85069,Estables de bajo crecimiento
+E85071,Estables de bajo crecimiento
+E85074,En expansión
+E85075,Estables de bajo crecimiento
+E85077,En expansión
+E85083,En expansión
+E85088,En expansión
+E85090,Estables de bajo crecimiento
+E85091,Emergentes
+E85096,En expansión
+E85098,Estables de bajo crecimiento
+E85099,Emergentes
+E85103,Estables de bajo crecimiento
+E85107,En expansión
+E85108,Estables de bajo crecimiento
+E85109,Emergentes
+E85111,Estables de bajo crecimiento
+E85112,Emergentes
+E85113,Estables de bajo crecimiento
+E85114,Cuentas clave
+E85115,Estables de bajo crecimiento
+E85116,Estables de bajo crecimiento
+E85118,En expansión
+E85119,Estables de bajo crecimiento
+E85120,En expansión
+E85121,En expansión
+E85122,En expansión
+E85123,En expansión
+E85124,En expansión
+E85125,En expansión
+E85126,En expansión
+E85127,Estables de bajo crecimiento
+E85128,Cuentas clave
+E85129,Estables de bajo crecimiento
+E85130,Estables de bajo crecimiento
+E85600,En expansión
+E85605,Estables de bajo crecimiento
+E85617,Estables de bajo crecimiento
+E85623,En expansión
+E85624,Estables de bajo crecimiento
+E85625,Estables de bajo crecimiento
+E85628,Estables de bajo crecimiento
+E85633,Estables de bajo crecimiento
+E85635,Emergentes
+E85636,En expansión
+E85640,En expansión
+E85643,Estables de bajo crecimiento
+E85649,En expansión
+E85656,Estables de bajo crecimiento
+E85657,En expansión
+E85658,En expansión
+E85659,Estables de bajo crecimiento
+E85663,Cuentas clave
+E85677,En expansión
+E85680,En expansión
+E85681,En expansión
+E85682,En expansión
+E85683,En expansión
+E85685,En expansión
+E85687,En expansión
+E85692,Estables de bajo crecimiento
+E85693,En expansión
+E85694,En expansión
+E85696,En expansión
+E85697,Estables de bajo crecimiento
+E85699,Estables de bajo crecimiento
+E85707,En expansión
+E85708,Estables de bajo crecimiento
+E85712,Estables de bajo crecimiento
+E85713,Estables de bajo crecimiento
+E85715,Estables de bajo crecimiento
+E85716,Cuentas clave
+E85718,Estables de bajo crecimiento
+E85719,En expansión
+E85721,En expansión
+E85725,Estables de bajo crecimiento
+E85726,En expansión
+E85734,Estables de bajo crecimiento
+E85735,En expansión
+E85736,En expansión
+E85739,En expansión
+E85743,En expansión
+E85744,En expansión
+E85745,En expansión
+E85746,En expansión
+E85748,Estables de bajo crecimiento
+E85750,En expansión
+E86001,Cuentas clave
+E86004,En expansión
+E86005,En expansión
+E86006,En expansión
+E86007,En expansión
+E86009,En expansión
+E86010,Cuentas clave
+E86011,Estables de bajo crecimiento
+E86012,Cuentas clave
+E86014,En expansión
+E86015,Cuentas clave
+E86016,En expansión
+E86017,Cuentas clave
+E86018,Estables de bajo crecimiento
+E86019,En expansión
+E86020,En expansión
+E86022,Estables de bajo crecimiento
+E86024,Emergentes
+E86026,Estables de bajo crecimiento
+E86027,Cuentas clave
+E86029,Cuentas clave
+E86030,En expansión
+E86033,En expansión
+E86034,En expansión
+E86036,En expansión
+E86038,En expansión
+E86041,Estables de bajo crecimiento
+E86042,En expansión
+E86605,En expansión
+E86609,En expansión
+E86610,En expansión
+E86612,Estables de bajo crecimiento
+E86615,Estables de bajo crecimiento
+E86618,Estables de bajo crecimiento
+E86619,Estables de bajo crecimiento
+E86620,Estables de bajo crecimiento
+E86625,Estables de bajo crecimiento
+E86626,Estables de bajo crecimiento
+E86629,En expansión
+E86632,En expansión
+E86637,Estables de bajo crecimiento
+E86640,Emergentes
+E87002,En expansión
+E87003,En expansión
+E87004,En expansión
+E87005,En expansión
+E87006,En expansión
+E87008,En expansión
+E87009,En expansión
+E87010,En expansión
+E87011,Estables de bajo crecimiento
+E87013,En expansión
+E87016,En expansión
+E87021,En expansión
+E87024,Cuentas clave
+E87026,En expansión
+E87029,Estables de bajo crecimiento
+E87034,Estables de bajo crecimiento
+E87037,Estables de bajo crecimiento
+E87038,Estables de bajo crecimiento
+E87043,En expansión
+E87045,En expansión
+E87046,En expansión
+E87047,En expansión
+E87048,Estables de bajo crecimiento
+E87052,Estables de bajo crecimiento
+E87061,En expansión
+E87063,En expansión
+E87065,Estables de bajo crecimiento
+E87066,En expansión
+E87067,En expansión
+E87069,Estables de bajo crecimiento
+E87070,En expansión
+E87609,En expansión
+E87637,Cuentas clave
+E87648,En expansión
+E87663,En expansión
+E87665,En expansión
+E87677,En expansión
+E87681,En expansión
+E87701,Estables de bajo crecimiento
+E87706,En expansión
+E87711,Estables de bajo crecimiento
+E87714,En expansión
+E87715,En expansión
+E87720,En expansión
+E87722,En expansión
+E87733,Cuentas clave
+E87737,En expansión
+E87738,En expansión
+E87739,En expansión
+E87740,Emergentes
+E87741,En expansión
+E87742,Emergentes
+E87745,Estables de bajo crecimiento
+E87746,En expansión
+E87750,Estables de bajo crecimiento
+E87751,En expansión
+E87753,En expansión
+E87754,Estables de bajo crecimiento
+E87755,Estables de bajo crecimiento
+E87756,En expansión
+E87762,Estables de bajo crecimiento
+E87768,Emergentes
+F81001,Cuentas clave
+F81003,Emergentes
+F81004,Estables de bajo crecimiento
+F81006,Estables de bajo crecimiento
+F81007,Cuentas clave
+F81009,Emergentes
+F81010,Cuentas clave
+F81011,Estables de bajo crecimiento
+F81012,En expansión
+F81013,Estables de bajo crecimiento
+F81014,En expansión
+F81015,En expansión
+F81017,Cuentas clave
+F81019,Cuentas clave
+F81020,Emergentes
+F81021,Cuentas clave
+F81022,Cuentas clave
+F81023,Estables de bajo crecimiento
+F81025,En expansión
+F81026,Estables de bajo crecimiento
+F81027,Cuentas clave
+F81028,Estables de bajo crecimiento
+F81029,En expansión
+F81030,Cuentas clave
+F81031,Estables de bajo crecimiento
+F81032,En expansión
+F81034,Emergentes
+F81036,Cuentas clave
+F81037,Cuentas clave
+F81038,En expansión
+F81040,Estables de bajo crecimiento
+F81041,Cuentas clave
+F81042,Cuentas clave
+F81043,Estables de bajo crecimiento
+F81044,En expansión
+F81045,En expansión
+F81046,Estables de bajo crecimiento
+F81047,Estables de bajo crecimiento
+F81048,Estables de bajo crecimiento
+F81049,En expansión
+F81051,Cuentas clave
+F81052,Cuentas clave
+F81053,Emergentes
+F81055,En expansión
+F81056,En expansión
+F81057,Estables de bajo crecimiento
+F81060,Estables de bajo crecimiento
+F81061,Cuentas clave
+F81062,En expansión
+F81065,En expansión
+F81066,Estables de bajo crecimiento
+F81067,Cuentas clave
+F81068,Estables de bajo crecimiento
+F81069,Estables de bajo crecimiento
+F81071,En expansión
+F81072,Estables de bajo crecimiento
+F81075,Cuentas clave
+F81076,En expansión
+F81078,Estables de bajo crecimiento
+F81080,Estables de bajo crecimiento
+F81081,Cuentas clave
+F81082,Estables de bajo crecimiento
+F81083,Estables de bajo crecimiento
+F81085,Estables de bajo crecimiento
+F81086,Estables de bajo crecimiento
+F81087,Cuentas clave
+F81088,En expansión
+F81089,Cuentas clave
+F81090,Estables de bajo crecimiento
+F81091,En expansión
+F81092,En expansión
+F81095,Cuentas clave
+F81096,Cuentas clave
+F81097,Cuentas clave
+F81098,Estables de bajo crecimiento
+F81099,Cuentas clave
+F81100,Cuentas clave
+F81101,En expansión
+F81102,En expansión
+F81104,Estables de bajo crecimiento
+F81105,Cuentas clave
+F81106,Cuentas clave
+F81110,Cuentas clave
+F81111,Estables de bajo crecimiento
+F81112,Estables de bajo crecimiento
+F81113,En expansión
+F81114,En expansión
+F81115,Cuentas clave
+F81116,Cuentas clave
+F81117,Estables de bajo crecimiento
+F81118,Estables de bajo crecimiento
+F81119,Estables de bajo crecimiento
+F81120,Estables de bajo crecimiento
+F81121,Cuentas clave
+F81122,Cuentas clave
+F81123,Emergentes
+F81125,Cuentas clave
+F81126,En expansión
+F81128,En expansión
+F81130,En expansión
+F81131,Estables de bajo crecimiento
+F81132,Cuentas clave
+F81133,Estables de bajo crecimiento
+F81134,Cuentas clave
+F81136,En expansión
+F81137,En expansión
+F81141,En expansión
+F81142,En expansión
+F81144,Estables de bajo crecimiento
+F81147,En expansión
+F81149,Cuentas clave
+F81150,Estables de bajo crecimiento
+F81153,Cuentas clave
+F81155,En expansión
+F81156,Cuentas clave
+F81158,En expansión
+F81159,En expansión
+F81163,Estables de bajo crecimiento
+F81164,Cuentas clave
+F81165,En expansión
+F81169,Estables de bajo crecimiento
+F81170,Emergentes
+F81173,Estables de bajo crecimiento
+F81176,Estables de bajo crecimiento
+F81177,En expansión
+F81181,Cuentas clave
+F81183,En expansión
+F81184,En expansión
+F81186,Estables de bajo crecimiento
+F81192,Estables de bajo crecimiento
+F81193,En expansión
+F81197,En expansión
+F81198,En expansión
+F81205,Cuentas clave
+F81206,Cuentas clave
+F81207,Estables de bajo crecimiento
+F81211,Estables de bajo crecimiento
+F81212,Cuentas clave
+F81213,Estables de bajo crecimiento
+F81215,En expansión
+F81216,En expansión
+F81219,Estables de bajo crecimiento
+F81221,En expansión
+F81222,En expansión
+F81606,Estables de bajo crecimiento
+F81613,Cuentas clave
+F81618,Estables de bajo crecimiento
+F81619,Estables de bajo crecimiento
+F81623,Estables de bajo crecimiento
+F81632,Estables de bajo crecimiento
+F81633,Estables de bajo crecimiento
+F81635,En expansión
+F81636,Cuentas clave
+F81640,En expansión
+F81641,Emergentes
+F81645,Estables de bajo crecimiento
+F81649,En expansión
+F81651,En expansión
+F81652,En expansión
+F81656,Emergentes
+F81665,En expansión
+F81666,Estables de bajo crecimiento
+F81669,Estables de bajo crecimiento
+F81674,Emergentes
+F81675,Estables de bajo crecimiento
+F81679,Estables de bajo crecimiento
+F81681,Cuentas clave
+F81683,Estables de bajo crecimiento
+F81690,En expansión
+F81696,En expansión
+F81697,En expansión
+F81700,Emergentes
+F81704,Estables de bajo crecimiento
+F81707,Estables de bajo crecimiento
+F81708,Estables de bajo crecimiento
+F81711,En expansión
+F81716,Estables de bajo crecimiento
+F81725,Cuentas clave
+F81729,Estables de bajo crecimiento
+F81730,En expansión
+F81732,Estables de bajo crecimiento
+F81737,En expansión
+F81739,Cuentas clave
+F81740,Cuentas clave
+F81741,Cuentas clave
+F81744,Estables de bajo crecimiento
+F81746,En expansión
+F81749,Cuentas clave
+F81751,En expansión
+F81757,Estables de bajo crecimiento
+F82001,En expansión
+F82002,Emergentes
+F82003,Estables de bajo crecimiento
+F82005,Estables de bajo crecimiento
+F82006,En expansión
+F82007,En expansión
+F82008,En expansión
+F82009,Cuentas clave
+F82010,En expansión
+F82011,Emergentes
+F82012,Estables de bajo crecimiento
+F82013,En expansión
+F82014,Emergentes
+F82015,Estables de bajo crecimiento
+F82016,En expansión
+F82017,Cuentas clave
+F82018,En expansión
+F82019,En expansión
+F82021,Emergentes
+F82022,Emergentes
+F82023,Estables de bajo crecimiento
+F82025,En expansión
+F82027,Estables de bajo crecimiento
+F82028,En expansión
+F82030,En expansión
+F82031,Estables de bajo crecimiento
+F82033,En expansión
+F82038,En expansión
+F82039,Emergentes
+F82040,En expansión
+F82042,Cuentas clave
+F82045,En expansión
+F82051,Emergentes
+F82053,Estables de bajo crecimiento
+F82055,En expansión
+F82604,Emergentes
+F82607,Estables de bajo crecimiento
+F82609,Emergentes
+F82610,En expansión
+F82612,En expansión
+F82619,Estables de bajo crecimiento
+F82625,Emergentes
+F82627,Estables de bajo crecimiento
+F82630,En expansión
+F82634,Estables de bajo crecimiento
+F82638,Estables de bajo crecimiento
+F82642,En expansión
+F82647,Emergentes
+F82648,Cuentas clave
+F82649,Emergentes
+F82650,En expansión
+F82660,Cuentas clave
+F82661,Estables de bajo crecimiento
+F82671,Emergentes
+F82674,Estables de bajo crecimiento
+F82675,En expansión
+F82677,Emergentes
+F82679,Emergentes
+F82680,Cuentas clave
+F82686,En expansión
+F83002,Estables de bajo crecimiento
+F83003,En expansión
+F83004,En expansión
+F83005,En expansión
+F83006,Estables de bajo crecimiento
+F83007,Estables de bajo crecimiento
+F83008,En expansión
+F83010,Estables de bajo crecimiento
+F83011,En expansión
+F83012,Estables de bajo crecimiento
+F83015,En expansión
+F83017,En expansión
+F83018,Estables de bajo crecimiento
+F83019,Estables de bajo crecimiento
+F83020,En expansión
+F83021,En expansión
+F83022,Estables de bajo crecimiento
+F83023,Estables de bajo crecimiento
+F83025,Estables de bajo crecimiento
+F83032,Estables de bajo crecimiento
+F83033,Estables de bajo crecimiento
+F83034,Estables de bajo crecimiento
+F83039,Estables de bajo crecimiento
+F83042,En expansión
+F83043,Estables de bajo crecimiento
+F83044,En expansión
+F83045,Estables de bajo crecimiento
+F83048,Estables de bajo crecimiento
+F83050,En expansión
+F83052,Estables de bajo crecimiento
+F83053,En expansión
+F83055,Estables de bajo crecimiento
+F83056,Estables de bajo crecimiento
+F83057,Estables de bajo crecimiento
+F83058,Estables de bajo crecimiento
+F83059,Estables de bajo crecimiento
+F83060,Estables de bajo crecimiento
+F83061,Estables de bajo crecimiento
+F83063,En expansión
+F83064,Estables de bajo crecimiento
+F83615,Estables de bajo crecimiento
+F83624,En expansión
+F83632,Estables de bajo crecimiento
+F83633,En expansión
+F83635,En expansión
+F83652,En expansión
+F83658,En expansión
+F83660,En expansión
+F83664,En expansión
+F83665,Estables de bajo crecimiento
+F83666,Estables de bajo crecimiento
+F83672,En expansión
+F83673,Emergentes
+F83674,En expansión
+F83678,En expansión
+F83680,Estables de bajo crecimiento
+F83681,Estables de bajo crecimiento
+F83683,Estables de bajo crecimiento
+F83686,Estables de bajo crecimiento
+F84003,Emergentes
+F84004,Estables de bajo crecimiento
+F84006,Cuentas clave
+F84008,Emergentes
+F84009,Estables de bajo crecimiento
+F84010,En expansión
+F84012,En expansión
+F84013,En expansión
+F84014,Cuentas clave
+F84015,Emergentes
+F84016,Estables de bajo crecimiento
+F84017,Estables de bajo crecimiento
+F84018,Emergentes
+F84021,Emergentes
+F84022,En expansión
+F84025,Estables de bajo crecimiento
+F84030,Estables de bajo crecimiento
+F84031,En expansión
+F84033,En expansión
+F84034,Estables de bajo crecimiento
+F84035,Emergentes
+F84036,En expansión
+F84039,En expansión
+F84044,Estables de bajo crecimiento
+F84047,Cuentas clave
+F84050,Cuentas clave
+F84051,En expansión
+F84052,Cuentas clave
+F84053,En expansión
+F84055,Estables de bajo crecimiento
+F84060,En expansión
+F84062,Cuentas clave
+F84063,En expansión
+F84069,En expansión
+F84070,Cuentas clave
+F84072,En expansión
+F84074,Estables de bajo crecimiento
+F84077,En expansión
+F84079,En expansión
+F84080,En expansión
+F84081,Estables de bajo crecimiento
+F84083,Emergentes
+F84086,En expansión
+F84087,Estables de bajo crecimiento
+F84088,Estables de bajo crecimiento
+F84092,Estables de bajo crecimiento
+F84093,Cuentas clave
+F84096,Emergentes
+F84097,Cuentas clave
+F84105,Emergentes
+F84111,Cuentas clave
+F84114,Emergentes
+F84115,En expansión
+F84117,En expansión
+F84118,En expansión
+F84119,En expansión
+F84121,Estables de bajo crecimiento
+F84122,En expansión
+F84123,En expansión
+F84124,En expansión
+F84601,En expansión
+F84619,Emergentes
+F84620,Emergentes
+F84621,Emergentes
+F84632,Emergentes
+F84635,En expansión
+F84636,En expansión
+F84641,Estables de bajo crecimiento
+F84642,En expansión
+F84647,En expansión
+F84656,En expansión
+F84658,Estables de bajo crecimiento
+F84660,En expansión
+F84666,Estables de bajo crecimiento
+F84668,En expansión
+F84669,En expansión
+F84670,En expansión
+F84672,Estables de bajo crecimiento
+F84677,Estables de bajo crecimiento
+F84681,Emergentes
+F84685,Estables de bajo crecimiento
+F84686,En expansión
+F84692,En expansión
+F84694,En expansión
+F84696,Estables de bajo crecimiento
+F84698,En expansión
+F84710,Estables de bajo crecimiento
+F84711,Estables de bajo crecimiento
+F84714,Estables de bajo crecimiento
+F84716,En expansión
+F84717,Estables de bajo crecimiento
+F84718,En expansión
+F84719,Emergentes
+F84720,En expansión
+F84724,Estables de bajo crecimiento
+F84729,Estables de bajo crecimiento
+F84730,Estables de bajo crecimiento
+F84733,Estables de bajo crecimiento
+F84735,Emergentes
+F84737,Emergentes
+F84739,Emergentes
+F84740,Estables de bajo crecimiento
+F84741,Estables de bajo crecimiento
+F84744,En expansión
+F84747,En expansión
+F84749,Estables de bajo crecimiento
+F85004,Cuentas clave
+F85007,Estables de bajo crecimiento
+F85008,Estables de bajo crecimiento
+F85010,En expansión
+F85013,En expansión
+F85014,En expansión
+F85016,En expansión
+F85017,Estables de bajo crecimiento
+F85019,Cuentas clave
+F85020,Estables de bajo crecimiento
+F85023,En expansión
+F85025,En expansión
+F85028,En expansión
+F85029,Estables de bajo crecimiento
+F85030,Estables de bajo crecimiento
+F85031,Estables de bajo crecimiento
+F85032,En expansión
+F85033,Estables de bajo crecimiento
+F85034,En expansión
+F85035,En expansión
+F85039,En expansión
+F85043,Estables de bajo crecimiento
+F85044,Estables de bajo crecimiento
+F85046,Estables de bajo crecimiento
+F85058,Estables de bajo crecimiento
+F85060,Estables de bajo crecimiento
+F85061,En expansión
+F85063,En expansión
+F85064,En expansión
+F85065,Emergentes
+F85066,En expansión
+F85067,En expansión
+F85069,Emergentes
+F85071,Estables de bajo crecimiento
+F85072,En expansión
+F85615,En expansión
+F85623,Estables de bajo crecimiento
+F85625,En expansión
+F85628,Estables de bajo crecimiento
+F85634,Estables de bajo crecimiento
+F85640,En expansión
+F85642,En expansión
+F85650,Estables de bajo crecimiento
+F85663,En expansión
+F85666,Estables de bajo crecimiento
+F85669,En expansión
+F85675,En expansión
+F85676,En expansión
+F85678,Estables de bajo crecimiento
+F85682,Emergentes
+F85687,Estables de bajo crecimiento
+F85688,Estables de bajo crecimiento
+F85697,En expansión
+F85700,Emergentes
+F85701,En expansión
+F85705,Estables de bajo crecimiento
+F86001,En expansión
+F86004,Cuentas clave
+F86005,Estables de bajo crecimiento
+F86006,En expansión
+F86007,Cuentas clave
+F86008,Emergentes
+F86009,En expansión
+F86010,En expansión
+F86011,En expansión
+F86012,En expansión
+F86013,En expansión
+F86018,Cuentas clave
+F86020,Emergentes
+F86022,En expansión
+F86023,En expansión
+F86025,Emergentes
+F86026,En expansión
+F86028,En expansión
+F86030,En expansión
+F86032,En expansión
+F86036,Emergentes
+F86038,Cuentas clave
+F86040,Estables de bajo crecimiento
+F86042,En expansión
+F86044,En expansión
+F86045,En expansión
+F86057,Emergentes
+F86058,En expansión
+F86060,Estables de bajo crecimiento
+F86062,En expansión
+F86064,En expansión
+F86066,En expansión
+F86074,En expansión
+F86078,En expansión
+F86081,Emergentes
+F86083,Emergentes
+F86085,En expansión
+F86086,Emergentes
+F86087,En expansión
+F86088,En expansión
+F86607,En expansión
+F86612,Emergentes
+F86616,En expansión
+F86621,Estables de bajo crecimiento
+F86624,En expansión
+F86625,En expansión
+F86626,Estables de bajo crecimiento
+F86627,En expansión
+F86637,En expansión
+F86638,Emergentes
+F86641,En expansión
+F86642,Estables de bajo crecimiento
+F86644,En expansión
+F86650,En expansión
+F86652,En expansión
+F86657,Emergentes
+F86658,En expansión
+F86664,En expansión
+F86666,En expansión
+F86679,En expansión
+F86689,Emergentes
+F86691,Emergentes
+F86692,En expansión
+F86696,En expansión
+F86698,Estables de bajo crecimiento
+F86701,Estables de bajo crecimiento
+F86702,En expansión
+F86703,Estables de bajo crecimiento
+F86705,En expansión
+F86707,En expansión
+F86708,En expansión
+F86712,En expansión
+F86731,Emergentes
+G81001,En expansión
+G81002,Estables de bajo crecimiento
+G81003,En expansión
+G81004,Cuentas clave
+G81006,En expansión
+G81008,En expansión
+G81011,En expansión
+G81012,En expansión
+G81014,En expansión
+G81016,En expansión
+G81017,En expansión
+G81018,En expansión
+G81019,Cuentas clave
+G81021,Cuentas clave
+G81022,Cuentas clave
+G81023,Emergentes
+G81024,Emergentes
+G81028,En expansión
+G81029,Cuentas clave
+G81030,En expansión
+G81031,Cuentas clave
+G81032,Cuentas clave
+G81034,Cuentas clave
+G81036,En expansión
+G81037,En expansión
+G81038,En expansión
+G81039,Cuentas clave
+G81040,En expansión
+G81041,Cuentas clave
+G81042,En expansión
+G81043,Estables de bajo crecimiento
+G81046,En expansión
+G81047,En expansión
+G81048,Estables de bajo crecimiento
+G81049,En expansión
+G81050,Cuentas clave
+G81051,Estables de bajo crecimiento
+G81052,Estables de bajo crecimiento
+G81054,En expansión
+G81055,En expansión
+G81057,Estables de bajo crecimiento
+G81059,Cuentas clave
+G81061,En expansión
+G81065,En expansión
+G81070,En expansión
+G81071,Estables de bajo crecimiento
+G81073,En expansión
+G81074,Cuentas clave
+G81075,En expansión
+G81076,En expansión
+G81077,En expansión
+G81082,En expansión
+G81083,En expansión
+G81085,En expansión
+G81086,En expansión
+G81087,En expansión
+G81088,Cuentas clave
+G81089,En expansión
+G81095,Cuentas clave
+G81096,Emergentes
+G81098,En expansión
+G81099,Estables de bajo crecimiento
+G81100,Cuentas clave
+G81102,En expansión
+G81104,Cuentas clave
+G81613,En expansión
+G81614,Estables de bajo crecimiento
+G81634,En expansión
+G81641,En expansión
+G81646,En expansión
+G81656,En expansión
+G81658,Cuentas clave
+G81663,En expansión
+G81669,En expansión
+G81689,Estables de bajo crecimiento
+G81694,En expansión
+G82002,En expansión
+G82006,Cuentas clave
+G82007,En expansión
+G82013,En expansión
+G82014,Cuentas clave
+G82015,Estables de bajo crecimiento
+G82016,En expansión
+G82018,Estables de bajo crecimiento
+G82019,Cuentas clave
+G82020,Cuentas clave
+G82021,Cuentas clave
+G82022,Estables de bajo crecimiento
+G82023,Estables de bajo crecimiento
+G82024,Cuentas clave
+G82025,En expansión
+G82027,En expansión
+G82028,Cuentas clave
+G82031,Estables de bajo crecimiento
+G82032,Cuentas clave
+G82035,Estables de bajo crecimiento
+G82036,En expansión
+G82037,Cuentas clave
+G82038,Emergentes
+G82039,En expansión
+G82041,Estables de bajo crecimiento
+G82042,Cuentas clave
+G82044,Cuentas clave
+G82046,Estables de bajo crecimiento
+G82048,En expansión
+G82050,Estables de bajo crecimiento
+G82051,Cuentas clave
+G82052,Cuentas clave
+G82053,En expansión
+G82055,Estables de bajo crecimiento
+G82056,En expansión
+G82057,Cuentas clave
+G82058,Estables de bajo crecimiento
+G82059,Cuentas clave
+G82060,Cuentas clave
+G82062,Estables de bajo crecimiento
+G82063,Cuentas clave
+G82064,Estables de bajo crecimiento
+G82066,Cuentas clave
+G82067,En expansión
+G82069,Estables de bajo crecimiento
+G82071,Cuentas clave
+G82073,Cuentas clave
+G82074,En expansión
+G82076,Cuentas clave
+G82077,Cuentas clave
+G82079,En expansión
+G82080,Cuentas clave
+G82082,Cuentas clave
+G82083,Cuentas clave
+G82085,Estables de bajo crecimiento
+G82086,En expansión
+G82087,Estables de bajo crecimiento
+G82088,Estables de bajo crecimiento
+G82089,En expansión
+G82090,Cuentas clave
+G82091,Cuentas clave
+G82092,Estables de bajo crecimiento
+G82093,Cuentas clave
+G82094,Cuentas clave
+G82095,Estables de bajo crecimiento
+G82097,Cuentas clave
+G82098,En expansión
+G82099,Cuentas clave
+G82100,Cuentas clave
+G82105,Cuentas clave
+G82106,En expansión
+G82107,Cuentas clave
+G82108,Estables de bajo crecimiento
+G82110,En expansión
+G82111,Estables de bajo crecimiento
+G82112,Estables de bajo crecimiento
+G82113,Estables de bajo crecimiento
+G82114,Cuentas clave
+G82115,En expansión
+G82117,En expansión
+G82118,Cuentas clave
+G82119,Cuentas clave
+G82120,Cuentas clave
+G82121,Cuentas clave
+G82125,Estables de bajo crecimiento
+G82126,Cuentas clave
+G82129,Estables de bajo crecimiento
+G82135,En expansión
+G82137,Estables de bajo crecimiento
+G82138,En expansión
+G82139,En expansión
+G82140,Emergentes
+G82141,En expansión
+G82142,Estables de bajo crecimiento
+G82143,En expansión
+G82147,Cuentas clave
+G82150,En expansión
+G82152,Estables de bajo crecimiento
+G82154,Estables de bajo crecimiento
+G82155,En expansión
+G82158,En expansión
+G82160,Cuentas clave
+G82162,Estables de bajo crecimiento
+G82164,Cuentas clave
+G82165,Estables de bajo crecimiento
+G82170,En expansión
+G82180,En expansión
+G82184,Estables de bajo crecimiento
+G82185,Estables de bajo crecimiento
+G82186,En expansión
+G82200,Estables de bajo crecimiento
+G82203,Cuentas clave
+G82205,En expansión
+G82211,Estables de bajo crecimiento
+G82212,En expansión
+G82215,Estables de bajo crecimiento
+G82217,Estables de bajo crecimiento
+G82218,Emergentes
+G82219,En expansión
+G82224,Estables de bajo crecimiento
+G82225,Estables de bajo crecimiento
+G82226,En expansión
+G82227,Estables de bajo crecimiento
+G82228,Cuentas clave
+G82229,En expansión
+G82231,Estables de bajo crecimiento
+G82232,Estables de bajo crecimiento
+G82233,Estables de bajo crecimiento
+G82234,Estables de bajo crecimiento
+G82235,Estables de bajo crecimiento
+G82600,En expansión
+G82604,Cuentas clave
+G82605,Estables de bajo crecimiento
+G82631,Estables de bajo crecimiento
+G82634,Cuentas clave
+G82635,Estables de bajo crecimiento
+G82641,Estables de bajo crecimiento
+G82647,Cuentas clave
+G82648,En expansión
+G82650,Cuentas clave
+G82652,Estables de bajo crecimiento
+G82653,Estables de bajo crecimiento
+G82658,Estables de bajo crecimiento
+G82665,Cuentas clave
+G82666,Cuentas clave
+G82679,En expansión
+G82681,Estables de bajo crecimiento
+G82682,Estables de bajo crecimiento
+G82684,En expansión
+G82687,Cuentas clave
+G82691,En expansión
+G82693,Cuentas clave
+G82696,En expansión
+G82697,Cuentas clave
+G82698,En expansión
+G82700,Cuentas clave
+G82702,Estables de bajo crecimiento
+G82708,En expansión
+G82711,En expansión
+G82719,Cuentas clave
+G82721,Estables de bajo crecimiento
+G82729,Cuentas clave
+G82730,En expansión
+G82733,Estables de bajo crecimiento
+G82737,En expansión
+G82741,Cuentas clave
+G82744,Cuentas clave
+G82753,Estables de bajo crecimiento
+G82754,Estables de bajo crecimiento
+G82763,Emergentes
+G82768,En expansión
+G82775,Estables de bajo crecimiento
+G82780,Cuentas clave
+G82790,Emergentes
+G82796,En expansión
+G82799,Cuentas clave
+G82802,En expansión
+G82808,En expansión
+G82809,Cuentas clave
+G82888,Estables de bajo crecimiento
+G83001,En expansión
+G83002,En expansión
+G83004,En expansión
+G83006,En expansión
+G83009,Emergentes
+G83010,Cuentas clave
+G83012,En expansión
+G83013,En expansión
+G83015,En expansión
+G83016,Estables de bajo crecimiento
+G83018,En expansión
+G83019,Cuentas clave
+G83021,En expansión
+G83024,En expansión
+G83025,En expansión
+G83026,Estables de bajo crecimiento
+G83027,En expansión
+G83028,En expansión
+G83029,En expansión
+G83030,En expansión
+G83031,En expansión
+G83033,En expansión
+G83039,Estables de bajo crecimiento
+G83044,Estables de bajo crecimiento
+G83046,En expansión
+G83047,En expansión
+G83049,En expansión
+G83052,Cuentas clave
+G83053,Cuentas clave
+G83057,En expansión
+G83058,En expansión
+G83060,En expansión
+G83065,En expansión
+G83066,En expansión
+G83067,Cuentas clave
+G83628,En expansión
+G83630,En expansión
+G83631,Estables de bajo crecimiento
+G83633,Estables de bajo crecimiento
+G83635,En expansión
+G83641,Estables de bajo crecimiento
+G83642,En expansión
+G83647,Estables de bajo crecimiento
+G83651,En expansión
+G83654,En expansión
+G83673,En expansión
+G83680,Cuentas clave
+G84001,En expansión
+G84002,En expansión
+G84003,Estables de bajo crecimiento
+G84004,Estables de bajo crecimiento
+G84005,En expansión
+G84006,En expansión
+G84007,En expansión
+G84008,Estables de bajo crecimiento
+G84009,Estables de bajo crecimiento
+G84011,Estables de bajo crecimiento
+G84013,Estables de bajo crecimiento
+G84015,Estables de bajo crecimiento
+G84016,Estables de bajo crecimiento
+G84017,En expansión
+G84018,En expansión
+G84019,En expansión
+G84020,En expansión
+G84023,En expansión
+G84024,Estables de bajo crecimiento
+G84025,En expansión
+G84027,En expansión
+G84028,Estables de bajo crecimiento
+G84030,En expansión
+G84032,En expansión
+G84033,En expansión
+G84035,Emergentes
+G84039,Estables de bajo crecimiento
+G84040,Estables de bajo crecimiento
+G84041,En expansión
+G84604,En expansión
+G84609,En expansión
+G84621,En expansión
+G84624,En expansión
+G84625,En expansión
+G84627,Estables de bajo crecimiento
+G84629,En expansión
+G85001,En expansión
+G85002,En expansión
+G85004,Cuentas clave
+G85006,En expansión
+G85011,En expansión
+G85013,Emergentes
+G85014,En expansión
+G85015,En expansión
+G85016,En expansión
+G85019,En expansión
+G85020,En expansión
+G85021,Estables de bajo crecimiento
+G85022,En expansión
+G85023,En expansión
+G85024,En expansión
+G85025,En expansión
+G85027,Estables de bajo crecimiento
+G85028,En expansión
+G85029,En expansión
+G85030,Estables de bajo crecimiento
+G85031,En expansión
+G85032,En expansión
+G85038,Cuentas clave
+G85040,En expansión
+G85041,En expansión
+G85042,En expansión
+G85044,En expansión
+G85045,En expansión
+G85046,En expansión
+G85047,En expansión
+G85052,En expansión
+G85053,En expansión
+G85054,En expansión
+G85057,Cuentas clave
+G85061,En expansión
+G85073,En expansión
+G85076,Emergentes
+G85084,En expansión
+G85085,En expansión
+G85086,En expansión
+G85087,En expansión
+G85096,En expansión
+G85100,En expansión
+G85102,En expansión
+G85104,Estables de bajo crecimiento
+G85105,En expansión
+G85109,En expansión
+G85114,En expansión
+G85119,En expansión
+G85120,En expansión
+G85121,En expansión
+G85123,En expansión
+G85125,En expansión
+G85127,En expansión
+G85129,En expansión
+G85130,En expansión
+G85132,En expansión
+G85134,En expansión
+G85135,En expansión
+G85136,En expansión
+G85137,En expansión
+G85138,En expansión
+G85623,En expansión
+G85633,Cuentas clave
+G85644,En expansión
+G85647,En expansión
+G85651,En expansión
+G85662,En expansión
+G85673,En expansión
+G85674,En expansión
+G85681,En expansión
+G85685,En expansión
+G85690,Estables de bajo crecimiento
+G85695,En expansión
+G85696,En expansión
+G85698,En expansión
+G85705,En expansión
+G85706,En expansión
+G85708,En expansión
+G85711,Estables de bajo crecimiento
+G85715,En expansión
+G85716,Emergentes
+G85721,En expansión
+G85722,Estables de bajo crecimiento
+G85724,En expansión
+G85726,En expansión
+G85736,En expansión
+H81002,En expansión
+H81003,En expansión
+H81004,En expansión
+H81005,Estables de bajo crecimiento
+H81007,Estables de bajo crecimiento
+H81009,En expansión
+H81010,Cuentas clave
+H81011,En expansión
+H81013,Cuentas clave
+H81015,En expansión
+H81016,En expansión
+H81017,Cuentas clave
+H81019,En expansión
+H81020,Emergentes
+H81021,En expansión
+H81022,Estables de bajo crecimiento
+H81023,En expansión
+H81024,En expansión
+H81025,En expansión
+H81026,Cuentas clave
+H81027,En expansión
+H81028,En expansión
+H81029,En expansión
+H81030,Cuentas clave
+H81031,En expansión
+H81032,En expansión
+H81033,Cuentas clave
+H81035,En expansión
+H81036,En expansión
+H81038,Estables de bajo crecimiento
+H81039,Estables de bajo crecimiento
+H81040,En expansión
+H81041,En expansión
+H81042,Cuentas clave
+H81043,En expansión
+H81044,Emergentes
+H81045,En expansión
+H81046,En expansión
+H81047,En expansión
+H81048,En expansión
+H81050,En expansión
+H81051,En expansión
+H81052,Cuentas clave
+H81053,En expansión
+H81055,En expansión
+H81056,Emergentes
+H81057,Estables de bajo crecimiento
+H81058,Cuentas clave
+H81061,En expansión
+H81062,Cuentas clave
+H81064,En expansión
+H81065,En expansión
+H81066,En expansión
+H81067,En expansión
+H81068,Cuentas clave
+H81069,Cuentas clave
+H81070,Estables de bajo crecimiento
+H81071,En expansión
+H81072,Cuentas clave
+H81073,Cuentas clave
+H81074,En expansión
+H81075,En expansión
+H81076,Estables de bajo crecimiento
+H81077,Estables de bajo crecimiento
+H81078,En expansión
+H81080,En expansión
+H81081,Cuentas clave
+H81082,En expansión
+H81083,Estables de bajo crecimiento
+H81085,En expansión
+H81086,En expansión
+H81087,Cuentas clave
+H81088,En expansión
+H81089,Cuentas clave
+H81090,En expansión
+H81091,En expansión
+H81094,En expansión
+H81095,En expansión
+H81099,En expansión
+H81103,En expansión
+H81104,En expansión
+H81107,En expansión
+H81109,En expansión
+H81110,Estables de bajo crecimiento
+H81111,En expansión
+H81113,En expansión
+H81116,En expansión
+H81119,Cuentas clave
+H81122,En expansión
+H81123,Estables de bajo crecimiento
+H81126,Estables de bajo crecimiento
+H81128,En expansión
+H81129,Estables de bajo crecimiento
+H81130,Emergentes
+H81131,En expansión
+H81132,Estables de bajo crecimiento
+H81133,En expansión
+H81134,En expansión
+H81613,Estables de bajo crecimiento
+H81615,En expansión
+H81618,En expansión
+H81632,En expansión
+H81641,En expansión
+H81642,En expansión
+H81643,En expansión
+H81644,En expansión
+H81656,En expansión
+H81663,En expansión
+H81672,En expansión
+H82003,Cuentas clave
+H82004,Estables de bajo crecimiento
+H82005,En expansión
+H82006,En expansión
+H82007,Cuentas clave
+H82009,Cuentas clave
+H82011,Cuentas clave
+H82012,Cuentas clave
+H82013,En expansión
+H82014,En expansión
+H82016,Cuentas clave
+H82017,Cuentas clave
+H82020,En expansión
+H82021,Estables de bajo crecimiento
+H82022,En expansión
+H82025,Cuentas clave
+H82026,Cuentas clave
+H82027,Estables de bajo crecimiento
+H82028,Estables de bajo crecimiento
+H82030,Cuentas clave
+H82031,Estables de bajo crecimiento
+H82032,Estables de bajo crecimiento
+H82033,Estables de bajo crecimiento
+H82035,En expansión
+H82036,En expansión
+H82037,Cuentas clave
+H82038,Cuentas clave
+H82039,Cuentas clave
+H82040,Cuentas clave
+H82041,Cuentas clave
+H82042,Cuentas clave
+H82043,En expansión
+H82044,En expansión
+H82045,En expansión
+H82046,Cuentas clave
+H82047,Estables de bajo crecimiento
+H82048,Cuentas clave
+H82049,En expansión
+H82050,Cuentas clave
+H82051,Estables de bajo crecimiento
+H82052,En expansión
+H82053,En expansión
+H82055,En expansión
+H82056,Cuentas clave
+H82057,Cuentas clave
+H82058,Cuentas clave
+H82059,Cuentas clave
+H82060,Cuentas clave
+H82061,En expansión
+H82063,Estables de bajo crecimiento
+H82064,Cuentas clave
+H82065,En expansión
+H82066,Cuentas clave
+H82067,Cuentas clave
+H82070,En expansión
+H82072,En expansión
+H82076,En expansión
+H82077,Cuentas clave
+H82078,En expansión
+H82084,En expansión
+H82087,En expansión
+H82088,Emergentes
+H82089,En expansión
+H82092,En expansión
+H82095,Estables de bajo crecimiento
+H82096,En expansión
+H82098,Cuentas clave
+H82099,Estables de bajo crecimiento
+H82100,En expansión
+H82615,En expansión
+H82640,Cuentas clave
+H83001,En expansión
+H83004,En expansión
+H83005,En expansión
+H83006,En expansión
+H83007,En expansión
+H83008,En expansión
+H83009,Emergentes
+H83010,Emergentes
+H83011,En expansión
+H83012,En expansión
+H83013,Emergentes
+H83014,En expansión
+H83015,Emergentes
+H83016,En expansión
+H83017,En expansión
+H83018,Emergentes
+H83019,En expansión
+H83020,En expansión
+H83021,En expansión
+H83022,En expansión
+H83023,En expansión
+H83024,En expansión
+H83028,En expansión
+H83029,En expansión
+H83030,En expansión
+H83031,En expansión
+H83033,Emergentes
+H83034,Estables de bajo crecimiento
+H83037,En expansión
+H83039,En expansión
+H83042,Emergentes
+H83043,En expansión
+H83044,En expansión
+H83049,En expansión
+H83051,En expansión
+H83052,En expansión
+H83053,Cuentas clave
+H83608,Emergentes
+H83609,En expansión
+H83611,En expansión
+H83624,Emergentes
+H83627,En expansión
+H83631,En expansión
+H84002,Estables de bajo crecimiento
+H84005,En expansión
+H84006,En expansión
+H84007,Estables de bajo crecimiento
+H84010,En expansión
+H84012,En expansión
+H84014,En expansión
+H84015,En expansión
+H84016,En expansión
+H84017,En expansión
+H84018,Estables de bajo crecimiento
+H84020,En expansión
+H84023,Emergentes
+H84025,En expansión
+H84027,En expansión
+H84030,Estables de bajo crecimiento
+H84031,En expansión
+H84032,Estables de bajo crecimiento
+H84033,En expansión
+H84034,En expansión
+H84039,En expansión
+H84040,Estables de bajo crecimiento
+H84041,En expansión
+H84042,En expansión
+H84044,Estables de bajo crecimiento
+H84048,Estables de bajo crecimiento
+H84050,En expansión
+H84051,En expansión
+H84053,En expansión
+H84054,En expansión
+H84055,En expansión
+H84059,Estables de bajo crecimiento
+H84060,Estables de bajo crecimiento
+H84061,Emergentes
+H84062,En expansión
+H84618,Estables de bajo crecimiento
+H84619,En expansión
+H84623,Estables de bajo crecimiento
+H84625,En expansión
+H84635,En expansión
+H84639,En expansión
+H85001,En expansión
+H85002,En expansión
+H85003,En expansión
+H85006,En expansión
+H85007,En expansión
+H85008,En expansión
+H85009,Emergentes
+H85011,En expansión
+H85012,En expansión
+H85018,En expansión
+H85020,Cuentas clave
+H85021,En expansión
+H85022,Emergentes
+H85023,Estables de bajo crecimiento
+H85024,En expansión
+H85025,Cuentas clave
+H85026,En expansión
+H85028,En expansión
+H85029,En expansión
+H85030,En expansión
+H85031,Estables de bajo crecimiento
+H85032,Estables de bajo crecimiento
+H85033,Cuentas clave
+H85037,En expansión
+H85038,En expansión
+H85041,Estables de bajo crecimiento
+H85045,En expansión
+H85047,En expansión
+H85048,En expansión
+H85049,Estables de bajo crecimiento
+H85051,En expansión
+H85052,Estables de bajo crecimiento
+H85053,Estables de bajo crecimiento
+H85055,Emergentes
+H85061,En expansión
+H85063,En expansión
+H85065,Emergentes
+H85066,En expansión
+H85067,En expansión
+H85069,En expansión
+H85070,En expansión
+H85075,Estables de bajo crecimiento
+H85076,En expansión
+H85077,En expansión
+H85078,En expansión
+H85082,Estables de bajo crecimiento
+H85087,En expansión
+H85088,En expansión
+H85090,En expansión
+H85092,En expansión
+H85095,Emergentes
+H85100,En expansión
+H85101,En expansión
+H85103,Estables de bajo crecimiento
+H85105,En expansión
+H85110,En expansión
+H85111,En expansión
+H85113,En expansión
+H85114,En expansión
+H85115,En expansión
+H85116,En expansión
+H85618,En expansión
+H85634,Estables de bajo crecimiento
+H85637,Estables de bajo crecimiento
+H85649,Cuentas clave
+H85653,En expansión
+H85656,En expansión
+H85662,En expansión
+H85664,En expansión
+H85680,En expansión
+H85682,En expansión
+H85683,En expansión
+H85686,En expansión
+H85693,En expansión
+J81002,Estables de bajo crecimiento
+J81006,Cuentas clave
+J81009,Estables de bajo crecimiento
+J81010,Estables de bajo crecimiento
+J81011,Estables de bajo crecimiento
+J81012,Cuentas clave
+J81013,Estables de bajo crecimiento
+J81014,Estables de bajo crecimiento
+J81016,Estables de bajo crecimiento
+J81017,Estables de bajo crecimiento
+J81018,Estables de bajo crecimiento
+J81019,Estables de bajo crecimiento
+J81020,Estables de bajo crecimiento
+J81021,Estables de bajo crecimiento
+J81022,Estables de bajo crecimiento
+J81025,Estables de bajo crecimiento
+J81027,Estables de bajo crecimiento
+J81028,Estables de bajo crecimiento
+J81029,Estables de bajo crecimiento
+J81030,Estables de bajo crecimiento
+J81033,Estables de bajo crecimiento
+J81034,En expansión
+J81035,Estables de bajo crecimiento
+J81036,Estables de bajo crecimiento
+J81039,Estables de bajo crecimiento
+J81041,Estables de bajo crecimiento
+J81042,Estables de bajo crecimiento
+J81045,Estables de bajo crecimiento
+J81046,Estables de bajo crecimiento
+J81047,Estables de bajo crecimiento
+J81049,Estables de bajo crecimiento
+J81051,Estables de bajo crecimiento
+J81053,Estables de bajo crecimiento
+J81056,Estables de bajo crecimiento
+J81057,Estables de bajo crecimiento
+J81058,Estables de bajo crecimiento
+J81059,Estables de bajo crecimiento
+J81061,En expansión
+J81062,Estables de bajo crecimiento
+J81064,Estables de bajo crecimiento
+J81066,Estables de bajo crecimiento
+J81067,Estables de bajo crecimiento
+J81068,Estables de bajo crecimiento
+J81070,Estables de bajo crecimiento
+J81072,Estables de bajo crecimiento
+J81073,Estables de bajo crecimiento
+J81074,Estables de bajo crecimiento
+J81075,Estables de bajo crecimiento
+J81076,Estables de bajo crecimiento
+J81077,Estables de bajo crecimiento
+J81078,Estables de bajo crecimiento
+J81081,Estables de bajo crecimiento
+J81082,Estables de bajo crecimiento
+J81083,Estables de bajo crecimiento
+J81086,Estables de bajo crecimiento
+J81087,Estables de bajo crecimiento
+J81609,Estables de bajo crecimiento
+J81612,Estables de bajo crecimiento
+J81613,Estables de bajo crecimiento
+J81616,Estables de bajo crecimiento
+J81620,Estables de bajo crecimiento
+J81621,Estables de bajo crecimiento
+J81625,Estables de bajo crecimiento
+J81626,Estables de bajo crecimiento
+J81631,Estables de bajo crecimiento
+J81633,Estables de bajo crecimiento
+J81634,Estables de bajo crecimiento
+J81644,Estables de bajo crecimiento
+J81646,Estables de bajo crecimiento
+J81647,Estables de bajo crecimiento
+J81648,Estables de bajo crecimiento
+J82001,En expansión
+J82002,Cuentas clave
+J82005,En expansión
+J82009,En expansión
+J82010,Cuentas clave
+J82012,Cuentas clave
+J82015,Cuentas clave
+J82016,En expansión
+J82017,En expansión
+J82018,Cuentas clave
+J82019,Cuentas clave
+J82020,Emergentes
+J82021,En expansión
+J82022,Estables de bajo crecimiento
+J82024,Cuentas clave
+J82025,Cuentas clave
+J82026,Cuentas clave
+J82028,Cuentas clave
+J82033,En expansión
+J82034,Estables de bajo crecimiento
+J82035,En expansión
+J82036,Estables de bajo crecimiento
+J82039,Estables de bajo crecimiento
+J82040,En expansión
+J82042,Cuentas clave
+J82050,En expansión
+J82051,Cuentas clave
+J82053,Cuentas clave
+J82054,Estables de bajo crecimiento
+J82055,En expansión
+J82056,Cuentas clave
+J82058,Cuentas clave
+J82059,En expansión
+J82060,Cuentas clave
+J82061,En expansión
+J82062,Cuentas clave
+J82063,Estables de bajo crecimiento
+J82064,Cuentas clave
+J82067,Cuentas clave
+J82071,En expansión
+J82072,Cuentas clave
+J82073,Cuentas clave
+J82074,Cuentas clave
+J82075,En expansión
+J82076,Cuentas clave
+J82079,Estables de bajo crecimiento
+J82080,Emergentes
+J82081,Cuentas clave
+J82082,Estables de bajo crecimiento
+J82084,En expansión
+J82087,En expansión
+J82088,Cuentas clave
+J82089,Estables de bajo crecimiento
+J82092,Estables de bajo crecimiento
+J82094,Cuentas clave
+J82098,Cuentas clave
+J82099,Estables de bajo crecimiento
+J82101,Cuentas clave
+J82102,Cuentas clave
+J82103,Cuentas clave
+J82104,En expansión
+J82106,Estables de bajo crecimiento
+J82110,Cuentas clave
+J82112,Cuentas clave
+J82115,Estables de bajo crecimiento
+J82116,En expansión
+J82119,Estables de bajo crecimiento
+J82120,Cuentas clave
+J82121,Estables de bajo crecimiento
+J82122,Estables de bajo crecimiento
+J82124,Estables de bajo crecimiento
+J82125,Cuentas clave
+J82126,Estables de bajo crecimiento
+J82128,En expansión
+J82129,Estables de bajo crecimiento
+J82130,Cuentas clave
+J82131,Estables de bajo crecimiento
+J82132,Cuentas clave
+J82136,En expansión
+J82138,Cuentas clave
+J82139,Cuentas clave
+J82142,Cuentas clave
+J82143,Cuentas clave
+J82144,Cuentas clave
+J82145,En expansión
+J82146,En expansión
+J82147,En expansión
+J82149,Cuentas clave
+J82150,Estables de bajo crecimiento
+J82151,Estables de bajo crecimiento
+J82152,Cuentas clave
+J82156,En expansión
+J82157,Cuentas clave
+J82161,En expansión
+J82163,Cuentas clave
+J82169,En expansión
+J82174,En expansión
+J82178,Cuentas clave
+J82181,Cuentas clave
+J82183,Estables de bajo crecimiento
+J82184,En expansión
+J82194,Cuentas clave
+J82196,Cuentas clave
+J82198,En expansión
+J82199,Emergentes
+J82201,En expansión
+J82207,En expansión
+J82208,Estables de bajo crecimiento
+J82210,Cuentas clave
+J82213,Estables de bajo crecimiento
+J82214,Emergentes
+J82215,En expansión
+J82216,Cuentas clave
+J82218,Estables de bajo crecimiento
+J82605,En expansión
+J82625,En expansión
+J82628,Estables de bajo crecimiento
+J82630,En expansión
+J82639,Cuentas clave
+J82640,En expansión
+J82646,Cuentas clave
+J82663,Estables de bajo crecimiento
+J82669,Estables de bajo crecimiento
+J83001,Cuentas clave
+J83003,Cuentas clave
+J83004,Emergentes
+J83005,En expansión
+J83006,En expansión
+J83007,Cuentas clave
+J83008,Cuentas clave
+J83009,Cuentas clave
+J83010,En expansión
+J83011,En expansión
+J83013,En expansión
+J83014,Cuentas clave
+J83016,Cuentas clave
+J83018,Cuentas clave
+J83019,Emergentes
+J83021,Cuentas clave
+J83022,Emergentes
+J83023,Cuentas clave
+J83024,En expansión
+J83026,Cuentas clave
+J83027,Emergentes
+J83029,En expansión
+J83030,Cuentas clave
+J83033,Emergentes
+J83034,En expansión
+J83035,Cuentas clave
+J83036,En expansión
+J83037,En expansión
+J83038,Emergentes
+J83039,Cuentas clave
+J83040,Cuentas clave
+J83041,En expansión
+J83042,Cuentas clave
+J83043,Emergentes
+J83045,En expansión
+J83046,Cuentas clave
+J83047,Emergentes
+J83048,Emergentes
+J83049,Cuentas clave
+J83050,Cuentas clave
+J83052,En expansión
+J83053,En expansión
+J83055,En expansión
+J83056,En expansión
+J83057,Cuentas clave
+J83058,Emergentes
+J83059,Emergentes
+J83060,En expansión
+J83064,Cuentas clave
+J83601,Estables de bajo crecimiento
+J83603,En expansión
+J83609,Emergentes
+J83615,En expansión
+J83618,En expansión
+J83619,En expansión
+J83625,En expansión
+J83629,Estables de bajo crecimiento
+J83630,Emergentes
+J83633,En expansión
+J83645,En expansión
+J83646,En expansión
+J84003,En expansión
+J84004,Cuentas clave
+J84005,En expansión
+J84007,En expansión
+J84008,En expansión
+J84011,Emergentes
+J84012,Cuentas clave
+J84013,Cuentas clave
+J84015,Emergentes
+J84016,En expansión
+J84017,En expansión
+J84019,Estables de bajo crecimiento
+K81001,Cuentas clave
+K81002,Cuentas clave
+K81003,Estables de bajo crecimiento
+K81004,Cuentas clave
+K81005,Estables de bajo crecimiento
+K81007,En expansión
+K81010,En expansión
+K81012,Emergentes
+K81014,Cuentas clave
+K81015,En expansión
+K81017,Estables de bajo crecimiento
+K81018,Emergentes
+K81019,Emergentes
+K81020,Cuentas clave
+K81021,En expansión
+K81022,Estables de bajo crecimiento
+K81024,Cuentas clave
+K81025,Cuentas clave
+K81026,Estables de bajo crecimiento
+K81027,Cuentas clave
+K81028,En expansión
+K81034,En expansión
+K81036,Emergentes
+K81040,Estables de bajo crecimiento
+K81041,En expansión
+K81042,En expansión
+K81043,Cuentas clave
+K81045,Estables de bajo crecimiento
+K81046,En expansión
+K81047,Cuentas clave
+K81048,Cuentas clave
+K81050,Cuentas clave
+K81051,Cuentas clave
+K81052,Estables de bajo crecimiento
+K81055,Estables de bajo crecimiento
+K81056,Emergentes
+K81057,En expansión
+K81060,En expansión
+K81062,Cuentas clave
+K81063,Cuentas clave
+K81066,Emergentes
+K81068,En expansión
+K81069,En expansión
+K81070,Cuentas clave
+K81073,Cuentas clave
+K81074,En expansión
+K81076,En expansión
+K81077,Estables de bajo crecimiento
+K81078,Cuentas clave
+K81080,En expansión
+K81081,En expansión
+K81082,En expansión
+K81083,Cuentas clave
+K81084,En expansión
+K81085,Emergentes
+K81086,Estables de bajo crecimiento
+K81087,Emergentes
+K81089,Estables de bajo crecimiento
+K81092,En expansión
+K81094,En expansión
+K81097,En expansión
+K81100,En expansión
+K81102,Cuentas clave
+K81103,Estables de bajo crecimiento
+K81605,Cuentas clave
+K81607,Estables de bajo crecimiento
+K81608,Estables de bajo crecimiento
+K81610,Cuentas clave
+K81616,En expansión
+K81630,Estables de bajo crecimiento
+K81633,Emergentes
+K81636,Emergentes
+K81638,Estables de bajo crecimiento
+K81644,En expansión
+K81645,En expansión
+K81651,Emergentes
+K81655,Emergentes
+K81656,Emergentes
+K81657,Emergentes
+K82001,Estables de bajo crecimiento
+K82003,Cuentas clave
+K82004,En expansión
+K82006,En expansión
+K82007,Cuentas clave
+K82008,En expansión
+K82010,Estables de bajo crecimiento
+K82011,En expansión
+K82012,En expansión
+K82013,Cuentas clave
+K82014,Estables de bajo crecimiento
+K82015,Cuentas clave
+K82017,Estables de bajo crecimiento
+K82019,En expansión
+K82020,Estables de bajo crecimiento
+K82021,Cuentas clave
+K82022,En expansión
+K82023,Cuentas clave
+K82024,En expansión
+K82025,Cuentas clave
+K82026,Cuentas clave
+K82027,En expansión
+K82028,Estables de bajo crecimiento
+K82029,Estables de bajo crecimiento
+K82030,Estables de bajo crecimiento
+K82031,En expansión
+K82032,En expansión
+K82033,Cuentas clave
+K82035,En expansión
+K82036,Emergentes
+K82037,Estables de bajo crecimiento
+K82038,Cuentas clave
+K82039,Cuentas clave
+K82040,Cuentas clave
+K82044,Estables de bajo crecimiento
+K82045,Emergentes
+K82046,En expansión
+K82047,Estables de bajo crecimiento
+K82048,En expansión
+K82049,Estables de bajo crecimiento
+K82051,En expansión
+K82053,En expansión
+K82054,Cuentas clave
+K82055,En expansión
+K82057,En expansión
+K82058,En expansión
+K82059,Emergentes
+K82061,Estables de bajo crecimiento
+K82064,En expansión
+K82065,Cuentas clave
+K82066,En expansión
+K82067,Estables de bajo crecimiento
+K82068,En expansión
+K82070,Cuentas clave
+K82073,Cuentas clave
+K82074,Estables de bajo crecimiento
+K82076,Estables de bajo crecimiento
+K82079,Estables de bajo crecimiento
+K82603,Estables de bajo crecimiento
+K82610,Cuentas clave
+K82615,Emergentes
+K82617,En expansión
+K82618,Emergentes
+K82621,En expansión
+K82631,Cuentas clave
+K82633,Cuentas clave
+K83002,Cuentas clave
+K83003,En expansión
+K83005,En expansión
+K83006,En expansión
+K83007,Cuentas clave
+K83008,Emergentes
+K83009,Emergentes
+K83010,Cuentas clave
+K83011,Cuentas clave
+K83012,En expansión
+K83013,Cuentas clave
+K83014,Cuentas clave
+K83015,Cuentas clave
+K83017,Estables de bajo crecimiento
+K83018,Emergentes
+K83019,Cuentas clave
+K83020,Estables de bajo crecimiento
+K83022,Emergentes
+K83023,Estables de bajo crecimiento
+K83024,En expansión
+K83025,Estables de bajo crecimiento
+K83026,Cuentas clave
+K83027,Emergentes
+K83028,Emergentes
+K83029,Emergentes
+K83030,En expansión
+K83031,Cuentas clave
+K83032,Cuentas clave
+K83035,Cuentas clave
+K83036,Cuentas clave
+K83037,Cuentas clave
+K83039,Cuentas clave
+K83040,Estables de bajo crecimiento
+K83041,Cuentas clave
+K83042,Cuentas clave
+K83043,Emergentes
+K83044,En expansión
+K83047,Cuentas clave
+K83048,En expansión
+K83049,Cuentas clave
+K83050,En expansión
+K83051,Cuentas clave
+K83052,Cuentas clave
+K83053,Estables de bajo crecimiento
+K83055,En expansión
+K83056,En expansión
+K83064,Cuentas clave
+K83065,Emergentes
+K83066,Cuentas clave
+K83068,En expansión
+K83069,Estables de bajo crecimiento
+K83070,Cuentas clave
+K83076,En expansión
+K83077,En expansión
+K83080,En expansión
+K83081,En expansión
+K83601,En expansión
+K83610,Cuentas clave
+K83614,Emergentes
+K83616,En expansión
+K83618,Emergentes
+K83620,Emergentes
+K83621,En expansión
+K83622,Cuentas clave
+K83625,Estables de bajo crecimiento
+K84001,Estables de bajo crecimiento
+K84002,Cuentas clave
+K84003,En expansión
+K84004,En expansión
+K84006,Cuentas clave
+K84007,En expansión
+K84008,En expansión
+K84009,Cuentas clave
+K84010,En expansión
+K84011,En expansión
+K84012,Emergentes
+K84013,Cuentas clave
+K84014,Estables de bajo crecimiento
+K84015,Estables de bajo crecimiento
+K84016,Emergentes
+K84017,Cuentas clave
+K84019,En expansión
+K84020,Emergentes
+K84021,En expansión
+K84023,Emergentes
+K84024,Emergentes
+K84026,En expansión
+K84027,Estables de bajo crecimiento
+K84028,Cuentas clave
+K84030,Cuentas clave
+K84031,Cuentas clave
+K84032,Estables de bajo crecimiento
+K84033,Cuentas clave
+K84034,Estables de bajo crecimiento
+K84035,En expansión
+K84036,En expansión
+K84037,Cuentas clave
+K84038,Estables de bajo crecimiento
+K84041,Estables de bajo crecimiento
+K84042,Emergentes
+K84043,Cuentas clave
+K84044,Cuentas clave
+K84045,Estables de bajo crecimiento
+K84046,En expansión
+K84047,Estables de bajo crecimiento
+K84048,Estables de bajo crecimiento
+K84049,Estables de bajo crecimiento
+K84050,Emergentes
+K84051,Cuentas clave
+K84052,Cuentas clave
+K84054,Cuentas clave
+K84055,Estables de bajo crecimiento
+K84056,Estables de bajo crecimiento
+K84058,Emergentes
+K84059,En expansión
+K84060,Estables de bajo crecimiento
+K84062,En expansión
+K84063,Estables de bajo crecimiento
+K84065,Estables de bajo crecimiento
+K84071,Estables de bajo crecimiento
+K84072,Cuentas clave
+K84075,Cuentas clave
+K84078,Emergentes
+K84079,Estables de bajo crecimiento
+K84080,En expansión
+K84082,Cuentas clave
+K84605,En expansión
+K84610,Estables de bajo crecimiento
+K84613,Cuentas clave
+K84618,Estables de bajo crecimiento
+K84624,Estables de bajo crecimiento
+L81004,En expansión
+L81007,Cuentas clave
+L81008,En expansión
+L81009,Cuentas clave
+L81010,En expansión
+L81012,En expansión
+L81013,En expansión
+L81014,En expansión
+L81015,Cuentas clave
+L81016,Cuentas clave
+L81017,En expansión
+L81018,En expansión
+L81019,Cuentas clave
+L81020,En expansión
+L81021,Cuentas clave
+L81022,Cuentas clave
+L81023,En expansión
+L81024,En expansión
+L81025,En expansión
+L81026,Cuentas clave
+L81027,En expansión
+L81029,Estables de bajo crecimiento
+L81030,En expansión
+L81031,Cuentas clave
+L81033,En expansión
+L81034,En expansión
+L81036,Estables de bajo crecimiento
+L81037,Cuentas clave
+L81038,En expansión
+L81039,Cuentas clave
+L81040,Cuentas clave
+L81041,Estables de bajo crecimiento
+L81042,En expansión
+L81044,En expansión
+L81045,En expansión
+L81046,En expansión
+L81047,En expansión
+L81050,En expansión
+L81053,En expansión
+L81054,Estables de bajo crecimiento
+L81055,En expansión
+L81058,Estables de bajo crecimiento
+L81059,En expansión
+L81061,En expansión
+L81062,Cuentas clave
+L81063,En expansión
+L81064,Estables de bajo crecimiento
+L81065,Estables de bajo crecimiento
+L81066,Cuentas clave
+L81067,Estables de bajo crecimiento
+L81068,En expansión
+L81069,Cuentas clave
+L81070,En expansión
+L81071,En expansión
+L81072,En expansión
+L81073,En expansión
+L81075,En expansión
+L81077,Estables de bajo crecimiento
+L81078,En expansión
+L81079,Cuentas clave
+L81081,En expansión
+L81082,En expansión
+L81083,En expansión
+L81084,En expansión
+L81085,En expansión
+L81086,Cuentas clave
+L81087,Cuentas clave
+L81089,En expansión
+L81090,En expansión
+L81091,En expansión
+L81094,Estables de bajo crecimiento
+L81095,Cuentas clave
+L81098,Cuentas clave
+L81101,Estables de bajo crecimiento
+L81103,Estables de bajo crecimiento
+L81106,Estables de bajo crecimiento
+L81117,Estables de bajo crecimiento
+L81118,Cuentas clave
+L81120,Estables de bajo crecimiento
+L81122,Estables de bajo crecimiento
+L81123,En expansión
+L81125,En expansión
+L81127,Emergentes
+L81130,Cuentas clave
+L81131,Estables de bajo crecimiento
+L81132,En expansión
+L81600,En expansión
+L81632,En expansión
+L81642,En expansión
+L81643,Cuentas clave
+L81644,En expansión
+L81649,Estables de bajo crecimiento
+L81669,Cuentas clave
+L81670,En expansión
+L82001,Cuentas clave
+L82003,En expansión
+L82004,En expansión
+L82006,Cuentas clave
+L82007,Cuentas clave
+L82008,Estables de bajo crecimiento
+L82011,Cuentas clave
+L82012,Cuentas clave
+L82013,Cuentas clave
+L82015,En expansión
+L82016,Cuentas clave
+L82017,Estables de bajo crecimiento
+L82018,Cuentas clave
+L82022,Cuentas clave
+L82023,Cuentas clave
+L82025,En expansión
+L82026,Estables de bajo crecimiento
+L82028,Cuentas clave
+L82029,Cuentas clave
+L82030,Cuentas clave
+L82035,Cuentas clave
+L82036,Cuentas clave
+L82038,Cuentas clave
+L82039,Estables de bajo crecimiento
+L82041,Cuentas clave
+L82042,Cuentas clave
+L82043,Estables de bajo crecimiento
+L82044,Cuentas clave
+L82045,Cuentas clave
+L82046,Cuentas clave
+L82047,En expansión
+L82048,En expansión
+L82049,Cuentas clave
+L82050,Estables de bajo crecimiento
+L82051,Cuentas clave
+L82052,En expansión
+L82054,En expansión
+L82056,Cuentas clave
+L82057,Estables de bajo crecimiento
+L82058,En expansión
+L82059,En expansión
+L82061,En expansión
+L82066,En expansión
+L82068,En expansión
+L82070,Estables de bajo crecimiento
+L82620,En expansión
+L82622,Estables de bajo crecimiento
+L83002,Estables de bajo crecimiento
+L83003,Estables de bajo crecimiento
+L83004,Estables de bajo crecimiento
+L83005,Estables de bajo crecimiento
+L83007,En expansión
+L83010,En expansión
+L83011,Estables de bajo crecimiento
+L83012,Emergentes
+L83013,Cuentas clave
+L83014,Cuentas clave
+L83015,Cuentas clave
+L83016,En expansión
+L83018,Estables de bajo crecimiento
+L83019,Cuentas clave
+L83020,En expansión
+L83021,Cuentas clave
+L83023,Estables de bajo crecimiento
+L83024,En expansión
+L83025,Estables de bajo crecimiento
+L83026,Emergentes
+L83027,En expansión
+L83028,Cuentas clave
+L83029,En expansión
+L83030,En expansión
+L83031,En expansión
+L83034,Estables de bajo crecimiento
+L83035,En expansión
+L83036,Estables de bajo crecimiento
+L83038,Cuentas clave
+L83039,En expansión
+L83040,En expansión
+L83041,Emergentes
+L83042,Estables de bajo crecimiento
+L83043,En expansión
+L83044,En expansión
+L83045,En expansión
+L83046,En expansión
+L83048,Cuentas clave
+L83049,Estables de bajo crecimiento
+L83050,En expansión
+L83051,Estables de bajo crecimiento
+L83052,Estables de bajo crecimiento
+L83053,Estables de bajo crecimiento
+L83054,Estables de bajo crecimiento
+L83055,Cuentas clave
+L83056,Estables de bajo crecimiento
+L83057,En expansión
+L83058,Estables de bajo crecimiento
+L83059,En expansión
+L83064,Cuentas clave
+L83066,En expansión
+L83067,Estables de bajo crecimiento
+L83068,Estables de bajo crecimiento
+L83069,Estables de bajo crecimiento
+L83070,En expansión
+L83071,En expansión
+L83072,Cuentas clave
+L83073,Cuentas clave
+L83075,En expansión
+L83076,Cuentas clave
+L83077,En expansión
+L83079,Estables de bajo crecimiento
+L83081,En expansión
+L83082,En expansión
+L83083,Cuentas clave
+L83084,En expansión
+L83085,En expansión
+L83086,En expansión
+L83087,Estables de bajo crecimiento
+L83088,Estables de bajo crecimiento
+L83089,Cuentas clave
+L83092,Estables de bajo crecimiento
+L83094,En expansión
+L83095,Estables de bajo crecimiento
+L83096,En expansión
+L83097,Estables de bajo crecimiento
+L83098,En expansión
+L83099,Estables de bajo crecimiento
+L83101,Cuentas clave
+L83102,En expansión
+L83103,Cuentas clave
+L83105,En expansión
+L83106,Emergentes
+L83111,Estables de bajo crecimiento
+L83112,En expansión
+L83113,Cuentas clave
+L83115,En expansión
+L83116,En expansión
+L83118,Cuentas clave
+L83120,En expansión
+L83127,Estables de bajo crecimiento
+L83128,Estables de bajo crecimiento
+L83129,En expansión
+L83131,Cuentas clave
+L83134,Estables de bajo crecimiento
+L83136,Estables de bajo crecimiento
+L83137,En expansión
+L83143,Estables de bajo crecimiento
+L83146,En expansión
+L83147,En expansión
+L83148,Estables de bajo crecimiento
+L83607,En expansión
+L83616,Estables de bajo crecimiento
+L83624,Cuentas clave
+L83628,Emergentes
+L83639,Estables de bajo crecimiento
+L83646,En expansión
+L83648,En expansión
+L83651,En expansión
+L83655,Estables de bajo crecimiento
+L83657,Estables de bajo crecimiento
+L83663,En expansión
+L83666,Estables de bajo crecimiento
+L83673,En expansión
+L84003,Emergentes
+L84004,Estables de bajo crecimiento
+L84005,En expansión
+L84006,En expansión
+L84007,Estables de bajo crecimiento
+L84008,En expansión
+L84009,En expansión
+L84010,Cuentas clave
+L84011,En expansión
+L84012,Estables de bajo crecimiento
+L84014,En expansión
+L84015,Estables de bajo crecimiento
+L84016,En expansión
+L84018,Cuentas clave
+L84021,Emergentes
+L84022,En expansión
+L84023,En expansión
+L84024,Estables de bajo crecimiento
+L84025,Emergentes
+L84027,Cuentas clave
+L84028,Cuentas clave
+L84029,En expansión
+L84030,Emergentes
+L84031,Estables de bajo crecimiento
+L84033,Cuentas clave
+L84034,Estables de bajo crecimiento
+L84036,En expansión
+L84037,Estables de bajo crecimiento
+L84038,Estables de bajo crecimiento
+L84039,En expansión
+L84040,En expansión
+L84041,En expansión
+L84043,Estables de bajo crecimiento
+L84045,Estables de bajo crecimiento
+L84046,En expansión
+L84047,Estables de bajo crecimiento
+L84048,En expansión
+L84049,Emergentes
+L84050,Cuentas clave
+L84051,En expansión
+L84052,En expansión
+L84053,Estables de bajo crecimiento
+L84054,Cuentas clave
+L84058,Cuentas clave
+L84059,En expansión
+L84060,Estables de bajo crecimiento
+L84063,Emergentes
+L84065,Estables de bajo crecimiento
+L84067,En expansión
+L84068,En expansión
+L84069,Estables de bajo crecimiento
+L84070,Estables de bajo crecimiento
+L84071,Estables de bajo crecimiento
+L84072,En expansión
+L84075,Emergentes
+L84077,En expansión
+L84080,Cuentas clave
+L84081,Emergentes
+L84084,Cuentas clave
+L84085,Cuentas clave
+L84606,Estables de bajo crecimiento
+L84613,Estables de bajo crecimiento
+L84617,Emergentes
+L85001,Cuentas clave
+L85002,En expansión
+L85003,Estables de bajo crecimiento
+L85004,En expansión
+L85006,En expansión
+L85007,En expansión
+L85008,Cuentas clave
+L85009,Cuentas clave
+L85010,Estables de bajo crecimiento
+L85011,Estables de bajo crecimiento
+L85012,Cuentas clave
+L85013,En expansión
+L85014,Cuentas clave
+L85015,Cuentas clave
+L85016,Cuentas clave
+L85017,Cuentas clave
+L85018,En expansión
+L85019,Estables de bajo crecimiento
+L85020,Cuentas clave
+L85021,Cuentas clave
+L85022,En expansión
+L85023,Cuentas clave
+L85024,Cuentas clave
+L85025,Cuentas clave
+L85026,En expansión
+L85027,En expansión
+L85029,En expansión
+L85030,Cuentas clave
+L85031,En expansión
+L85032,En expansión
+L85033,En expansión
+L85034,Emergentes
+L85035,Cuentas clave
+L85036,Estables de bajo crecimiento
+L85037,En expansión
+L85038,En expansión
+L85039,Estables de bajo crecimiento
+L85040,Emergentes
+L85042,Cuentas clave
+L85043,En expansión
+L85044,En expansión
+L85046,En expansión
+L85047,En expansión
+L85048,Estables de bajo crecimiento
+L85050,Estables de bajo crecimiento
+L85051,En expansión
+L85052,En expansión
+L85053,En expansión
+L85054,En expansión
+L85055,Estables de bajo crecimiento
+L85056,Emergentes
+L85061,En expansión
+L85062,En expansión
+L85064,Emergentes
+L85065,En expansión
+L85066,En expansión
+L85601,Emergentes
+L85607,En expansión
+L85609,En expansión
+L85611,Estables de bajo crecimiento
+L85624,En expansión
+M81001,Cuentas clave
+M81002,En expansión
+M81004,Cuentas clave
+M81005,Cuentas clave
+M81006,Cuentas clave
+M81007,En expansión
+M81008,Cuentas clave
+M81009,En expansión
+M81010,Cuentas clave
+M81011,En expansión
+M81012,Estables de bajo crecimiento
+M81015,En expansión
+M81016,Cuentas clave
+M81017,Cuentas clave
+M81018,Estables de bajo crecimiento
+M81019,Cuentas clave
+M81020,En expansión
+M81021,En expansión
+M81022,Cuentas clave
+M81024,Estables de bajo crecimiento
+M81025,En expansión
+M81027,En expansión
+M81029,Estables de bajo crecimiento
+M81032,Cuentas clave
+M81033,Estables de bajo crecimiento
+M81034,Estables de bajo crecimiento
+M81035,En expansión
+M81037,Emergentes
+M81038,Cuentas clave
+M81041,Cuentas clave
+M81042,En expansión
+M81043,Estables de bajo crecimiento
+M81044,Emergentes
+M81045,Estables de bajo crecimiento
+M81046,Cuentas clave
+M81047,Cuentas clave
+M81048,Cuentas clave
+M81049,En expansión
+M81054,Estables de bajo crecimiento
+M81055,En expansión
+M81056,Cuentas clave
+M81057,Cuentas clave
+M81058,Cuentas clave
+M81061,En expansión
+M81062,Estables de bajo crecimiento
+M81063,Estables de bajo crecimiento
+M81064,En expansión
+M81066,En expansión
+M81067,Emergentes
+M81068,Cuentas clave
+M81069,En expansión
+M81070,En expansión
+M81072,Emergentes
+M81074,Cuentas clave
+M81075,Cuentas clave
+M81076,Estables de bajo crecimiento
+M81077,En expansión
+M81078,En expansión
+M81081,En expansión
+M81082,En expansión
+M81083,En expansión
+M81084,Estables de bajo crecimiento
+M81090,Emergentes
+M81091,Cuentas clave
+M81092,Estables de bajo crecimiento
+M81093,Cuentas clave
+M81094,Cuentas clave
+M81600,Estables de bajo crecimiento
+M81604,En expansión
+M81605,Estables de bajo crecimiento
+M81608,En expansión
+M81616,En expansión
+M81617,En expansión
+M81627,En expansión
+M81629,En expansión
+M81636,Estables de bajo crecimiento
+M82002,En expansión
+M82003,En expansión
+M82004,Cuentas clave
+M82005,En expansión
+M82006,En expansión
+M82007,En expansión
+M82008,En expansión
+M82009,Cuentas clave
+M82010,Cuentas clave
+M82011,Estables de bajo crecimiento
+M82012,Estables de bajo crecimiento
+M82013,En expansión
+M82014,En expansión
+M82016,En expansión
+M82017,En expansión
+M82018,En expansión
+M82019,Estables de bajo crecimiento
+M82020,Estables de bajo crecimiento
+M82021,Cuentas clave
+M82022,Estables de bajo crecimiento
+M82023,Estables de bajo crecimiento
+M82024,En expansión
+M82025,Estables de bajo crecimiento
+M82026,Cuentas clave
+M82028,Estables de bajo crecimiento
+M82030,Estables de bajo crecimiento
+M82031,Estables de bajo crecimiento
+M82032,En expansión
+M82033,En expansión
+M82034,Estables de bajo crecimiento
+M82035,Estables de bajo crecimiento
+M82038,Cuentas clave
+M82039,En expansión
+M82040,Estables de bajo crecimiento
+M82041,Cuentas clave
+M82042,Estables de bajo crecimiento
+M82043,Estables de bajo crecimiento
+M82046,Estables de bajo crecimiento
+M82047,Estables de bajo crecimiento
+M82048,En expansión
+M82051,Emergentes
+M82056,En expansión
+M82057,Emergentes
+M82058,En expansión
+M82059,Cuentas clave
+M82060,En expansión
+M82601,Estables de bajo crecimiento
+M82606,En expansión
+M82616,Estables de bajo crecimiento
+M82620,Estables de bajo crecimiento
+M83001,En expansión
+M83004,Cuentas clave
+M83005,En expansión
+M83006,En expansión
+M83007,En expansión
+M83009,Estables de bajo crecimiento
+M83010,Estables de bajo crecimiento
+M83011,En expansión
+M83012,En expansión
+M83013,Estables de bajo crecimiento
+M83014,En expansión
+M83015,En expansión
+M83016,En expansión
+M83017,Estables de bajo crecimiento
+M83018,En expansión
+M83020,En expansión
+M83021,En expansión
+M83022,En expansión
+M83023,En expansión
+M83024,En expansión
+M83025,En expansión
+M83026,Estables de bajo crecimiento
+M83027,Estables de bajo crecimiento
+M83028,Estables de bajo crecimiento
+M83030,Estables de bajo crecimiento
+M83031,Estables de bajo crecimiento
+M83032,En expansión
+M83033,En expansión
+M83034,En expansión
+M83035,Estables de bajo crecimiento
+M83036,En expansión
+M83037,En expansión
+M83038,En expansión
+M83042,Estables de bajo crecimiento
+M83044,En expansión
+M83045,En expansión
+M83046,En expansión
+M83047,En expansión
+M83048,En expansión
+M83049,En expansión
+M83050,En expansión
+M83051,Estables de bajo crecimiento
+M83052,Cuentas clave
+M83054,En expansión
+M83056,Estables de bajo crecimiento
+M83057,En expansión
+M83059,Estables de bajo crecimiento
+M83061,Estables de bajo crecimiento
+M83062,En expansión
+M83063,En expansión
+M83065,Estables de bajo crecimiento
+M83066,En expansión
+M83067,En expansión
+M83068,En expansión
+M83069,En expansión
+M83070,En expansión
+M83071,En expansión
+M83072,Emergentes
+M83073,Estables de bajo crecimiento
+M83074,Estables de bajo crecimiento
+M83075,En expansión
+M83076,En expansión
+M83079,En expansión
+M83084,En expansión
+M83088,En expansión
+M83089,En expansión
+M83090,En expansión
+M83092,En expansión
+M83093,En expansión
+M83094,Estables de bajo crecimiento
+M83096,En expansión
+M83097,En expansión
+M83100,En expansión
+M83102,En expansión
+M83103,En expansión
+M83107,En expansión
+M83108,En expansión
+M83109,En expansión
+M83110,En expansión
+M83111,En expansión
+M83113,En expansión
+M83117,Estables de bajo crecimiento
+M83121,En expansión
+M83122,En expansión
+M83123,Estables de bajo crecimiento
+M83125,En expansión
+M83126,Estables de bajo crecimiento
+M83127,En expansión
+M83129,En expansión
+M83130,Estables de bajo crecimiento
+M83132,En expansión
+M83138,En expansión
+M83139,Estables de bajo crecimiento
+M83140,Estables de bajo crecimiento
+M83141,En expansión
+M83143,En expansión
+M83146,Estables de bajo crecimiento
+M83148,Estables de bajo crecimiento
+M83601,Estables de bajo crecimiento
+M83608,En expansión
+M83616,En expansión
+M83617,Cuentas clave
+M83619,En expansión
+M83624,En expansión
+M83625,En expansión
+M83627,Estables de bajo crecimiento
+M83632,En expansión
+M83637,En expansión
+M83638,Cuentas clave
+M83640,En expansión
+M83641,Estables de bajo crecimiento
+M83650,En expansión
+M83661,En expansión
+M83668,En expansión
+M83670,En expansión
+M83680,En expansión
+M83681,Estables de bajo crecimiento
+M83682,En expansión
+M83691,En expansión
+M83693,Estables de bajo crecimiento
+M83697,En expansión
+M83698,Estables de bajo crecimiento
+M83701,Estables de bajo crecimiento
+M83703,Estables de bajo crecimiento
+M83709,En expansión
+M83711,En expansión
+M83713,En expansión
+M83715,En expansión
+M83717,En expansión
+M83718,Estables de bajo crecimiento
+M83719,En expansión
+M83723,Cuentas clave
+M83725,Estables de bajo crecimiento
+M83727,Estables de bajo crecimiento
+M83738,Estables de bajo crecimiento
+M84001,Estables de bajo crecimiento
+M84002,Estables de bajo crecimiento
+M84003,Cuentas clave
+M84004,En expansión
+M84005,En expansión
+M84006,Estables de bajo crecimiento
+M84007,Cuentas clave
+M84008,Estables de bajo crecimiento
+M84009,Estables de bajo crecimiento
+M84010,En expansión
+M84011,Cuentas clave
+M84012,Cuentas clave
+M84013,En expansión
+M84014,Estables de bajo crecimiento
+M84015,Cuentas clave
+M84016,Estables de bajo crecimiento
+M84017,Estables de bajo crecimiento
+M84018,Estables de bajo crecimiento
+M84019,Cuentas clave
+M84020,En expansión
+M84021,Estables de bajo crecimiento
+M84022,Cuentas clave
+M84023,Cuentas clave
+M84024,En expansión
+M84025,Estables de bajo crecimiento
+M84026,En expansión
+M84028,Cuentas clave
+M84029,En expansión
+M84030,Estables de bajo crecimiento
+M84031,Estables de bajo crecimiento
+M84032,En expansión
+M84035,Estables de bajo crecimiento
+M84036,Cuentas clave
+M84037,Estables de bajo crecimiento
+M84040,Estables de bajo crecimiento
+M84041,En expansión
+M84042,En expansión
+M84043,Estables de bajo crecimiento
+M84044,Estables de bajo crecimiento
+M84046,En expansión
+M84047,En expansión
+M84049,Cuentas clave
+M84050,Estables de bajo crecimiento
+M84051,Cuentas clave
+M84055,En expansión
+M84059,Estables de bajo crecimiento
+M84060,En expansión
+M84061,Estables de bajo crecimiento
+M84062,Estables de bajo crecimiento
+M84063,En expansión
+M84064,En expansión
+M84065,Estables de bajo crecimiento
+M84066,Estables de bajo crecimiento
+M84067,Estables de bajo crecimiento
+M84069,Estables de bajo crecimiento
+M84070,En expansión
+M84609,Estables de bajo crecimiento
+M84612,Emergentes
+M84615,Emergentes
+M84616,En expansión
+M84618,En expansión
+M84620,Estables de bajo crecimiento
+M84621,Estables de bajo crecimiento
+M84627,En expansión
+M84629,Emergentes
+M85001,Estables de bajo crecimiento
+M85002,En expansión
+M85005,En expansión
+M85006,En expansión
+M85007,Cuentas clave
+M85009,Estables de bajo crecimiento
+M85011,Estables de bajo crecimiento
+M85013,Emergentes
+M85014,Estables de bajo crecimiento
+M85016,Cuentas clave
+M85018,En expansión
+M85019,Cuentas clave
+M85020,Cuentas clave
+M85021,En expansión
+M85023,En expansión
+M85024,En expansión
+M85025,En expansión
+M85026,Cuentas clave
+M85027,En expansión
+M85028,Cuentas clave
+M85029,En expansión
+M85030,Cuentas clave
+M85031,En expansión
+M85033,Emergentes
+M85034,Cuentas clave
+M85035,En expansión
+M85037,En expansión
+M85041,Estables de bajo crecimiento
+M85042,Emergentes
+M85043,Estables de bajo crecimiento
+M85046,Cuentas clave
+M85047,Estables de bajo crecimiento
+M85048,Cuentas clave
+M85051,En expansión
+M85053,Estables de bajo crecimiento
+M85055,En expansión
+M85056,En expansión
+M85058,En expansión
+M85060,Cuentas clave
+M85061,Cuentas clave
+M85062,Estables de bajo crecimiento
+M85065,Emergentes
+M85066,Estables de bajo crecimiento
+M85069,Estables de bajo crecimiento
+M85070,Cuentas clave
+M85071,En expansión
+M85074,En expansión
+M85076,En expansión
+M85077,En expansión
+M85078,Cuentas clave
+M85079,Cuentas clave
+M85081,Cuentas clave
+M85082,Estables de bajo crecimiento
+M85084,En expansión
+M85086,Cuentas clave
+M85087,Cuentas clave
+M85088,Cuentas clave
+M85094,Emergentes
+M85097,En expansión
+M85098,Estables de bajo crecimiento
+M85105,Estables de bajo crecimiento
+M85107,En expansión
+M85108,En expansión
+M85110,Estables de bajo crecimiento
+M85113,Estables de bajo crecimiento
+M85116,En expansión
+M85117,Estables de bajo crecimiento
+M85118,En expansión
+M85123,Estables de bajo crecimiento
+M85124,Cuentas clave
+M85128,En expansión
+M85134,Estables de bajo crecimiento
+M85136,Cuentas clave
+M85139,Cuentas clave
+M85141,En expansión
+M85142,Estables de bajo crecimiento
+M85143,En expansión
+M85145,En expansión
+M85146,Cuentas clave
+M85149,Cuentas clave
+M85153,Estables de bajo crecimiento
+M85154,En expansión
+M85155,Estables de bajo crecimiento
+M85156,En expansión
+M85158,Estables de bajo crecimiento
+M85164,Estables de bajo crecimiento
+M85167,En expansión
+M85170,En expansión
+M85171,Emergentes
+M85172,Cuentas clave
+M85174,Estables de bajo crecimiento
+M85175,En expansión
+M85176,Emergentes
+M85177,En expansión
+M85178,Cuentas clave
+M85179,Estables de bajo crecimiento
+M85600,En expansión
+M85624,En expansión
+M85634,En expansión
+M85642,Estables de bajo crecimiento
+M85669,Emergentes
+M85670,En expansión
+M85676,En expansión
+M85679,En expansión
+M85680,En expansión
+M85684,Emergentes
+M85686,Estables de bajo crecimiento
+M85693,Estables de bajo crecimiento
+M85694,En expansión
+M85697,Emergentes
+M85699,En expansión
+M85701,Estables de bajo crecimiento
+M85706,Cuentas clave
+M85711,En expansión
+M85713,En expansión
+M85715,En expansión
+M85716,Estables de bajo crecimiento
+M85717,En expansión
+M85721,En expansión
+M85722,En expansión
+M85730,Emergentes
+M85732,Estables de bajo crecimiento
+M85733,En expansión
+M85735,En expansión
+M85736,En expansión
+M85739,Emergentes
+M85746,En expansión
+M85749,En expansión
+M85756,En expansión
+M85757,En expansión
+M85759,En expansión
+M85766,En expansión
+M85770,Emergentes
+M85774,En expansión
+M85778,En expansión
+M85779,En expansión
+M85781,Cuentas clave
+M85783,Estables de bajo crecimiento
+M85792,Emergentes
+M85794,Estables de bajo crecimiento
+M85797,En expansión
+M85803,Cuentas clave
+M85805,Estables de bajo crecimiento
+M86001,Estables de bajo crecimiento
+M86002,Cuentas clave
+M86003,En expansión
+M86004,En expansión
+M86005,En expansión
+M86006,Estables de bajo crecimiento
+M86007,Estables de bajo crecimiento
+M86008,Estables de bajo crecimiento
+M86009,Cuentas clave
+M86010,Estables de bajo crecimiento
+M86012,Estables de bajo crecimiento
+M86014,Estables de bajo crecimiento
+M86015,Cuentas clave
+M86016,Estables de bajo crecimiento
+M86017,Cuentas clave
+M86018,Estables de bajo crecimiento
+M86019,Estables de bajo crecimiento
+M86020,Estables de bajo crecimiento
+M86021,En expansión
+M86027,En expansión
+M86028,Estables de bajo crecimiento
+M86029,En expansión
+M86030,Estables de bajo crecimiento
+M86032,Cuentas clave
+M86033,Estables de bajo crecimiento
+M86034,En expansión
+M86035,Estables de bajo crecimiento
+M86037,En expansión
+M86038,Estables de bajo crecimiento
+M86039,Estables de bajo crecimiento
+M86040,Estables de bajo crecimiento
+M86041,En expansión
+M86044,En expansión
+M86045,Estables de bajo crecimiento
+M86046,En expansión
+M86048,Estables de bajo crecimiento
+M86605,Estables de bajo crecimiento
+M86610,Emergentes
+M86612,Emergentes
+M86617,En expansión
+M86622,Estables de bajo crecimiento
+M86624,Estables de bajo crecimiento
+M86627,En expansión
+M86633,Estables de bajo crecimiento
+M86638,Estables de bajo crecimiento
+M87001,En expansión
+M87003,Cuentas clave
+M87005,Cuentas clave
+M87006,En expansión
+M87007,En expansión
+M87008,En expansión
+M87009,Cuentas clave
+M87010,Cuentas clave
+M87011,Cuentas clave
+M87012,En expansión
+M87013,Cuentas clave
+M87014,Estables de bajo crecimiento
+M87015,Emergentes
+M87016,En expansión
+M87017,Estables de bajo crecimiento
+M87018,En expansión
+M87019,Estables de bajo crecimiento
+M87020,En expansión
+M87021,Estables de bajo crecimiento
+M87023,Cuentas clave
+M87024,Cuentas clave
+M87025,En expansión
+M87026,En expansión
+M87027,Emergentes
+M87028,Emergentes
+M87030,Estables de bajo crecimiento
+M87034,En expansión
+M87036,En expansión
+M87037,En expansión
+M87041,Cuentas clave
+M87601,Estables de bajo crecimiento
+M87602,Estables de bajo crecimiento
+M87605,En expansión
+M87612,Estables de bajo crecimiento
+M87617,En expansión
+M87618,Estables de bajo crecimiento
+M87620,En expansión
+M87621,Estables de bajo crecimiento
+M87623,Estables de bajo crecimiento
+M87628,Estables de bajo crecimiento
+M87638,Estables de bajo crecimiento
+M88001,Cuentas clave
+M88002,Cuentas clave
+M88003,Cuentas clave
+M88006,Cuentas clave
+M88007,Cuentas clave
+M88008,Cuentas clave
+M88009,Cuentas clave
+M88010,Cuentas clave
+M88013,Cuentas clave
+M88014,En expansión
+M88015,Estables de bajo crecimiento
+M88016,En expansión
+M88018,Cuentas clave
+M88019,Estables de bajo crecimiento
+M88021,En expansión
+M88022,Estables de bajo crecimiento
+M88023,En expansión
+M88026,Estables de bajo crecimiento
+M88030,En expansión
+M88031,Estables de bajo crecimiento
+M88035,Estables de bajo crecimiento
+M88038,Cuentas clave
+M88040,En expansión
+M88041,Estables de bajo crecimiento
+M88042,En expansión
+M88043,En expansión
+M88600,En expansión
+M88610,Estables de bajo crecimiento
+M88612,En expansión
+M88616,Cuentas clave
+M88618,En expansión
+M88619,Cuentas clave
+M88620,En expansión
+M88625,Estables de bajo crecimiento
+M88626,En expansión
+M88628,En expansión
+M88630,Estables de bajo crecimiento
+M88633,En expansión
+M88635,Emergentes
+M88639,Estables de bajo crecimiento
+M88640,En expansión
+M88643,Cuentas clave
+M88645,En expansión
+M88646,En expansión
+M88647,En expansión
+M89001,En expansión
+M89002,En expansión
+M89003,Cuentas clave
+M89005,En expansión
+M89007,En expansión
+M89008,Cuentas clave
+M89009,Cuentas clave
+M89010,En expansión
+M89012,Cuentas clave
+M89013,En expansión
+M89015,En expansión
+M89016,Estables de bajo crecimiento
+M89017,Cuentas clave
+M89019,En expansión
+M89021,En expansión
+M89024,En expansión
+M89026,Cuentas clave
+M89027,En expansión
+M89030,En expansión
+M89608,En expansión
+M91003,En expansión
+M91004,En expansión
+M91006,En expansión
+M91007,Cuentas clave
+M91008,En expansión
+M91009,En expansión
+M91010,En expansión
+M91013,Cuentas clave
+M91014,En expansión
+M91015,Cuentas clave
+M91016,Estables de bajo crecimiento
+M91018,En expansión
+M91019,En expansión
+M91020,Estables de bajo crecimiento
+M91021,Cuentas clave
+M91024,Estables de bajo crecimiento
+M91026,En expansión
+M91028,Cuentas clave
+M91029,En expansión
+M91032,En expansión
+M91033,En expansión
+M91034,En expansión
+M91036,Emergentes
+M91602,En expansión
+M91609,Estables de bajo crecimiento
+M91611,En expansión
+M91612,En expansión
+M91613,En expansión
+M91614,En expansión
+M91616,En expansión
+M91619,En expansión
+M91621,Emergentes
+M91623,Estables de bajo crecimiento
+M91624,Estables de bajo crecimiento
+M91626,En expansión
+M91628,En expansión
+M91629,En expansión
+M91637,En expansión
+M91639,Estables de bajo crecimiento
+M91640,Estables de bajo crecimiento
+M91641,En expansión
+M91642,Emergentes
+M91647,Estables de bajo crecimiento
+M91650,Cuentas clave
+M91654,En expansión
+M91659,En expansión
+M91660,Estables de bajo crecimiento
+M92001,En expansión
+M92006,En expansión
+M92007,Estables de bajo crecimiento
+M92008,En expansión
+M92009,Cuentas clave
+M92010,En expansión
+M92012,Cuentas clave
+M92013,En expansión
+M92015,En expansión
+M92016,Cuentas clave
+M92019,En expansión
+M92022,Estables de bajo crecimiento
+M92026,En expansión
+M92028,En expansión
+M92029,En expansión
+M92039,En expansión
+M92040,Cuentas clave
+M92041,En expansión
+M92043,En expansión
+M92607,Estables de bajo crecimiento
+M92609,En expansión
+M92612,Cuentas clave
+M92627,En expansión
+M92629,Estables de bajo crecimiento
+M92630,En expansión
+M92640,Estables de bajo crecimiento
+M92649,En expansión
+M92654,En expansión
+N81001,En expansión
+N81002,Estables de bajo crecimiento
+N81005,Cuentas clave
+N81006,En expansión
+N81007,Estables de bajo crecimiento
+N81008,Emergentes
+N81009,Estables de bajo crecimiento
+N81010,Estables de bajo crecimiento
+N81011,Estables de bajo crecimiento
+N81012,Cuentas clave
+N81013,Estables de bajo crecimiento
+N81014,En expansión
+N81016,Cuentas clave
+N81018,Estables de bajo crecimiento
+N81019,Cuentas clave
+N81020,Estables de bajo crecimiento
+N81022,Cuentas clave
+N81024,En expansión
+N81025,En expansión
+N81027,Cuentas clave
+N81028,Estables de bajo crecimiento
+N81029,Cuentas clave
+N81030,Cuentas clave
+N81031,Estables de bajo crecimiento
+N81032,Cuentas clave
+N81033,En expansión
+N81034,Estables de bajo crecimiento
+N81035,En expansión
+N81036,Estables de bajo crecimiento
+N81037,En expansión
+N81038,En expansión
+N81039,Estables de bajo crecimiento
+N81040,Estables de bajo crecimiento
+N81041,En expansión
+N81043,Estables de bajo crecimiento
+N81044,En expansión
+N81045,Cuentas clave
+N81046,Cuentas clave
+N81047,Estables de bajo crecimiento
+N81048,Cuentas clave
+N81049,Estables de bajo crecimiento
+N81050,Cuentas clave
+N81051,En expansión
+N81052,Cuentas clave
+N81053,Cuentas clave
+N81054,Cuentas clave
+N81055,Estables de bajo crecimiento
+N81056,Cuentas clave
+N81057,Cuentas clave
+N81059,Estables de bajo crecimiento
+N81060,Estables de bajo crecimiento
+N81061,Estables de bajo crecimiento
+N81062,Cuentas clave
+N81063,Cuentas clave
+N81064,En expansión
+N81065,En expansión
+N81066,Estables de bajo crecimiento
+N81067,Estables de bajo crecimiento
+N81068,Cuentas clave
+N81069,Estables de bajo crecimiento
+N81070,En expansión
+N81071,En expansión
+N81072,En expansión
+N81074,En expansión
+N81075,Estables de bajo crecimiento
+N81077,Cuentas clave
+N81079,En expansión
+N81080,Estables de bajo crecimiento
+N81081,Estables de bajo crecimiento
+N81082,Cuentas clave
+N81083,En expansión
+N81084,Cuentas clave
+N81085,En expansión
+N81086,Cuentas clave
+N81087,Estables de bajo crecimiento
+N81088,Estables de bajo crecimiento
+N81089,En expansión
+N81090,Estables de bajo crecimiento
+N81092,Estables de bajo crecimiento
+N81093,Cuentas clave
+N81096,Cuentas clave
+N81097,En expansión
+N81100,En expansión
+N81101,Estables de bajo crecimiento
+N81102,En expansión
+N81107,En expansión
+N81108,En expansión
+N81109,En expansión
+N81111,En expansión
+N81113,En expansión
+N81114,Cuentas clave
+N81115,En expansión
+N81117,Cuentas clave
+N81118,Estables de bajo crecimiento
+N81119,En expansión
+N81120,Estables de bajo crecimiento
+N81121,En expansión
+N81122,Cuentas clave
+N81123,Emergentes
+N81125,Cuentas clave
+N81127,Cuentas clave
+N81607,Estables de bajo crecimiento
+N81614,En expansión
+N81619,En expansión
+N81623,Estables de bajo crecimiento
+N81624,En expansión
+N81626,En expansión
+N81628,En expansión
+N81632,Estables de bajo crecimiento
+N81637,En expansión
+N81642,Estables de bajo crecimiento
+N81645,Estables de bajo crecimiento
+N81651,Estables de bajo crecimiento
+N82001,Estables de bajo crecimiento
+N82002,En expansión
+N82003,Estables de bajo crecimiento
+N82004,Estables de bajo crecimiento
+N82009,Estables de bajo crecimiento
+N82011,Estables de bajo crecimiento
+N82014,Estables de bajo crecimiento
+N82018,Estables de bajo crecimiento
+N82019,Estables de bajo crecimiento
+N82022,En expansión
+N82024,En expansión
+N82026,Estables de bajo crecimiento
+N82033,Estables de bajo crecimiento
+N82034,Estables de bajo crecimiento
+N82035,Estables de bajo crecimiento
+N82036,Estables de bajo crecimiento
+N82037,Estables de bajo crecimiento
+N82039,Estables de bajo crecimiento
+N82041,Estables de bajo crecimiento
+N82046,Cuentas clave
+N82048,Estables de bajo crecimiento
+N82049,Estables de bajo crecimiento
+N82050,Emergentes
+N82052,Estables de bajo crecimiento
+N82053,Estables de bajo crecimiento
+N82054,Estables de bajo crecimiento
+N82058,Estables de bajo crecimiento
+N82059,Estables de bajo crecimiento
+N82062,Estables de bajo crecimiento
+N82065,En expansión
+N82066,Estables de bajo crecimiento
+N82067,Estables de bajo crecimiento
+N82070,Estables de bajo crecimiento
+N82073,Estables de bajo crecimiento
+N82074,Estables de bajo crecimiento
+N82076,Estables de bajo crecimiento
+N82077,Estables de bajo crecimiento
+N82078,Estables de bajo crecimiento
+N82079,Estables de bajo crecimiento
+N82081,Estables de bajo crecimiento
+N82082,Estables de bajo crecimiento
+N82083,Estables de bajo crecimiento
+N82084,Estables de bajo crecimiento
+N82086,En expansión
+N82087,Estables de bajo crecimiento
+N82089,Estables de bajo crecimiento
+N82090,Estables de bajo crecimiento
+N82091,Estables de bajo crecimiento
+N82092,Estables de bajo crecimiento
+N82093,Estables de bajo crecimiento
+N82094,Estables de bajo crecimiento
+N82095,Estables de bajo crecimiento
+N82097,Estables de bajo crecimiento
+N82099,Estables de bajo crecimiento
+N82101,En expansión
+N82103,Estables de bajo crecimiento
+N82104,Estables de bajo crecimiento
+N82106,Estables de bajo crecimiento
+N82107,Estables de bajo crecimiento
+N82108,En expansión
+N82109,En expansión
+N82110,Estables de bajo crecimiento
+N82113,Estables de bajo crecimiento
+N82115,En expansión
+N82116,Estables de bajo crecimiento
+N82117,Estables de bajo crecimiento
+N82617,Estables de bajo crecimiento
+N82633,Estables de bajo crecimiento
+N82641,Estables de bajo crecimiento
+N82645,Estables de bajo crecimiento
+N82646,Estables de bajo crecimiento
+N82648,Estables de bajo crecimiento
+N82650,Emergentes
+N82651,Estables de bajo crecimiento
+N82655,Estables de bajo crecimiento
+N82662,En expansión
+N82663,Estables de bajo crecimiento
+N82664,En expansión
+N82668,En expansión
+N82669,Estables de bajo crecimiento
+N82671,Estables de bajo crecimiento
+N82676,Estables de bajo crecimiento
+N82678,Estables de bajo crecimiento
+N83001,En expansión
+N83002,En expansión
+N83003,Estables de bajo crecimiento
+N83005,En expansión
+N83006,Estables de bajo crecimiento
+N83007,En expansión
+N83008,Estables de bajo crecimiento
+N83009,Estables de bajo crecimiento
+N83010,En expansión
+N83012,En expansión
+N83013,Estables de bajo crecimiento
+N83014,Estables de bajo crecimiento
+N83015,Estables de bajo crecimiento
+N83017,Emergentes
+N83018,Estables de bajo crecimiento
+N83019,En expansión
+N83020,Estables de bajo crecimiento
+N83021,Estables de bajo crecimiento
+N83023,En expansión
+N83024,Estables de bajo crecimiento
+N83025,Cuentas clave
+N83026,En expansión
+N83027,Estables de bajo crecimiento
+N83028,Cuentas clave
+N83030,Estables de bajo crecimiento
+N83031,Estables de bajo crecimiento
+N83032,Estables de bajo crecimiento
+N83033,Estables de bajo crecimiento
+N83035,En expansión
+N83041,En expansión
+N83043,En expansión
+N83045,En expansión
+N83047,Estables de bajo crecimiento
+N83049,En expansión
+N83050,En expansión
+N83053,Estables de bajo crecimiento
+N83054,Estables de bajo crecimiento
+N83601,Estables de bajo crecimiento
+N83603,Estables de bajo crecimiento
+N83605,Estables de bajo crecimiento
+N83608,Cuentas clave
+N83609,Estables de bajo crecimiento
+N83610,Emergentes
+N83614,En expansión
+N83619,Emergentes
+N83620,Estables de bajo crecimiento
+N83621,Estables de bajo crecimiento
+N83622,En expansión
+N83624,Estables de bajo crecimiento
+N83628,Estables de bajo crecimiento
+N83633,Estables de bajo crecimiento
+N83635,Estables de bajo crecimiento
+N83637,Estables de bajo crecimiento
+N84001,Estables de bajo crecimiento
+N84002,En expansión
+N84003,Estables de bajo crecimiento
+N84004,Estables de bajo crecimiento
+N84005,Cuentas clave
+N84006,Estables de bajo crecimiento
+N84007,Estables de bajo crecimiento
+N84008,Estables de bajo crecimiento
+N84010,Estables de bajo crecimiento
+N84011,Estables de bajo crecimiento
+N84012,En expansión
+N84013,Emergentes
+N84014,Estables de bajo crecimiento
+N84015,Estables de bajo crecimiento
+N84016,Estables de bajo crecimiento
+N84017,Emergentes
+N84018,En expansión
+N84019,Estables de bajo crecimiento
+N84020,Estables de bajo crecimiento
+N84021,Cuentas clave
+N84023,Estables de bajo crecimiento
+N84024,Estables de bajo crecimiento
+N84025,Estables de bajo crecimiento
+N84026,Estables de bajo crecimiento
+N84027,Estables de bajo crecimiento
+N84028,Estables de bajo crecimiento
+N84029,Estables de bajo crecimiento
+N84034,Estables de bajo crecimiento
+N84035,En expansión
+N84037,Estables de bajo crecimiento
+N84038,Estables de bajo crecimiento
+N84041,Estables de bajo crecimiento
+N84043,Estables de bajo crecimiento
+N84605,Estables de bajo crecimiento
+N84613,En expansión
+N84614,En expansión
+N84615,Estables de bajo crecimiento
+N84617,Emergentes
+N84621,Estables de bajo crecimiento
+N84625,Estables de bajo crecimiento
+N84626,Estables de bajo crecimiento
+N84627,Estables de bajo crecimiento
+N84630,Estables de bajo crecimiento
+N85002,Cuentas clave
+N85003,Estables de bajo crecimiento
+N85005,Cuentas clave
+N85006,Cuentas clave
+N85007,Cuentas clave
+N85008,Cuentas clave
+N85009,Estables de bajo crecimiento
+N85012,Estables de bajo crecimiento
+N85013,Cuentas clave
+N85015,Estables de bajo crecimiento
+N85016,Cuentas clave
+N85017,Cuentas clave
+N85018,Cuentas clave
+N85019,En expansión
+N85020,Cuentas clave
+N85021,En expansión
+N85022,En expansión
+N85023,Estables de bajo crecimiento
+N85024,Emergentes
+N85025,Cuentas clave
+N85027,Cuentas clave
+N85028,Cuentas clave
+N85031,Estables de bajo crecimiento
+N85032,Estables de bajo crecimiento
+N85037,Estables de bajo crecimiento
+N85038,Cuentas clave
+N85044,Cuentas clave
+N85046,En expansión
+N85047,Cuentas clave
+N85048,En expansión
+N85051,Cuentas clave
+N85052,En expansión
+N85054,Estables de bajo crecimiento
+N85057,Estables de bajo crecimiento
+N85059,Estables de bajo crecimiento
+N85616,En expansión
+N85617,Estables de bajo crecimiento
+N85620,Estables de bajo crecimiento
+N85625,Cuentas clave
+N85629,Estables de bajo crecimiento
+N85633,Estables de bajo crecimiento
+N85634,En expansión
+N85638,Estables de bajo crecimiento
+N85640,Estables de bajo crecimiento
+N85643,En expansión
+N85645,Estables de bajo crecimiento
+N85648,Cuentas clave
+P81003,En expansión
+P81005,Cuentas clave
+P81006,Cuentas clave
+P81008,Estables de bajo crecimiento
+P81010,En expansión
+P81013,Cuentas clave
+P81014,En expansión
+P81015,En expansión
+P81016,Estables de bajo crecimiento
+P81017,Cuentas clave
+P81018,Estables de bajo crecimiento
+P81020,Cuentas clave
+P81022,Cuentas clave
+P81025,Cuentas clave
+P81027,Cuentas clave
+P81029,Cuentas clave
+P81031,Estables de bajo crecimiento
+P81032,Estables de bajo crecimiento
+P81033,Estables de bajo crecimiento
+P81035,Estables de bajo crecimiento
+P81036,Estables de bajo crecimiento
+P81037,Cuentas clave
+P81038,Estables de bajo crecimiento
+P81039,Estables de bajo crecimiento
+P81040,En expansión
+P81041,Emergentes
+P81042,Cuentas clave
+P81043,Estables de bajo crecimiento
+P81044,Cuentas clave
+P81045,Estables de bajo crecimiento
+P81046,En expansión
+P81047,Cuentas clave
+P81051,Cuentas clave
+P81053,Estables de bajo crecimiento
+P81054,Estables de bajo crecimiento
+P81055,En expansión
+P81057,Cuentas clave
+P81058,Cuentas clave
+P81059,En expansión
+P81061,Estables de bajo crecimiento
+P81062,Estables de bajo crecimiento
+P81063,Cuentas clave
+P81065,Cuentas clave
+P81066,Cuentas clave
+P81067,Estables de bajo crecimiento
+P81069,Estables de bajo crecimiento
+P81070,Estables de bajo crecimiento
+P81071,En expansión
+P81072,Estables de bajo crecimiento
+P81073,Estables de bajo crecimiento
+P81074,Estables de bajo crecimiento
+P81076,Estables de bajo crecimiento
+P81077,Estables de bajo crecimiento
+P81078,En expansión
+P81079,Estables de bajo crecimiento
+P81081,En expansión
+P81082,Estables de bajo crecimiento
+P81083,Estables de bajo crecimiento
+P81084,En expansión
+P81086,Estables de bajo crecimiento
+P81087,Cuentas clave
+P81088,Estables de bajo crecimiento
+P81089,Estables de bajo crecimiento
+P81092,Cuentas clave
+P81095,En expansión
+P81096,Estables de bajo crecimiento
+P81099,En expansión
+P81100,Estables de bajo crecimiento
+P81103,Estables de bajo crecimiento
+P81107,Estables de bajo crecimiento
+P81112,Cuentas clave
+P81113,En expansión
+P81115,Cuentas clave
+P81117,Estables de bajo crecimiento
+P81118,Estables de bajo crecimiento
+P81119,Estables de bajo crecimiento
+P81123,Cuentas clave
+P81125,Cuentas clave
+P81127,En expansión
+P81128,Estables de bajo crecimiento
+P81129,Cuentas clave
+P81130,Cuentas clave
+P81132,En expansión
+P81133,Estables de bajo crecimiento
+P81136,Estables de bajo crecimiento
+P81137,En expansión
+P81138,En expansión
+P81140,Cuentas clave
+P81143,En expansión
+P81147,Estables de bajo crecimiento
+P81149,Estables de bajo crecimiento
+P81150,Estables de bajo crecimiento
+P81154,En expansión
+P81155,En expansión
+P81157,Cuentas clave
+P81159,Cuentas clave
+P81160,Cuentas clave
+P81165,Estables de bajo crecimiento
+P81166,Estables de bajo crecimiento
+P81167,Estables de bajo crecimiento
+P81169,En expansión
+P81170,Emergentes
+P81171,Estables de bajo crecimiento
+P81172,Estables de bajo crecimiento
+P81179,Emergentes
+P81180,Estables de bajo crecimiento
+P81181,En expansión
+P81182,En expansión
+P81184,Cuentas clave
+P81185,Estables de bajo crecimiento
+P81186,Estables de bajo crecimiento
+P81191,Estables de bajo crecimiento
+P81196,Cuentas clave
+P81197,Estables de bajo crecimiento
+P81201,Estables de bajo crecimiento
+P81208,Cuentas clave
+P81212,Emergentes
+P81213,En expansión
+P81214,Estables de bajo crecimiento
+P81218,Estables de bajo crecimiento
+P81620,Emergentes
+P81622,Cuentas clave
+P81633,En expansión
+P81646,Emergentes
+P81647,Estables de bajo crecimiento
+P81655,Estables de bajo crecimiento
+P81668,Estables de bajo crecimiento
+P81674,En expansión
+P81681,Cuentas clave
+P81683,Estables de bajo crecimiento
+P81685,Estables de bajo crecimiento
+P81686,Estables de bajo crecimiento
+P81687,Estables de bajo crecimiento
+P81692,En expansión
+P81694,Estables de bajo crecimiento
+P81695,Emergentes
+P81699,En expansión
+P81701,Estables de bajo crecimiento
+P81704,En expansión
+P81707,Estables de bajo crecimiento
+P81709,Cuentas clave
+P81710,En expansión
+P81711,Estables de bajo crecimiento
+P81714,Estables de bajo crecimiento
+P81721,Estables de bajo crecimiento
+P81724,Estables de bajo crecimiento
+P81726,Estables de bajo crecimiento
+P81730,Estables de bajo crecimiento
+P81731,Estables de bajo crecimiento
+P81732,Estables de bajo crecimiento
+P81734,Cuentas clave
+P81735,Emergentes
+P81736,En expansión
+P81740,Emergentes
+P81741,En expansión
+P81742,Estables de bajo crecimiento
+P81748,Estables de bajo crecimiento
+P81755,En expansión
+P81757,Emergentes
+P81770,Estables de bajo crecimiento
+P81771,Cuentas clave
+P81780,En expansión
+P82001,Estables de bajo crecimiento
+P82002,Estables de bajo crecimiento
+P82003,Estables de bajo crecimiento
+P82004,Estables de bajo crecimiento
+P82005,Estables de bajo crecimiento
+P82006,Estables de bajo crecimiento
+P82007,Estables de bajo crecimiento
+P82008,Estables de bajo crecimiento
+P82009,Estables de bajo crecimiento
+P82010,Estables de bajo crecimiento
+P82011,Estables de bajo crecimiento
+P82012,Estables de bajo crecimiento
+P82013,Estables de bajo crecimiento
+P82014,Estables de bajo crecimiento
+P82015,Estables de bajo crecimiento
+P82016,Estables de bajo crecimiento
+P82018,Estables de bajo crecimiento
+P82020,Estables de bajo crecimiento
+P82021,Estables de bajo crecimiento
+P82022,Estables de bajo crecimiento
+P82023,En expansión
+P82025,Estables de bajo crecimiento
+P82029,Estables de bajo crecimiento
+P82030,Estables de bajo crecimiento
+P82031,Estables de bajo crecimiento
+P82033,Estables de bajo crecimiento
+P82034,Emergentes
+P82036,Estables de bajo crecimiento
+P82037,Estables de bajo crecimiento
+P82607,Estables de bajo crecimiento
+P82609,Estables de bajo crecimiento
+P82613,Estables de bajo crecimiento
+P82616,Estables de bajo crecimiento
+P82624,Estables de bajo crecimiento
+P82625,Estables de bajo crecimiento
+P82626,Estables de bajo crecimiento
+P82627,Estables de bajo crecimiento
+P82629,Estables de bajo crecimiento
+P82633,Estables de bajo crecimiento
+P82634,Estables de bajo crecimiento
+P82640,Estables de bajo crecimiento
+P82643,Estables de bajo crecimiento
+P82652,Estables de bajo crecimiento
+P82660,Estables de bajo crecimiento
+P83001,Estables de bajo crecimiento
+P83004,Estables de bajo crecimiento
+P83005,En expansión
+P83006,Estables de bajo crecimiento
+P83007,Estables de bajo crecimiento
+P83009,En expansión
+P83010,Estables de bajo crecimiento
+P83011,Estables de bajo crecimiento
+P83015,En expansión
+P83017,Estables de bajo crecimiento
+P83021,Cuentas clave
+P83024,Estables de bajo crecimiento
+P83025,Estables de bajo crecimiento
+P83027,Estables de bajo crecimiento
+P83603,Cuentas clave
+P83605,En expansión
+P83608,En expansión
+P83609,Estables de bajo crecimiento
+P83611,Estables de bajo crecimiento
+P83612,Estables de bajo crecimiento
+P83620,Estables de bajo crecimiento
+P83621,Estables de bajo crecimiento
+P83623,Estables de bajo crecimiento
+P84004,En expansión
+P84005,En expansión
+P84009,Estables de bajo crecimiento
+P84010,Cuentas clave
+P84012,Cuentas clave
+P84014,En expansión
+P84016,En expansión
+P84017,Estables de bajo crecimiento
+P84018,En expansión
+P84019,Estables de bajo crecimiento
+P84020,Cuentas clave
+P84021,Cuentas clave
+P84022,Estables de bajo crecimiento
+P84023,Cuentas clave
+P84024,Cuentas clave
+P84025,Emergentes
+P84026,Cuentas clave
+P84027,Estables de bajo crecimiento
+P84028,Estables de bajo crecimiento
+P84029,Cuentas clave
+P84030,Cuentas clave
+P84032,Estables de bajo crecimiento
+P84033,En expansión
+P84034,En expansión
+P84035,Cuentas clave
+P84037,En expansión
+P84038,Estables de bajo crecimiento
+P84039,Estables de bajo crecimiento
+P84040,Estables de bajo crecimiento
+P84041,Cuentas clave
+P84042,Estables de bajo crecimiento
+P84043,Cuentas clave
+P84045,Cuentas clave
+P84046,Cuentas clave
+P84047,Estables de bajo crecimiento
+P84048,Cuentas clave
+P84049,Estables de bajo crecimiento
+P84050,En expansión
+P84051,Estables de bajo crecimiento
+P84052,Estables de bajo crecimiento
+P84053,Cuentas clave
+P84054,Cuentas clave
+P84056,En expansión
+P84059,Cuentas clave
+P84061,En expansión
+P84064,Estables de bajo crecimiento
+P84065,Estables de bajo crecimiento
+P84066,Estables de bajo crecimiento
+P84067,En expansión
+P84068,Estables de bajo crecimiento
+P84070,Estables de bajo crecimiento
+P84071,Estables de bajo crecimiento
+P84072,Estables de bajo crecimiento
+P84074,Estables de bajo crecimiento
+P84605,Estables de bajo crecimiento
+P84611,En expansión
+P84626,Estables de bajo crecimiento
+P84630,Cuentas clave
+P84635,Estables de bajo crecimiento
+P84637,En expansión
+P84639,En expansión
+P84640,Estables de bajo crecimiento
+P84644,Cuentas clave
+P84645,Estables de bajo crecimiento
+P84650,En expansión
+P84651,Estables de bajo crecimiento
+P84663,En expansión
+P84665,En expansión
+P84669,Estables de bajo crecimiento
+P84672,En expansión
+P84673,Estables de bajo crecimiento
+P84678,En expansión
+P84679,Estables de bajo crecimiento
+P84683,Estables de bajo crecimiento
+P84684,En expansión
+P84689,Cuentas clave
+P84690,Estables de bajo crecimiento
+P85002,Estables de bajo crecimiento
+P85003,Estables de bajo crecimiento
+P85004,Estables de bajo crecimiento
+P85005,Estables de bajo crecimiento
+P85007,Estables de bajo crecimiento
+P85010,Cuentas clave
+P85011,Cuentas clave
+P85012,En expansión
+P85013,Cuentas clave
+P85014,Estables de bajo crecimiento
+P85015,Estables de bajo crecimiento
+P85016,Estables de bajo crecimiento
+P85017,Estables de bajo crecimiento
+P85018,En expansión
+P85019,Estables de bajo crecimiento
+P85020,En expansión
+P85021,Estables de bajo crecimiento
+P85022,En expansión
+P85026,Estables de bajo crecimiento
+P85028,Estables de bajo crecimiento
+P85601,En expansión
+P85605,Cuentas clave
+P85606,En expansión
+P85608,Estables de bajo crecimiento
+P85610,En expansión
+P85612,En expansión
+P85614,Estables de bajo crecimiento
+P85615,Emergentes
+P85622,Emergentes
+P86001,En expansión
+P86002,En expansión
+P86003,En expansión
+P86004,Estables de bajo crecimiento
+P86005,Estables de bajo crecimiento
+P86006,Cuentas clave
+P86007,Estables de bajo crecimiento
+P86008,Estables de bajo crecimiento
+P86009,Estables de bajo crecimiento
+P86010,Estables de bajo crecimiento
+P86011,Cuentas clave
+P86012,Estables de bajo crecimiento
+P86013,Estables de bajo crecimiento
+P86014,Estables de bajo crecimiento
+P86015,En expansión
+P86016,Estables de bajo crecimiento
+P86017,Estables de bajo crecimiento
+P86018,Estables de bajo crecimiento
+P86019,Estables de bajo crecimiento
+P86021,Emergentes
+P86022,Estables de bajo crecimiento
+P86023,Estables de bajo crecimiento
+P86026,En expansión
+P86602,Estables de bajo crecimiento
+P86606,Estables de bajo crecimiento
+P86608,En expansión
+P86609,Estables de bajo crecimiento
+P86614,Estables de bajo crecimiento
+P86619,Cuentas clave
+P86620,Estables de bajo crecimiento
+P86624,Estables de bajo crecimiento
+P87002,Estables de bajo crecimiento
+P87004,Estables de bajo crecimiento
+P87008,Estables de bajo crecimiento
+P87015,Estables de bajo crecimiento
+P87016,Estables de bajo crecimiento
+P87017,En expansión
+P87019,Estables de bajo crecimiento
+P87020,Cuentas clave
+P87022,En expansión
+P87024,Cuentas clave
+P87025,Estables de bajo crecimiento
+P87026,Cuentas clave
+P87027,Estables de bajo crecimiento
+P87028,Emergentes
+P87032,Emergentes
+P87035,En expansión
+P87040,Estables de bajo crecimiento
+P87610,Cuentas clave
+P87613,Estables de bajo crecimiento
+P87620,Estables de bajo crecimiento
+P87624,Estables de bajo crecimiento
+P87625,En expansión
+P87627,En expansión
+P87630,Emergentes
+P87634,Estables de bajo crecimiento
+P87639,En expansión
+P87648,En expansión
+P87649,Estables de bajo crecimiento
+P87651,Estables de bajo crecimiento
+P87654,En expansión
+P87657,Estables de bajo crecimiento
+P87658,En expansión
+P87661,En expansión
+P88002,Emergentes
+P88003,Cuentas clave
+P88005,Cuentas clave
+P88006,Emergentes
+P88007,Cuentas clave
+P88008,Emergentes
+P88009,En expansión
+P88011,Cuentas clave
+P88012,En expansión
+P88013,Cuentas clave
+P88014,Estables de bajo crecimiento
+P88015,En expansión
+P88016,Cuentas clave
+P88017,En expansión
+P88018,Estables de bajo crecimiento
+P88019,Emergentes
+P88020,En expansión
+P88021,En expansión
+P88023,Estables de bajo crecimiento
+P88024,En expansión
+P88025,Emergentes
+P88031,En expansión
+P88041,En expansión
+P88042,En expansión
+P88043,Cuentas clave
+P88044,Emergentes
+P88606,En expansión
+P88615,En expansión
+P88623,Emergentes
+P88625,Estables de bajo crecimiento
+P88632,Cuentas clave
+P89002,Cuentas clave
+P89003,Estables de bajo crecimiento
+P89004,En expansión
+P89005,Cuentas clave
+P89006,En expansión
+P89007,Cuentas clave
+P89008,Cuentas clave
+P89010,Estables de bajo crecimiento
+P89011,Estables de bajo crecimiento
+P89012,Estables de bajo crecimiento
+P89013,Estables de bajo crecimiento
+P89014,Estables de bajo crecimiento
+P89015,Cuentas clave
+P89016,Cuentas clave
+P89018,Estables de bajo crecimiento
+P89020,Estables de bajo crecimiento
+P89021,Estables de bajo crecimiento
+P89022,Estables de bajo crecimiento
+P89023,Estables de bajo crecimiento
+P89025,Estables de bajo crecimiento
+P89026,En expansión
+P89029,En expansión
+P89030,Estables de bajo crecimiento
+P89602,Estables de bajo crecimiento
+P89609,Estables de bajo crecimiento
+P89612,En expansión
+P89613,Estables de bajo crecimiento
+P89618,Estables de bajo crecimiento
+P91003,En expansión
+P91004,En expansión
+P91006,Cuentas clave
+P91007,Estables de bajo crecimiento
+P91008,En expansión
+P91009,Cuentas clave
+P91011,Estables de bajo crecimiento
+P91012,En expansión
+P91013,Cuentas clave
+P91014,Estables de bajo crecimiento
+P91016,En expansión
+P91017,Estables de bajo crecimiento
+P91018,Cuentas clave
+P91019,Estables de bajo crecimiento
+P91020,Estables de bajo crecimiento
+P91021,Cuentas clave
+P91026,Estables de bajo crecimiento
+P91029,Cuentas clave
+P91035,En expansión
+P91603,Estables de bajo crecimiento
+P91604,Cuentas clave
+P91617,Estables de bajo crecimiento
+P91623,Estables de bajo crecimiento
+P91627,Estables de bajo crecimiento
+P91629,Cuentas clave
+P91631,Estables de bajo crecimiento
+P92001,En expansión
+P92002,En expansión
+P92003,Cuentas clave
+P92004,En expansión
+P92005,En expansión
+P92006,En expansión
+P92007,En expansión
+P92008,Estables de bajo crecimiento
+P92010,En expansión
+P92011,Cuentas clave
+P92012,En expansión
+P92014,En expansión
+P92015,En expansión
+P92016,En expansión
+P92017,En expansión
+P92019,Estables de bajo crecimiento
+P92020,En expansión
+P92021,En expansión
+P92023,Estables de bajo crecimiento
+P92024,En expansión
+P92026,Estables de bajo crecimiento
+P92028,En expansión
+P92029,Estables de bajo crecimiento
+P92030,En expansión
+P92031,En expansión
+P92033,Estables de bajo crecimiento
+P92034,En expansión
+P92038,Estables de bajo crecimiento
+P92041,Estables de bajo crecimiento
+P92042,Estables de bajo crecimiento
+P92602,En expansión
+P92605,En expansión
+P92607,Estables de bajo crecimiento
+P92615,Estables de bajo crecimiento
+P92620,En expansión
+P92621,En expansión
+P92626,En expansión
+P92630,En expansión
+P92633,En expansión
+P92634,En expansión
+P92635,Estables de bajo crecimiento
+P92637,En expansión
+P92639,En expansión
+P92642,En expansión
+P92646,En expansión
+P92647,En expansión
+P92648,En expansión
+P92651,En expansión
+P92653,Estables de bajo crecimiento
+Y00020,En expansión
+Y00023,Estables de bajo crecimiento
+Y00026,Estables de bajo crecimiento
+Y00033,En expansión
+Y00043,Estables de bajo crecimiento
+Y00049,Estables de bajo crecimiento
+Y00050,En expansión
+Y00054,En expansión
+Y00057,Estables de bajo crecimiento
+Y00060,Emergentes
+Y00078,Estables de bajo crecimiento
+Y00080,En expansión
+Y00082,En expansión
+Y00090,En expansión
+Y00140,En expansión
+Y00155,En expansión
+Y00159,Cuentas clave
+Y00182,Emergentes
+Y00184,Estables de bajo crecimiento
+Y00185,En expansión
+Y00186,En expansión
+Y00192,En expansión
+Y00200,En expansión
+Y00206,En expansión
+Y00222,En expansión
+Y00228,En expansión
+Y00252,En expansión
+Y00265,Emergentes
+Y00278,En expansión
+Y00286,Estables de bajo crecimiento
+Y00293,Estables de bajo crecimiento
+Y00297,En expansión
+Y00301,En expansión
+Y00312,En expansión
+Y00316,Estables de bajo crecimiento
+Y00327,Estables de bajo crecimiento
+Y00328,Estables de bajo crecimiento
+Y00333,En expansión
+Y00344,Emergentes
+Y00347,Estables de bajo crecimiento
+Y00351,En expansión
+Y00352,En expansión
+Y00390,Estables de bajo crecimiento
+Y00399,En expansión
+Y00403,En expansión
+Y00408,En expansión
+Y00411,Cuentas clave
+Y00412,Estables de bajo crecimiento
+Y00415,Estables de bajo crecimiento
+Y00433,Estables de bajo crecimiento
+Y00434,Estables de bajo crecimiento
+Y00437,Emergentes
+Y00445,Cuentas clave
+Y00446,Estables de bajo crecimiento
+Y00448,Estables de bajo crecimiento
+Y00459,Estables de bajo crecimiento
+Y00469,Cuentas clave
+Y00471,Estables de bajo crecimiento
+Y00475,En expansión
+Y00486,Estables de bajo crecimiento
+Y00492,Estables de bajo crecimiento
+Y00502,Emergentes
+Y00507,En expansión
+Y00522,Estables de bajo crecimiento
+Y00528,En expansión
+Y00560,En expansión
+Y00568,Estables de bajo crecimiento
+Y00597,Estables de bajo crecimiento
+Y00612,Estables de bajo crecimiento
+Y00617,Estables de bajo crecimiento
+Y00623,Estables de bajo crecimiento
+Y00626,Estables de bajo crecimiento
+Y00658,Estables de bajo crecimiento
+Y00661,Estables de bajo crecimiento
+Y00672,En expansión
+Y00701,Estables de bajo crecimiento
+Y00705,Estables de bajo crecimiento
+Y00726,En expansión
+Y00751,Emergentes
+Y00754,En expansión
+Y00758,Estables de bajo crecimiento
+Y00768,Estables de bajo crecimiento
+Y00774,En expansión
+Y00776,Emergentes
+Y00783,En expansión
+Y00814,Estables de bajo crecimiento
+Y00824,Estables de bajo crecimiento
+Y00860,En expansión
+Y00868,En expansión
+Y00898,En expansión
+Y00902,En expansión
+Y00904,Estables de bajo crecimiento
+Y00911,En expansión
+Y00918,Cuentas clave
+Y00969,Cuentas clave
+Y00988,En expansión
+Y00996,Estables de bajo crecimiento
+Y00999,Cuentas clave
+Y01003,Estables de bajo crecimiento
+Y01011,En expansión
+Y01050,En expansión
+Y01051,En expansión
+Y01057,En expansión
+Y01061,Estables de bajo crecimiento
+Y01066,Estables de bajo crecimiento
+Y01068,En expansión
+Y01090,Estables de bajo crecimiento
+Y01108,En expansión
+Y01118,Emergentes
+Y01124,Estables de bajo crecimiento
+Y01126,En expansión
+Y01127,En expansión
+Y01132,En expansión
+Y01133,Estables de bajo crecimiento
+Y01162,Emergentes
+Y01163,Estables de bajo crecimiento
+Y01173,Estables de bajo crecimiento
+Y01206,En expansión
+Y01221,Estables de bajo crecimiento
+Y01243,En expansión
+Y01280,Estables de bajo crecimiento
+Y01281,Estables de bajo crecimiento
+Y01291,En expansión
+Y01652,Estables de bajo crecimiento
+Y01655,En expansión
+Y01660,Estables de bajo crecimiento
+Y01690,Estables de bajo crecimiento
+Y01695,En expansión
+Y01719,Estables de bajo crecimiento
+Y01725,En expansión
+Y01756,Estables de bajo crecimiento
+Y01794,Cuentas clave
+Y01812,Estables de bajo crecimiento
+Y01839,En expansión
+Y01866,Estables de bajo crecimiento
+Y01897,En expansión
+Y01922,En expansión
+Y01948,En expansión
+Y01952,Estables de bajo crecimiento
+Y02002,Emergentes
+Y02045,Emergentes
+Y02064,Emergentes
+Y02068,Estables de bajo crecimiento
+Y02077,En expansión
+Y02081,Estables de bajo crecimiento
+Y02082,Estables de bajo crecimiento
+Y02117,Cuentas clave
+Y02177,Cuentas clave
+Y02211,Estables de bajo crecimiento
+Y02212,En expansión
+Y02274,En expansión
+Y02289,En expansión
+Y02292,En expansión
+Y02319,Estables de bajo crecimiento
+Y02321,Estables de bajo crecimiento
+Y02322,En expansión
+Y02325,En expansión
+Y02332,Emergentes
+Y02342,Estables de bajo crecimiento
+Y02354,En expansión
+Y02378,En expansión
+Y02403,Estables de bajo crecimiento
+Y02414,Estables de bajo crecimiento
+Y02423,Cuentas clave
+Y02442,Estables de bajo crecimiento
+Y02463,En expansión
+Y02466,Estables de bajo crecimiento
+Y02469,Estables de bajo crecimiento
+Y02470,En expansión
+Y02476,En expansión
+Y02494,Estables de bajo crecimiento
+Y02509,Estables de bajo crecimiento
+Y02510,En expansión
+Y02517,Cuentas clave
+Y02519,Estables de bajo crecimiento
+Y02520,Estables de bajo crecimiento
+Y02521,En expansión
+Y02523,Estables de bajo crecimiento
+Y02526,Estables de bajo crecimiento
+Y02565,Estables de bajo crecimiento
+Y02567,Estables de bajo crecimiento
+Y02571,En expansión
+Y02572,Estables de bajo crecimiento
+Y02575,Estables de bajo crecimiento
+Y02578,En expansión
+Y02586,Estables de bajo crecimiento
+Y02589,En expansión
+Y02591,Estables de bajo crecimiento
+Y02594,Emergentes
+Y02605,Estables de bajo crecimiento
+Y02606,En expansión
+Y02611,Cuentas clave
+Y02622,En expansión
+Y02625,Estables de bajo crecimiento
+Y02626,En expansión
+Y02627,Cuentas clave
+Y02628,Emergentes
+Y02633,Emergentes
+Y02636,En expansión
+Y02639,Emergentes
+Y02646,Cuentas clave
+Y02648,Emergentes
+Y02653,En expansión
+Y02657,Cuentas clave
+Y02663,Estables de bajo crecimiento
+Y02669,Estables de bajo crecimiento
+Y02671,Estables de bajo crecimiento
+Y02672,Estables de bajo crecimiento
+Y02674,Estables de bajo crecimiento
+Y02676,En expansión
+Y02684,En expansión
+Y02686,En expansión
+Y02692,En expansión
+Y02701,En expansión
+Y02707,Cuentas clave
+Y02713,En expansión
+Y02718,En expansión
+Y02720,En expansión
+Y02721,En expansión
+Y02736,En expansión
+Y02747,Estables de bajo crecimiento
+Y02753,En expansión
+Y02755,Estables de bajo crecimiento
+Y02757,Cuentas clave
+Y02767,En expansión
+Y02769,En expansión
+Y02787,Estables de bajo crecimiento
+Y02790,Estables de bajo crecimiento
+Y02794,Cuentas clave
+Y02795,En expansión
+Y02807,Cuentas clave
+Y02811,En expansión
+Y02827,Estables de bajo crecimiento
+Y02837,Estables de bajo crecimiento
+Y02842,En expansión
+Y02847,Estables de bajo crecimiento
+Y02849,En expansión
+Y02854,Estables de bajo crecimiento
+Y02867,En expansión
+Y02875,Estables de bajo crecimiento
+Y02885,Estables de bajo crecimiento
+Y02886,En expansión
+Y02890,En expansión
+Y02893,Cuentas clave
+Y02900,En expansión
+Y02906,En expansión
+Y02928,En expansión
+Y02933,Emergentes
+Y02936,En expansión
+Y02946,Emergentes
+Y02960,Estables de bajo crecimiento
+Y02973,En expansión
+Y02974,Emergentes
+Y02986,En expansión
+Y02987,Emergentes
+Y02989,Estables de bajo crecimiento
+Y02991,Estables de bajo crecimiento
+Y03002,En expansión
+Y03017,Estables de bajo crecimiento
+Y03023,Emergentes
+Y03035,En expansión
+Y03039,Emergentes
+Y03049,En expansión
+Y03052,Cuentas clave
+Y03079,Cuentas clave
+Y03089,En expansión
+Y03118,En expansión
+Y03124,Estables de bajo crecimiento
+Y03127,En expansión
+Y03135,Estables de bajo crecimiento
+Y03204,En expansión
+Y03222,En expansión
+Y03287,En expansión
+Y03291,Emergentes
+Y03331,Emergentes
+Y03360,Cuentas clave
+Y03366,Estables de bajo crecimiento
+Y03372,Emergentes
+Y03395,Estables de bajo crecimiento
+Y03402,Cuentas clave
+Y03410,Emergentes
+Y03441,Estables de bajo crecimiento
+Y03457,Estables de bajo crecimiento
+Y03472,En expansión
+Y03476,En expansión
+Y03492,Estables de bajo crecimiento
+Y03507,Estables de bajo crecimiento
+Y03584,En expansión
+Y03595,Estables de bajo crecimiento
+Y03597,Estables de bajo crecimiento
+Y03602,Estables de bajo crecimiento
+Y03620,Estables de bajo crecimiento
+Y03627,En expansión
+Y03662,En expansión
+Y03663,Estables de bajo crecimiento
+Y03664,Estables de bajo crecimiento
+Y03671,Estables de bajo crecimiento
+Y03700,Emergentes
+Y03740,Emergentes
+Y03741,Emergentes
+Y03744,En expansión
+Y03747,En expansión
+Y03755,En expansión
+Y03762,En expansión
+Y03770,En expansión
+Y03777,Emergentes
+Y03780,Estables de bajo crecimiento
+Y03782,En expansión
+Y03784,En expansión
+Y03789,En expansión
+Y03793,Estables de bajo crecimiento
+Y03794,Emergentes
+Y03795,En expansión
+Y03797,Emergentes
+Y03808,Emergentes
+Y03813,Estables de bajo crecimiento
+Y03814,En expansión
+Y03818,Estables de bajo crecimiento
+Y03821,Estables de bajo crecimiento
+Y03831,Estables de bajo crecimiento
+Y03832,En expansión
+Y03838,Estables de bajo crecimiento
+Y03883,Emergentes
+Y03885,Estables de bajo crecimiento
+Y03894,En expansión
+Y03897,Estables de bajo crecimiento
+Y03915,Estables de bajo crecimiento
+Y03921,En expansión
+Y03927,Estables de bajo crecimiento
+Y03932,Estables de bajo crecimiento
+Y03938,En expansión
+Y03942,Emergentes
+Y03944,En expansión
+Y03946,En expansión
+Y03965,Emergentes
+Y04018,En expansión
+Y04023,Estables de bajo crecimiento
+Y04048,En expansión
+Y04078,Estables de bajo crecimiento
+Y04094,En expansión
+Y04098,Emergentes
+Y04100,En expansión
+Y04140,En expansión
+Y04215,En expansión
+Y04225,Estables de bajo crecimiento
+Y04226,En expansión
+Y04227,En expansión
+Y04228,En expansión
+Y04266,Estables de bajo crecimiento
+Y04273,Cuentas clave
+Y04274,Emergentes
+Y04275,Estables de bajo crecimiento
+Y04297,En expansión
+Y04312,En expansión
+Y04331,En expansión
+Y04334,En expansión
+Y04372,Estables de bajo crecimiento
+Y04382,En expansión
+Y04395,En expansión
+Y04426,Emergentes
+Y04474,En expansión
+Y04477,Emergentes
+Y04506,En expansión
+Y04515,Emergentes
+Y04518,Estables de bajo crecimiento
+Y04594,En expansión
+Y04600,Emergentes
+Y04605,En expansión
+Y04632,Estables de bajo crecimiento
+Y04662,Emergentes
+Y04664,Estables de bajo crecimiento
+Y04682,Estables de bajo crecimiento
+Y04702,Estables de bajo crecimiento
+Y04754,Estables de bajo crecimiento
+Y04809,Estables de bajo crecimiento
+Y04833,Estables de bajo crecimiento
+Y04869,En expansión
+Y04882,En expansión
+Y04884,Estables de bajo crecimiento
+Y04886,Emergentes
+Y04912,Emergentes
+Y04913,En expansión
+Y04920,Estables de bajo crecimiento
+Y04922,Emergentes
+Y04923,Emergentes
+Y04925,En expansión
+Y04950,Estables de bajo crecimiento
+Y04965,Cuentas clave
+Y04968,Estables de bajo crecimiento
+Y04969,Emergentes
+Y04975,Estables de bajo crecimiento
+Y04977,Estables de bajo crecimiento
+Y04995,Estables de bajo crecimiento
+Y04997,Estables de bajo crecimiento
+Y05023,Estables de bajo crecimiento
+Y05062,Emergentes
+Y05072,En expansión
+Y05074,Estables de bajo crecimiento
+Y05076,Estables de bajo crecimiento
+Y05080,Estables de bajo crecimiento
+Y05088,Emergentes
+Y05107,En expansión
+Y05110,En expansión
+Y05113,Emergentes
+Y05117,En expansión
+Y05141,En expansión
+Y05161,Estables de bajo crecimiento
+Y05167,Estables de bajo crecimiento
+Y05172,Emergentes
+Y05178,Estables de bajo crecimiento
+Y05190,Emergentes
+Y05192,Emergentes
+Y05212,En expansión
+Y05222,Estables de bajo crecimiento
+Y05231,En expansión
+Y05248,En expansión
+Y05257,Emergentes
+Y05258,En expansión
+Y05273,Emergentes
+Y05274,Estables de bajo crecimiento
+Y05286,Estables de bajo crecimiento
+Y05291,Estables de bajo crecimiento
+Y05317,Emergentes
+Y05318,En expansión
+Y05330,Estables de bajo crecimiento
+Y05336,Emergentes
+Y05339,Emergentes
+Y05346,Estables de bajo crecimiento
+Y05349,En expansión
+Y05363,Estables de bajo crecimiento
+Y05364,Estables de bajo crecimiento
+Y05369,En expansión
+Y05401,En expansión
+Y05404,Emergentes
+Y05408,En expansión
+Y05428,En expansión
+Y05445,Estables de bajo crecimiento
+Y05456,Emergentes
+Y05479,Estables de bajo crecimiento
+Y05493,En expansión
+Y05549,Estables de bajo crecimiento
+Y05608,Estables de bajo crecimiento
+Y05609,Estables de bajo crecimiento
+Y05611,Estables de bajo crecimiento
+Y05612,En expansión
+Y05614,En expansión
+Y05620,En expansión
+Y05622,En expansión
+Y05625,Emergentes
+Y05638,En expansión
+Y05686,Estables de bajo crecimiento
+Y05690,Estables de bajo crecimiento
+Y05712,En expansión
+Y05731,Estables de bajo crecimiento
+Y05733,Estables de bajo crecimiento
+Y05736,En expansión
+Y05749,Estables de bajo crecimiento
+Y05751,Estables de bajo crecimiento
+Y05754,En expansión
+Y05788,Estables de bajo crecimiento
+Y05819,En expansión
+Y05826,Emergentes
+Y05843,Estables de bajo crecimiento
+Y05855,Emergentes
+Y05857,Estables de bajo crecimiento
+Y05870,Estables de bajo crecimiento
+Y05890,Emergentes
+Y05892,En expansión
+Y05919,Estables de bajo crecimiento
+Y05920,Estables de bajo crecimiento
+Y06007,En expansión
+Y06052,Estables de bajo crecimiento
+Y06077,Estables de bajo crecimiento
+Y06079,Estables de bajo crecimiento
+Y06113,Estables de bajo crecimiento
+Y06129,Estables de bajo crecimiento
+Y06131,Emergentes
+Y06148,Emergentes
+Y06157,Estables de bajo crecimiento
+Y06159,Estables de bajo crecimiento
+Y06160,Estables de bajo crecimiento
+Y06169,Estables de bajo crecimiento
+Y06197,Estables de bajo crecimiento
+Y06208,En expansión
+Y06218,En expansión
+Y06244,Estables de bajo crecimiento
+Y06268,En expansión
+Y06270,Estables de bajo crecimiento
+Y06275,En expansión
+Y06281,En expansión
+Y06289,Estables de bajo crecimiento
+Y06291,Estables de bajo crecimiento
+Y06311,Emergentes
+Y06345,Estables de bajo crecimiento
+Y06356,Estables de bajo crecimiento
+Y06361,Emergentes
+Y06378,Emergentes
+Y06379,Estables de bajo crecimiento
+Y06380,Estables de bajo crecimiento
+Y06389,Estables de bajo crecimiento
+Y06390,Estables de bajo crecimiento
+Y06407,Estables de bajo crecimiento
+Y06443,Estables de bajo crecimiento
+Y06459,Emergentes
+Y06460,Estables de bajo crecimiento
+Y06481,En expansión
+Y06499,En expansión
+Y06528,Estables de bajo crecimiento
+Y06554,Estables de bajo crecimiento
+Y06585,Estables de bajo crecimiento
+Y06592,En expansión
+Y06659,En expansión
+Y06712,Estables de bajo crecimiento
+Y06717,Estables de bajo crecimiento
+Y06733,Estables de bajo crecimiento
+Y06752,Estables de bajo crecimiento
+Y06762,Estables de bajo crecimiento
+Y06780,Estables de bajo crecimiento
+Y06792,Estables de bajo crecimiento
+Y06798,Emergentes
+Y06810,Emergentes
+Y06834,Estables de bajo crecimiento
+Y06843,Emergentes
+Y06845,Estables de bajo crecimiento
+Y06868,En expansión
+Y06871,En expansión
+Y06881,Estables de bajo crecimiento
+Y06926,Estables de bajo crecimiento
+Y06966,En expansión
+Y06969,Estables de bajo crecimiento
+Y06979,Emergentes
+Y06990,En expansión
+Y07005,Estables de bajo crecimiento
+Y07009,Estables de bajo crecimiento
+Y07014,En expansión
+Y07017,Emergentes
+Y07020,Estables de bajo crecimiento
+Y07025,Estables de bajo crecimiento
+Y07057,Estables de bajo crecimiento
+Y07059,Cuentas clave
+Y07060,Estables de bajo crecimiento
+Y07076,En expansión
+Y07082,Estables de bajo crecimiento
+Y07123,Estables de bajo crecimiento
+Y07142,En expansión
+Y07155,Emergentes
+Y07166,Estables de bajo crecimiento
+Y07177,Emergentes
+Y07211,En expansión
+Y07275,Emergentes
+Y07386,Emergentes
+Y07489,En expansión
+Y07546,En expansión
