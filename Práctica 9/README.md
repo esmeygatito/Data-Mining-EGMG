@@ -4,7 +4,7 @@
 Generar una nube de palabras y realizar un análisis exploratorio a partir del texto de las presentaciones de medicamentos GLP-1 (`PRESENTACION`), para entender qué productos y qué dosis pesan en las recetas y conectarlo con la pregunta ancla del proyecto (composición del mercado por sustancia y su evolución en el tiempo).
 
 ## Dataset base
-Este análisis parte de `glp1_limpio.csv` (Práctica 1). **Limitación conocida:** a este archivo le faltan entre 30 % y 38 % de las filas desde febrero de 2025 (ver README de la Práctica 8), por lo que los volúmenes de 2025–2026 están subestimados.
+Este análisis parte de `glp1_limpio.csv` (Práctica 1). **Limitación conocida:** al archivo le faltan filas respecto a la fuente. En el revenue de todo el GLP-1 contiene ≈ 77–88 % del total real durante 2024 y ≈ 64–72 % desde febrero de 2025 (en 2021–2022, 99 %; ver README de la Práctica 8). Por eso los volúmenes de 2024 en adelante están subestimados, y no necesariamente en la misma proporción en cada sustancia.
 ```python
 df_final = pd.read_csv("../Práctica 1/glp1_limpio.csv", parse_dates=['FECHA'])
 ```
@@ -104,7 +104,7 @@ El volumen mensual de recetas pasó de 2,827 (marzo de 2024) a cerca de 209 mil 
 **Qué pasa con febrero de 2025.** La caída que se ve en la gráfica de volumen viene de las filas que se perdieron en la extracción (paginación sin `ORDER BY`, ver README de la Práctica 8); no es una caída real del mercado. El método de análisis (variables de texto, mezcla de dosis, porcentajes) sigue siendo válido y se puede aplicar a otra muestra de datos, pero los volúmenes desde febrero de 2025 están incompletos y, para tener cifras confiables, habría que volver a extraer los datos corrigiendo la paginación.
 
 ## Limitaciones
-- **Datos incompletos desde febrero de 2025.** Al dataset le faltan filas desde ese mes (ver README de la Práctica 8), así que el volumen de Mounjaro y Tirzepatide está subestimado y su crecimiento real es mayor que el que se ve. No verifiqué cuánto cambia su peso frente a las demás sustancias. Aun así, el crecimiento es claro, y eso es lo que me llevo para el negocio: reconocer que hay crecimiento.
+- **Datos incompletos.** Al dataset le faltan filas (ver README de la Práctica 8): en todo el GLP-1, desde 2024 (≈ 12–23 % del revenue) y más desde febrero de 2025 (≈ 28–36 %); en Tirzepatide, desde febrero de 2025. La pérdida no es igual en todas las sustancias, así que los rankings por recetas (la nube y la tabla de filas contra recetas) pueden estar sesgados; no verifiqué cuánto. El volumen de Mounjaro y Tirzepatide está subestimado y su crecimiento real es mayor que el que se ve. Aun así, el crecimiento es claro, y eso es lo que me llevo para el negocio: reconocer que hay crecimiento.
 - **Son datos de NHS England, no de México.** Allá la gente tiene hábitos de salud y un comportamiento distintos, así que no puedo traerme los insights específicos tal cual; habría que validarlos con datos de YZA.
 - **La nube cuenta recetas, no personas.** El dataset tampoco dice para qué se recetó cada producto (diabetes u obesidad), aunque estos medicamentos se usan en ambos casos. Lo que analicé es volumen de recetas, que sirve para ver qué pesa más como negocio.
 - **La dosis indica la etapa del tratamiento, no a las personas.** La mayoría de las recetas son de 5 y 7.5 mg (entre 62 % y 65 % en diciembre de 2025 y mayo de 2026), y las dosis altas siguen siendo minoría. Pero como no se puede seguir a un paciente en el tiempo, no sé si quien recibe 5 mg se queda ahí o abandona el tratamiento; para eso harían falta datos por paciente.
@@ -112,6 +112,7 @@ El volumen mensual de recetas pasó de 2,827 (marzo de 2024) a cerca de 209 mil 
 
 ## Archivos
 - `practica9.ipynb` — notebook de la práctica
+- `practica_9.py` — la misma práctica como script (genera las 3 gráficas)
 - `p9_nube_recetas.png` — nube de palabras ponderada por recetas
 - `p9_mezcla_dosis.png`, `p9_mezcla_dosis_volumen.png` — mezcla de dosis de Tirzepatide
 - Este `README.md`

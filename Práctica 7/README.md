@@ -4,7 +4,7 @@
 Crear y evaluar un modelo de agrupamiento con K-Means para segmentar a los consultorios (GP practices) según su tamaño, ritmo de crecimiento y mezcla de producto, y con eso responder la parte de la pregunta ancla que quedaba pendiente: **¿qué segmentos de consultorios están impulsando el crecimiento del revenue GLP-1?** Además se cruzan los segmentos con la región para retomar la parte geográfica de la pregunta.
 
 ## Dataset base
-Este análisis parte de `glp1_limpio.csv`, generado en la Práctica 1.
+Este análisis parte de `glp1_limpio.csv`, generado en la Práctica 1. **Limitación verificada:** al CSV le faltan filas respecto a la fuente (≈ 77–88 % del revenue real en 2024 y ≈ 64–72 % desde febrero de 2025); la sección 7 comprueba con datos exactos de la API qué parte de las conclusiones se sostiene.
 ```python
 df_final = pd.read_csv("../Práctica 1/glp1_limpio.csv", parse_dates=['FECHA'])
 ```
@@ -29,7 +29,7 @@ Un renglón por consultorio (`PRACTICE_CODE`), comparando dos periodos: **2021-2
 | `rev_2024_2025` | Revenue (`ACTUAL_COST`) del consultorio en 2024-2025 | Qué tan grande es hoy |
 | `crecimiento_pct` | % de cambio de revenue entre 2021-2022 y 2024-2025 | Qué tan rápido crece |
 | `pct_tirzepatide` | % de su revenue 2024-2025 que es Tirzepatide | Composición del ingreso por sustancia |
-| `costo_promedio_receta` | `revenue_total / items_total` | Qué tan caro es lo que receta |
+| `costo_promedio_receta` | `revenue_total / items_total` sobre **todo el periodo** (2021 – mayo 2026), no solo 2024-2025 | Qué tan caro es lo que receta |
 
 ### Variables descartadas
 - `meses_activo`: más del 75% de los consultorios vale 65 (activos todos los meses), así que casi no separa grupos.
@@ -196,8 +196,54 @@ Porcentaje de los consultorios de cada región que pertenece a cada segmento (ca
 
 ---
 
+## 7. Verificación con datos exactos de la API
+
+Después de detectar que `glp1_limpio.csv` está incompleto (ver README de la Práctica 8), se comprobó si las conclusiones de esta práctica se sostienen con datos exactos.
+
+**Qué tan completo estaba el CSV** (revenue de los 6 GLP-1, CSV contra API):
+
+| Periodo | % del revenue real que contiene el CSV |
+|---|---|
+| 2021 – 2022 | 99.1 % (£383.7 M contra £387.1 M) |
+| 2024 | 77 % – 87 % |
+| Enero 2025 | 88 % |
+| Feb 2025 – May 2026 | 64 % – 72 % |
+
+La base de comparación (2021-2022) estaba casi completa; el periodo 2024-2025, no. Por eso `rev_2024_2025`, `crecimiento_pct`, `pct_tirzepatide` y `costo_promedio_receta` estaban subestimados o distorsionados.
+
+**Método.** Se reconstruyeron las 4 variables con totales exactos de la API (una consulta por mes, agrupada por consultorio, de 2021 a mayo de 2026) y se **asignó cada consultorio con el mismo modelo ya entrenado** (`scaler` y K-Means con k=4), sin reentrenar. Quedan 6,700 consultorios en ambos periodos (6,642 en el original; 58 más aparecen con datos exactos).
+
+**¿Cambian de segmento?** Filas: segmento original. Columnas: segmento con datos exactos (solo los 6,642 originales).
+
+| Original \ Exacto | Cuentas clave | Emergentes | En expansión | Estables de bajo crecimiento |
+|---|---|---|---|---|
+| Cuentas clave | 1,193 | 54 | 0 | 0 |
+| Emergentes | 0 | 554 | 0 | 0 |
+| En expansión | 313 | 501 | 1,581 | 8 |
+| Estables de bajo crecimiento | 347 | 81 | 380 | 1,630 |
+
+El 74.7 % (4,958 de 6,642) se queda en su segmento. Los cambios son casi todos hacia segmentos de mayor tamaño o crecimiento; solo 8 consultorios bajan a Estables.
+
+**¿Se sostiene la conclusión?** Aporte al crecimiento con los mismos 6,455 consultorios del ajuste original:
+
+| Segmento | % de consultorios (original → exacto) | % del crecimiento (original → exacto) | Aporte vs. peso (exacto) |
+|---|---|---|---|
+| Cuentas clave | 18.3 → 27.7 | 48.1 → **55.8** | 2.01 |
+| En expansión | 36.7 → 30.0 | 26.3 → 15.7 | 0.52 |
+| Emergentes | 7.2 → 17.0 | 11.3 → 20.0 | 1.18 |
+| Estables de bajo crecimiento | 37.8 → 25.4 | 14.3 → 8.6 | 0.34 |
+
+Con datos exactos sigue siendo cierto que las **Cuentas clave aportan más de la mitad del crecimiento** (55.8 %) y que los Estables aportan poco (8.6 %); el orden de "aporte vs. peso" se mantiene. Lo que cambia son los **tamaños** de los segmentos.
+
+**Por qué casi todos suben de segmento.** Al CSV original le faltaban filas justo en las fechas más recientes (2024 en adelante), que es cuando el GLP-1 se volvió más popular. Con datos exactos, cada consultorio tiene más revenue y más crecimiento en esos meses, pero el modelo conserva el escalado y los centros aprendidos con datos subestimados, así que la mayoría queda más cerca de los segmentos de mayor tamaño o crecimiento. Es consistente con la comparación de completitud (la base de 2021-2022 estaba casi completa y 2024-2025 no), aunque no se hizo una prueba aparte que lo demuestre.
+
+**Alcance:** no se reentrenó K-Means con datos exactos. Los porcentajes de las secciones 3 a 6 se calcularon con el CSV; los de esta sección, con datos exactos. Los totales por consultorio y mes que alimentan esta verificación (`api_2021_2026_por_consultorio.csv`, ≈ 420 mil filas) se obtuvieron con consultas a la API y no se suben al repositorio.
+
+---
+
 ## Limitaciones
 - **Estructura débil:** con silueta de ~0.25, los segmentos son una forma útil de ordenar los consultorios, no grupos naturales.
 - **El crecimiento mezcla desempeño con momento de adopción:** Tirzepatide arrancó en 2023; un consultorio que "crece mucho" puede ser simplemente uno que la adoptó pronto.
 - **Extremos:** se excluyó el 2.8% de los consultorios del ajuste (6.7% del revenue, 8.2% del crecimiento); los porcentajes por segmento se calculan sobre el resto.
-
+- **Datos de origen incompletos:** el CSV tenía ≈ 77–88 % del revenue real en 2024 y ≈ 64–72 % desde febrero de 2025. La sección 7 verifica con datos exactos que la conclusión principal se sostiene, pero los porcentajes de las secciones 3 a 6 se calcularon con el CSV.
+- **`costo_promedio_receta` usa todo el periodo** (2021 – mayo 2026), no solo 2024-2025 como las demás variables.

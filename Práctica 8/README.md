@@ -108,7 +108,18 @@ Desde febrero de 2025 al dataset le falta entre 30 % y 39 % de las filas de Tirz
 
 **Efecto en esta práctica:** con la serie incompleta las unidades parecían aplanarse en ~200 mil y Holt mostraba un MAPE de 3.9 %; con la serie exacta el error del mismo modelo en el test es 9.4 %, y la desaceleración es real pero mucho más moderada. Por eso la práctica usa la serie de la API.
 
-**Efecto en las demás prácticas:** las Prácticas 2–7 se calcularon sobre `glp1_limpio.csv`. Los totales absolutos de 2025–2026 están subestimados; las comparaciones relativas (perfiles de consultorios, segmentos, mezcla) podrían estar menos afectadas, pero **no se verificó**, por lo que se reportan con esta salvedad.
+**Alcance real del problema (verificación posterior).** La tabla anterior es solo de Tirzepatide. Al comparar mes por mes el revenue de **todo el GLP-1** del CSV contra la API, la pérdida empieza antes y no es igual en todas las sustancias:
+
+| Periodo | % del revenue de GLP-1 real que contiene el CSV |
+|---|---|
+| 2021 – 2022 | 99.1 % |
+| 2024 | 77 % – 87 % |
+| Enero 2025 | 88 % |
+| Feb 2025 – May 2026 | 64 % – 72 % |
+
+(2023 no se midió.) Esto es consistente con la explicación de la paginación sin `ORDER BY` (se pierden más filas mientras más grande es la tabla), pero **no se probó** como causa.
+
+**Efecto en las demás prácticas:** las Prácticas 2–7 se calcularon sobre `glp1_limpio.csv`, así que los totales absolutos de 2024 en adelante están subestimados. La **Práctica 7 sí se verificó** con datos exactos de la API (ver su README): la conclusión principal se sostiene. Las demás se reportan con esta salvedad.
 
 ## Limitaciones
 - **Serie corta (30 meses)** y sin estacionalidad estimable; el pronóstico a 6 meses ya es un horizonte largo para ese tamaño.
@@ -117,7 +128,7 @@ Desde febrero de 2025 al dataset le falta entre 30 % y 39 % de las filas de Tirz
 - **φ = 0.977 es cercano a 1**: el amortiguamiento es suave y el pronóstico sigue creciendo casi en línea recta (~+8 mil unidades al mes). Además, septiembre 2026 (390 mil) queda por encima de agosto (365 mil) porque el nivel del modelo está anclado al pico de julio.
 - **El pronóstico de revenue supone precio constante** (£218.1). Si el precio vuelve a cambiar como en septiembre de 2025, el efecto sería mayor que el ±10 % evaluado.
 - Cifras de todo NHS England, no de clientes de YZA.
-- Se exploró cómo se reparte el revenue por segmento (los de la Práctica 7) a lo largo del tiempo, pero **no se reporta** porque depende de `glp1_limpio.csv`, que tiene datos faltantes desde febrero de 2025.
+- Se exploró cómo se reparte el revenue por segmento (los de la Práctica 7) a lo largo del tiempo, pero **no se reporta** porque depende de `glp1_limpio.csv`, que tiene datos faltantes desde 2024.
 
 ## Relevancia para la pregunta ancla
 La Práctica 7 identificó *quiénes* crecen (segmentos de consultorios), y ese crecimiento estaba muy ligado a la adopción de Tirzepatide. Esta práctica proyecta esa sustancia a nivel NHS England: cuánto puede crecer y cuánto revenue implica, con la salvedad de que el pronóstico es agregado y no por segmento.
@@ -126,3 +137,10 @@ La Práctica 7 identificó *quiénes* crecen (segmentos de consultorios), y ese 
 - **Separar volumen de precio antes de modelar revenue:** el cambio de precio de septiembre de 2025 habría parecido crecimiento de demanda.
 - **Validar contra una línea base y contra datos que el modelo no vio**, no solo con un split interno.
 - **Verificar los datos contra la fuente antes de confiar en una tendencia:** la serie incompleta daba un error de 3.9 % que no era real.
+
+## Archivos
+- `practica8.ipynb` — serie desde la API, comparación de modelos, validación real, pronóstico y escenarios
+- `practica_8.py` — la misma práctica como script
+- `p8_pronostico.png` — serie completa y pronóstico a 6 meses
+- `p8_validacion.png` — modelos contra datos reales (jun – ago 2026)
+- Este `README.md`

@@ -43,3 +43,16 @@ Correr `glp1_extraccion.ipynb` de inicio a fin regenera `glp1_crudo.csv` y `glp1
 | `ACTUAL_COST` | numérico | Costo real reembolsado, en GBP, después de ajustes por descuento nacional promedio. Variable principal de "revenue" para el análisis. |
 | `ADQ_USAGE` | numérico | Average Daily Quantity — dosis diaria promedio calculada a partir de la cantidad prescrita. |
 | `UNIDENTIFIED` | texto (Y/N) | Bandera de NHS que indica si la receta pudo asignarse con certeza a un consultorio conocido. |
+
+### Limitación conocida: filas faltantes
+
+Al comparar `glp1_limpio.csv` contra totales calculados por la API (revenue de los 6 GLP-1, mes por mes), el CSV contiene:
+
+| Periodo | % del revenue real |
+|---|---|
+| 2021 – 2022 | 99.1 % |
+| 2024 | 77 % – 87 % |
+| Enero 2025 | 88 % |
+| Feb 2025 – May 2026 | 64 % – 72 % |
+
+(2023 no se midió.) La causa más probable es que la extracción paginaba con LIMIT/OFFSET sin ORDER BY, lo que en BigQuery puede repetir algunas filas y omitir otras; no se probó como causa para todos los meses. Las prácticas 7 y 8 se verificaron con datos exactos de la API (ver sus README); las demás se reportan con esta salvedad.
